@@ -1,4 +1,5 @@
 import csv
+import inflect
 import itertools
 import torch
 
@@ -8,6 +9,7 @@ from nltk.corpus import wordnet as wn
 from collections import defaultdict, Counter
 from dataclasses import dataclass, field
 
+engine = inflect.engine()
 
 @dataclass
 class Concept:
@@ -20,12 +22,18 @@ class Concept:
     def __post_init__(self):
         self.id: str = f'{self.concept}-concept'
 
+@dataclass
+class Feature:
+    feature: str
+    feature_type: str
+
 class World(object):
-    def __init__(self, concept_path = "../data/concept_senses.csv", feature_path = '../data/xcslb_compressed.csv', matrix_path = "../data/concept_matrix.txt"):
+    def __init__(self, concept_path = "../data/concept_senses.csv", feature_path = '../data/xcslb_compressed.csv', matrix_path = "../data/concept_matrix.txt", feature_metadata = "../data/feature_metadata.csv"):
         
         self.concept_path = concept_path
         self.feature_path = feature_path
         self.matrix_path = matrix_path
+        self.feature_metadata = feature_metadata
         self.concepts: list = []
         self.features: list = []
         self.categories: dict = {}
@@ -34,6 +42,7 @@ class World(object):
         self.concept_features: dict = None
         self.feature_space: dict = None
         self.vectors: torch.Tensor = None
+        self.feature_lexicon: dict = None
             
     def create(self):
         self.taxonomy = self.load_taxonomy()
@@ -48,7 +57,7 @@ class World(object):
     
     def similarity(self, s1, s2):
         '''
-        take two lists of concepts and return their jaccard similarity (overlap in properties)
+        Take two lists of concepts and return their jaccard similarity (overlap in properties)
         '''
         s1 = [s1] if isinstance(s1, str) else s1
         s2 = [s2] if isinstance(s2, str) else s2
@@ -90,7 +99,13 @@ class World(object):
         concepts = []
         features = []
         concept_features = defaultdict(set)
+        self.feature_lexicon = defaultdict(Feature)
         categories = {}
+
+        with open(self.feature_metadata, 'r') as f:
+            reader = csv.DictReader(f)
+            for line in reader:
+                self.feature_lexicon[line['phrase']] = Feature(feature=line['phrase'], feature_type=line['feature_type'])
 
         with open(self.feature_path, 'r') as f:
             reader = csv.DictReader(f)
@@ -118,10 +133,14 @@ class World(object):
 
         concept_features.default_factory = None
         feature_space.default_factory = None
+        self.feature_lexicon.default_factory = None
 
         return feature_space, concept_features, features, concepts, categories
 
     def load_taxonomy(self):
+        '''
+        Builds a taxonomy using WordNet senses of the noun concepts in our database.
+        '''
         Taxonomy = taxonomy.Nodeset(taxonomy.Node)
         self.lexicon = defaultdict(Concept)
 
@@ -167,3 +186,14 @@ class World(object):
         self.lexicon.default_factory = None
 
         return Taxonomy
+
+    def verbalize(self, concept, feature_phrase):
+        '''
+        Verbalizes a pair of concept and feature_phrase into natural language sentence.
+        '''
+        if concept in self.concepts:
+            article = self.lexicon[concept].article
+        else:
+            article = engine.a(concept)
+
+        return f'{article} {feature_phrase}.'
