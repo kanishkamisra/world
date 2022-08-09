@@ -175,9 +175,9 @@ class World(object):
                     path = path[idx+1:]
 
                     parent = 'entity'
-                    for s in path:
-                        name = s.lemma_names()[0].replace("_", " ")
-                        name = s.name()
+                    for synset in path:
+                        name = synset.lemma_names()[0].replace("_", " ")
+                        name = synset.name()
                         Taxonomy[parent].add_child(Taxonomy[name])
                         parent = name
                     Taxonomy[parent].add_child(Taxonomy[f"{instance['concept']}"])
@@ -187,7 +187,7 @@ class World(object):
 
         return Taxonomy
 
-    def verbalize(self, concept, feature_phrase):
+    def verbalize(self, concept, feature_phrase, templated=False):
         '''
         Verbalizes a pair of concept and feature_phrase into natural language sentence.
         '''
@@ -196,4 +196,7 @@ class World(object):
         else:
             article = engine.a(concept)
 
-        return f'{article} {feature_phrase}.'
+        if templated:
+            return f'<c> {concept} </c> <p> {feature_phrase} </p>'
+        else:
+            return f'{article} {feature_phrase}.'
