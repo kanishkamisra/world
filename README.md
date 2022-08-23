@@ -2,16 +2,20 @@
 
 Create mini-worlds consisting of concepts, their properties, their hierarchical organization, and ways to query for various related information.
 
+This repo is in active development, so pls no judging code :face_in_clouds:	
+
 ## Requirements
 
 All the following packages can be installed using `pip`
 
-- semantic_memory
+- semantic_memory*
 - torch (> 1.8)
 - nltk (3.7)
 - numpy
 - inflect
 - pattern (optional, if you want to run `src/negate.py`)
+
+*Note: run `pip install semantic-memory -U` just in case
 
 
 ## Key datasets
