@@ -117,8 +117,8 @@ class World(object):
                 
                 concept_features[line['concept']].add(line['feature'])
                 
-        concepts = list(set(concepts))
-        features = list(set(features))
+        concepts = sorted(list(set(concepts)))
+        features = sorted(list(set(features)))
 
         feature_space = defaultdict(lambda: defaultdict(list))
 
@@ -152,7 +152,7 @@ class World(object):
                 # formatted as category, concept, sensekey, article
                 if instance['concept'] != "kitchen_scales" and instance['category'] != 'reading':
                     try:
-                        item = wn.synset_from_sense_key(instance['sensekey'])
+                        item = wn.lemma_from_key(instance['sensekey']).synset()
                         self.lexicon[instance['concept']] = Concept(
                             instance['concept'],
                             instance['category'],

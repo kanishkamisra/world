@@ -112,7 +112,6 @@ alligator,can be found in forests,1,land animal
 alligator,can be found in rivers,1,land animal
 alligator,can be found in swamps,1,land animal
 alligator,can be found in the wild,1,land animal
-alligator,can be found in water,1,land animal
 alligator,can be found in zoos,1,land animal
 alligator,can be found on land,1,land animal
 alligator,can be scary,1,land animal
@@ -131,7 +130,6 @@ alligator,can eat,1,land animal
 alligator,can eat animals,1,land animal
 alligator,can grow,1,land animal
 alligator,can growl,1,land animal
-alligator,can have sharp teeth,1,land animal
 alligator,can hunt,1,land animal
 alligator,can kill,1,land animal
 alligator,can kill people,1,land animal
@@ -180,6 +178,7 @@ alligator,has legs,1,land animal
 alligator,has rough skin,1,land animal
 alligator,has scales,1,land animal
 alligator,has scaly skin,1,land animal
+alligator,has sharp teeth,1,land animal
 alligator,has skin,1,land animal
 alligator,has small feet,1,land animal
 alligator,has small legs,1,land animal
@@ -199,7 +198,7 @@ alligator,is cold blooded,1,land animal
 alligator,is eaten as meat,1,land animal
 alligator,is endangered,1,land animal
 alligator,is found in freshwater,1,land animal
-alligator,is found on water,1,land animal
+alligator,is found in water,1,land animal
 alligator,is green in color,1,land animal
 alligator,is hunted by humans,1,land animal
 alligator,is hunted for its skin,1,land animal
@@ -1420,7 +1419,7 @@ barge,is a type of boat,1,water vehicle
 barge,is a vehicle,1,water vehicle
 barge,is a vessel,1,water vehicle
 barge,is buoyant,1,water vehicle
-barge,is found on water,1,water vehicle
+barge,is found in water,1,water vehicle
 barge,is manmade,1,water vehicle
 barge,is manned by a crew,1,water vehicle
 barge,is moveable,1,water vehicle
@@ -1580,6 +1579,7 @@ bat,can be found in zoos,1,land animal
 bat,can be found living in large groups,1,land animal
 bat,can be found on land,1,land animal
 bat,can be scary,1,land animal
+bat,can be violent,1,land animal
 bat,can bite,1,land animal
 bat,can bleed,1,land animal
 bat,can breathe,1,land animal
@@ -1590,7 +1590,6 @@ bat,can eat,1,land animal
 bat,can fly,1,land animal
 bat,can grow,1,land animal
 bat,can hang upside down,1,land animal
-bat,can have sharp teeth,1,land animal
 bat,can hunt,1,land animal
 bat,can lick,1,land animal
 bat,can make a squeaky noise,1,land animal
@@ -1623,6 +1622,7 @@ bat,has forelimbs,1,land animal
 bat,has fur,1,land animal
 bat,has good hearing,1,land animal
 bat,has legs,1,land animal
+bat,has sharp teeth,1,land animal
 bat,has skin,1,land animal
 bat,has teeth,1,land animal
 bat,has two eyes,1,land animal
@@ -1839,7 +1839,6 @@ bear,can eat animals,1,land animal
 bear,can gallop,1,land animal
 bear,can grow,1,land animal
 bear,can growl,1,land animal
-bear,can have sharp teeth,1,land animal
 bear,can hibernate,1,land animal
 bear,can hunt,1,land animal
 bear,can kill,1,land animal
@@ -1878,6 +1877,7 @@ bear,has fur,1,land animal
 bear,has large paws,1,land animal
 bear,has legs,1,land animal
 bear,has paws,1,land animal
+bear,has sharp teeth,1,land animal
 bear,has skin,1,land animal
 bear,has teeth,1,land animal
 bear,has two eyes,1,land animal
@@ -1896,9 +1896,9 @@ beaver,can be found in a dam,1,land animal
 beaver,can be found in forests,1,land animal
 beaver,can be found in rivers,1,land animal
 beaver,can be found in the wild,1,land animal
-beaver,can be found in water,1,land animal
 beaver,can be found in zoos,1,land animal
 beaver,can be found on land,1,land animal
+beaver,can be violent,1,land animal
 beaver,can bite,1,land animal
 beaver,can bleed,1,land animal
 beaver,can breathe,1,land animal
@@ -1914,7 +1914,6 @@ beaver,can eat,1,land animal
 beaver,can eat plants,1,land animal
 beaver,can gnaw,1,land animal
 beaver,can grow,1,land animal
-beaver,can have sharp teeth,1,land animal
 beaver,can lick,1,land animal
 beaver,can make sounds,1,land animal
 beaver,can move,1,land animal
@@ -1949,6 +1948,7 @@ beaver,has hands,1,land animal
 beaver,has large teeth,1,land animal
 beaver,has legs,1,land animal
 beaver,has paws,1,land animal
+beaver,has sharp teeth,1,land animal
 beaver,has skin,1,land animal
 beaver,has small paws,1,land animal
 beaver,has strong teeth,1,land animal
@@ -1964,6 +1964,7 @@ beaver,is a living thing,1,land animal
 beaver,is a mammal,1,land animal
 beaver,is a rodent,1,land animal
 beaver,is an animal,1,land animal
+beaver,is found in water,1,land animal
 beaver,is made of cells,1,land animal
 beaver,is made of flesh,1,land animal
 beaver,is semi aquatic,1,land animal
@@ -2151,7 +2152,6 @@ beetle,can eat,1,invertebrate
 beetle,can eat plants,1,invertebrate
 beetle,can fly,1,invertebrate
 beetle,can grow,1,invertebrate
-beetle,can have spots on its body,1,invertebrate
 beetle,can lay eggs,1,invertebrate
 beetle,can make sounds,1,invertebrate
 beetle,can move,1,invertebrate
@@ -2179,6 +2179,7 @@ beetle,has legs,1,invertebrate
 beetle,has pincers,1,invertebrate
 beetle,has six legs,1,invertebrate
 beetle,has skin,1,invertebrate
+beetle,has spots on its body,1,invertebrate
 beetle,has wings,1,invertebrate
 beetle,is a herbivore,1,invertebrate
 beetle,is a living thing,1,invertebrate
@@ -2425,6 +2426,7 @@ birch,can blow in the wind,1,tree
 birch,can grow,1,tree
 birch,can house birds,1,tree
 birch,can provide shade,1,tree
+birch,can reproduce,1,tree
 birch,has a hard surface,1,tree
 birch,has a stem,1,tree
 birch,has a trunk,1,tree
@@ -2676,7 +2678,7 @@ boat,is a type of boat,1,water vehicle
 boat,is a vehicle,1,water vehicle
 boat,is a vessel,1,water vehicle
 boat,is buoyant,1,water vehicle
-boat,is found on water,1,water vehicle
+boat,is found in water,1,water vehicle
 boat,is manmade,1,water vehicle
 boat,is manned by a crew,1,water vehicle
 boat,is moveable,1,water vehicle
@@ -3153,6 +3155,7 @@ brandy,is drunk with food,1,drink
 brandy,is flammable,1,drink
 brandy,is involved in special occasions,1,drink
 brandy,is liquid,1,drink
+brandy,is made from wine,1,drink
 brandy,is made of alcohol,1,drink
 brandy,is made of grapes,1,drink
 brandy,is popular at parties,1,drink
@@ -3160,7 +3163,6 @@ brandy,is produced by distilling wine,1,drink
 brandy,is served at fine-dining restaurants,1,drink
 brandy,is used during cooking,1,drink
 brandy,is used on Christmas pudding,1,drink
-brandy,made of wine,1,drink
 brandy,provides warmth,1,drink
 bread,can be bought and sold at supermarkets,1,food
 bread,can be brown in color,1,food
@@ -3291,11 +3293,11 @@ broom,has bristles,1,tool
 broom,is a tool,1,tool
 broom,is handheld,1,tool
 broom,is held in hand,1,tool
+broom,is made of wood and bristles,1,tool
 broom,is manmade,1,tool
 broom,is portable,1,tool
 broom,is rigid,1,tool
 broom,is used by hand,1,tool
-broom,made of wood and bristles,1,tool
 broom,requires skill to use,1,tool
 brussels_sprout,can be bitter in taste,1,vegetable
 brussels_sprout,can be bought and sold at supermarkets,1,vegetable
@@ -4150,6 +4152,7 @@ calf,can be found in the wild,1,land animal
 calf,can be found in zoos,1,land animal
 calf,can be found on farms,1,land animal
 calf,can be found on land,1,land animal
+calf,can be violent,1,land animal
 calf,can be white in color,1,land animal
 calf,can bite,1,land animal
 calf,can bleed,1,land animal
@@ -4159,7 +4162,6 @@ calf,can drool,1,land animal
 calf,can eat,1,land animal
 calf,can eat plants,1,land animal
 calf,can grow,1,land animal
-calf,can have spots on its body,1,land animal
 calf,can lick,1,land animal
 calf,can make sounds,1,land animal
 calf,can move,1,land animal
@@ -4195,6 +4197,7 @@ calf,has leathery skin,1,land animal
 calf,has legs,1,land animal
 calf,has long legs,1,land animal
 calf,has skin,1,land animal
+calf,has spots on its body,1,land animal
 calf,has strong muscles,1,land animal
 calf,has teeth,1,land animal
 calf,has two eyes,1,land animal
@@ -4229,6 +4232,7 @@ camel,can be found on land,1,land animal
 camel,can be ridden,1,land animal
 camel,can be tall,1,land animal
 camel,can be used for transportation,1,land animal
+camel,can be violent,1,land animal
 camel,can be yellow in color,1,land animal
 camel,can bite,1,land animal
 camel,can bleed,1,land animal
@@ -4469,7 +4473,7 @@ canary,is made of flesh,1,bird
 canary,is streamlined,1,bird
 canary,is warm blooded,1,bird
 canary,is yellow in color,1,bird
-canary,were used in mines,1,bird
+canary,was used by miners,1,bird
 cannon,can be aimed,1,weapon
 cannon,can be black in color,1,weapon
 cannon,can be dangerous,1,weapon
@@ -4544,7 +4548,7 @@ canoe,is a small boat,1,water vehicle
 canoe,is a type of boat,1,water vehicle
 canoe,is a vehicle,1,water vehicle
 canoe,is buoyant,1,water vehicle
-canoe,is found on water,1,water vehicle
+canoe,is found in water,1,water vehicle
 canoe,is held by ropes,1,water vehicle
 canoe,is manmade,1,water vehicle
 canoe,is moveable,1,water vehicle
@@ -4786,6 +4790,7 @@ carnation,can be yellow in color,1,flower
 carnation,can blow in the wind,1,flower
 carnation,can come in multiple colors,1,flower
 carnation,can grow,1,flower
+carnation,can reproduce,1,flower
 carnation,comes in different varieties,1,flower
 carnation,grows from a bulb,1,flower
 carnation,has a green stalk,1,flower
@@ -4824,7 +4829,6 @@ carp,can be fished,1,fish
 carp,can be found in rivers,1,fish
 carp,can be found in seas,1,fish
 carp,can be found in the wild,1,fish
-carp,can be found in water,1,fish
 carp,can be found on ponds,1,fish
 carp,can be found underwater,1,fish
 carp,can be oily,1,fish
@@ -4835,6 +4839,7 @@ carp,can drink,1,fish
 carp,can eat,1,fish
 carp,can grow,1,fish
 carp,can lay eggs,1,fish
+carp,can lick,1,fish
 carp,can move,1,fish
 carp,can reproduce,1,fish
 carp,can sleep,1,fish
@@ -4847,6 +4852,7 @@ carp,has a fishy smell,1,fish
 carp,has a head,1,fish
 carp,has a mouth,1,fish
 carp,has a tail,1,fish
+carp,has a tongue,1,fish
 carp,has bones,1,fish
 carp,has eyes,1,fish
 carp,has fins,1,fish
@@ -4868,6 +4874,7 @@ carp,is aquatic,1,fish
 carp,is cold blooded,1,fish
 carp,is fished in nets,1,fish
 carp,is found in freshwater,1,fish
+carp,is found in water,1,fish
 carp,is hunted,1,fish
 carp,is made of cells,1,fish
 carp,is made of flesh,1,fish
@@ -5055,18 +5062,20 @@ castanets,is popular with children,1,music
 castanets,is portable,1,music
 castanets,is rhythmic,1,music
 castanets,is round in shape,1,music
+castanets,is shaped like a shell,1,music
 castanets,is traditional,1,music
 castanets,is used in baroque music,1,music
 castanets,is used in Spanish dancing,1,music
-castanets,made of shells,1,music
 castanets,requires skill to play,1,music
 castanets,requires skill to use,1,music
 cat,can be a pet,1,land animal
 cat,can be black in color,1,land animal
+cat,can be fast,1,land animal
 cat,can be found in forests,1,land animal
 cat,can be found in the wild,1,land animal
 cat,can be found on land,1,land animal
 cat,can be trained,1,land animal
+cat,can be violent,1,land animal
 cat,can bite,1,land animal
 cat,can bleed,1,land animal
 cat,can breathe,1,land animal
@@ -5122,6 +5131,7 @@ cat,has fur,1,land animal
 cat,has legs,1,land animal
 cat,has paws,1,land animal
 cat,has pointy ears,1,land animal
+cat,has sharp teeth,1,land animal
 cat,has skin,1,land animal
 cat,has strong muscles,1,land animal
 cat,has teeth,1,land animal
@@ -5731,9 +5741,6 @@ cheetah,can eat animals,1,land animal
 cheetah,can gallop,1,land animal
 cheetah,can grow,1,land animal
 cheetah,can growl,1,land animal
-cheetah,can have black spots,1,land animal
-cheetah,can have sharp teeth,1,land animal
-cheetah,can have spots on its body,1,land animal
 cheetah,can hunt,1,land animal
 cheetah,can jump,1,land animal
 cheetah,can kill,1,land animal
@@ -5764,6 +5771,7 @@ cheetah,has a thorax,1,land animal
 cheetah,has a tongue,1,land animal
 cheetah,has an insatiable appetite,1,land animal
 cheetah,has babies that are called cubs,1,land animal
+cheetah,has black spots,1,land animal
 cheetah,has bones,1,land animal
 cheetah,has claws,1,land animal
 cheetah,has ears,1,land animal
@@ -5779,7 +5787,9 @@ cheetah,has legs,1,land animal
 cheetah,has paws,1,land animal
 cheetah,has rounded ears,1,land animal
 cheetah,has sharp claws,1,land animal
+cheetah,has sharp teeth,1,land animal
 cheetah,has skin,1,land animal
+cheetah,has spots on its body,1,land animal
 cheetah,has strong muscles,1,land animal
 cheetah,has teeth,1,land animal
 cheetah,has two eyes,1,land animal
@@ -5926,6 +5936,7 @@ chestnut,can blow in the wind,1,tree
 chestnut,can grow,1,tree
 chestnut,can house birds,1,tree
 chestnut,can provide shade,1,tree
+chestnut,can reproduce,1,tree
 chestnut,grows on trees,1,tree
 chestnut,has a glossy surface,1,tree
 chestnut,has a green case,1,tree
@@ -6058,6 +6069,7 @@ chipmunk,can be found in the wild,1,land animal
 chipmunk,can be found in zoos,1,land animal
 chipmunk,can be found on land,1,land animal
 chipmunk,can be found on trees,1,land animal
+chipmunk,can be violent,1,land animal
 chipmunk,can be white in color,1,land animal
 chipmunk,can bite,1,land animal
 chipmunk,can bleed,1,land animal
@@ -6070,7 +6082,6 @@ chipmunk,can drool,1,land animal
 chipmunk,can eat,1,land animal
 chipmunk,can gnaw,1,land animal
 chipmunk,can grow,1,land animal
-chipmunk,can have sharp teeth,1,land animal
 chipmunk,can lick,1,land animal
 chipmunk,can make a squeaky noise,1,land animal
 chipmunk,can make sounds,1,land animal
@@ -6112,6 +6123,7 @@ chipmunk,has large teeth,1,land animal
 chipmunk,has legs,1,land animal
 chipmunk,has patterns on its body,1,land animal
 chipmunk,has paws,1,land animal
+chipmunk,has sharp teeth,1,land animal
 chipmunk,has skin,1,land animal
 chipmunk,has striped patterns,1,land animal
 chipmunk,has teeth,1,land animal
@@ -6321,7 +6333,6 @@ clam,can be eaten,1,sea creature
 clam,can be fished,1,sea creature
 clam,can be found in seas,1,sea creature
 clam,can be found in the wild,1,sea creature
-clam,can be found in water,1,sea creature
 clam,can be found on beaches,1,sea creature
 clam,can be found underwater,1,sea creature
 clam,can be soft,1,sea creature
@@ -6371,6 +6382,7 @@ clam,is aquatic,1,sea creature
 clam,is cold blooded,1,sea creature
 clam,is eaten by humans,1,sea creature
 clam,is fished in nets,1,sea creature
+clam,is found in water,1,sea creature
 clam,is made of cells,1,sea creature
 clam,is made of flesh,1,sea creature
 clam,is made of muscles,1,sea creature
@@ -6941,7 +6953,6 @@ cod,can be eaten with chips,1,fish
 cod,can be fished,1,fish
 cod,can be found in seas,1,fish
 cod,can be found in the wild,1,fish
-cod,can be found in water,1,fish
 cod,can be found underwater,1,fish
 cod,can be silver in color,1,fish
 cod,can be sold fresh,1,fish
@@ -6953,6 +6964,7 @@ cod,can drink,1,fish
 cod,can eat,1,fish
 cod,can grow,1,fish
 cod,can lay eggs,1,fish
+cod,can lick,1,fish
 cod,can move,1,fish
 cod,can reproduce,1,fish
 cod,can sleep,1,fish
@@ -6967,6 +6979,7 @@ cod,has a head,1,fish
 cod,has a mouth,1,fish
 cod,has a strong smell,1,fish
 cod,has a tail,1,fish
+cod,has a tongue,1,fish
 cod,has bones,1,fish
 cod,has eyes,1,fish
 cod,has fins,1,fish
@@ -6988,6 +7001,7 @@ cod,is eaten by humans,1,fish
 cod,is endangered,1,fish
 cod,is fished in nets,1,fish
 cod,is flaky,1,fish
+cod,is found in water,1,fish
 cod,is hunted,1,fish
 cod,is made of cells,1,fish
 cod,is made of flesh,1,fish
@@ -7326,8 +7340,6 @@ cow,can drool,1,land animal
 cow,can eat,1,land animal
 cow,can eat plants,1,land animal
 cow,can grow,1,land animal
-cow,can have black spots,1,land animal
-cow,can have spots on its body,1,land animal
 cow,can lick,1,land animal
 cow,can make sounds,1,land animal
 cow,can move,1,land animal
@@ -7351,6 +7363,7 @@ cow,has a thorax,1,land animal
 cow,has a tongue,1,land animal
 cow,has babies that are called calves,1,land animal
 cow,has big eyes,1,land animal
+cow,has black spots,1,land animal
 cow,has bones,1,land animal
 cow,has ears,1,land animal
 cow,has eyes,1,land animal
@@ -7364,6 +7377,7 @@ cow,has leathery skin,1,land animal
 cow,has legs,1,land animal
 cow,has patches on its body,1,land animal
 cow,has skin,1,land animal
+cow,has spots on its body,1,land animal
 cow,has teeth,1,land animal
 cow,has two eyes,1,land animal
 cow,has whiskers,1,land animal
@@ -7389,7 +7403,6 @@ crab,can be fished,1,sea creature
 crab,can be found in rock pools,1,sea creature
 crab,can be found in seas,1,sea creature
 crab,can be found in the wild,1,sea creature
-crab,can be found in water,1,sea creature
 crab,can be found on beaches,1,sea creature
 crab,can be found on land,1,sea creature
 crab,can be found underwater,1,sea creature
@@ -7452,6 +7465,7 @@ crab,is eaten as meat,1,sea creature
 crab,is eaten by humans,1,sea creature
 crab,is eaten in salad,1,sea creature
 crab,is fished in nets,1,sea creature
+crab,is found in water,1,sea creature
 crab,is made of cells,1,sea creature
 crab,is made of flesh,1,sea creature
 crab,is seafood,1,sea creature
@@ -7566,6 +7580,7 @@ crane,is a bird,1,bird
 crane,is a living thing,1,bird
 crane,is a water bird,1,bird
 crane,is an animal,1,bird
+crane,is found in water,1,bird
 crane,is made of cells,1,bird
 crane,is made of flesh,1,bird
 crane,is semi aquatic,1,bird
@@ -7578,7 +7593,6 @@ crayfish,can be eaten,1,sea creature
 crayfish,can be fished,1,sea creature
 crayfish,can be found in seas,1,sea creature
 crayfish,can be found in the wild,1,sea creature
-crayfish,can be found in water,1,sea creature
 crayfish,can be found underwater,1,sea creature
 crayfish,can be orange in color,1,sea creature
 crayfish,can be pink in color,1,sea creature
@@ -7634,6 +7648,7 @@ crayfish,is eaten as meat,1,sea creature
 crayfish,is eaten by humans,1,sea creature
 crayfish,is fished in nets,1,sea creature
 crayfish,is found in freshwater,1,sea creature
+crayfish,is found in water,1,sea creature
 crayfish,is made of cells,1,sea creature
 crayfish,is made of flesh,1,sea creature
 crayfish,is seafood,1,sea creature
@@ -7703,7 +7718,6 @@ crocodile,can be found in forests,1,land animal
 crocodile,can be found in rivers,1,land animal
 crocodile,can be found in swamps,1,land animal
 crocodile,can be found in the wild,1,land animal
-crocodile,can be found in water,1,land animal
 crocodile,can be found in zoos,1,land animal
 crocodile,can be found on land,1,land animal
 crocodile,can be scary,1,land animal
@@ -7723,7 +7737,6 @@ crocodile,can eat,1,land animal
 crocodile,can eat animals,1,land animal
 crocodile,can grow,1,land animal
 crocodile,can growl,1,land animal
-crocodile,can have sharp teeth,1,land animal
 crocodile,can kill,1,land animal
 crocodile,can kill people,1,land animal
 crocodile,can lay eggs,1,land animal
@@ -7771,6 +7784,7 @@ crocodile,has legs,1,land animal
 crocodile,has rough skin,1,land animal
 crocodile,has scales,1,land animal
 crocodile,has scaly skin,1,land animal
+crocodile,has sharp teeth,1,land animal
 crocodile,has skin,1,land animal
 crocodile,has small legs,1,land animal
 crocodile,has strong jaws,1,land animal
@@ -7784,7 +7798,7 @@ crocodile,is a predator,1,land animal
 crocodile,is a reptile,1,land animal
 crocodile,is an animal,1,land animal
 crocodile,is cold blooded,1,land animal
-crocodile,is found on water,1,land animal
+crocodile,is found in water,1,land animal
 crocodile,is green in color,1,land animal
 crocodile,is hunted by humans,1,land animal
 crocodile,is hunted for its skin,1,land animal
@@ -8288,6 +8302,7 @@ dandelion,can be white in color,1,flower
 dandelion,can be yellow in color,1,flower
 dandelion,can blow in the wind,1,flower
 dandelion,can grow,1,flower
+dandelion,can reproduce,1,flower
 dandelion,comes in different varieties,1,flower
 dandelion,disperses seeds in the wind,1,flower
 dandelion,grows from a bulb,1,flower
@@ -8447,6 +8462,7 @@ deer,can be found in forests,1,land animal
 deer,can be found in the wild,1,land animal
 deer,can be found in zoos,1,land animal
 deer,can be found on land,1,land animal
+deer,can be violent,1,land animal
 deer,can bite,1,land animal
 deer,can bleed,1,land animal
 deer,can breathe,1,land animal
@@ -8456,7 +8472,6 @@ deer,can eat,1,land animal
 deer,can eat plants,1,land animal
 deer,can gallop,1,land animal
 deer,can grow,1,land animal
-deer,can have spots on its body,1,land animal
 deer,can jump,1,land animal
 deer,can lick,1,land animal
 deer,can make sounds,1,land animal
@@ -8492,6 +8507,7 @@ deer,has hooves,1,land animal
 deer,has legs,1,land animal
 deer,has long legs,1,land animal
 deer,has skin,1,land animal
+deer,has spots on its body,1,land animal
 deer,has teeth,1,land animal
 deer,has thin legs,1,land animal
 deer,has two eyes,1,land animal
@@ -8625,7 +8641,7 @@ dinghy,is a small boat,1,water vehicle
 dinghy,is a type of boat,1,water vehicle
 dinghy,is a vehicle,1,water vehicle
 dinghy,is buoyant,1,water vehicle
-dinghy,is found on water,1,water vehicle
+dinghy,is found in water,1,water vehicle
 dinghy,is held by ropes,1,water vehicle
 dinghy,is inflated with air,1,water vehicle
 dinghy,is manmade,1,water vehicle
@@ -8697,6 +8713,7 @@ dishwasher,uses warm water,1,appliance
 dishwasher,uses water,1,appliance
 dog,can bark,1,land animal
 dog,can be a pet,1,land animal
+dog,can be fast,1,land animal
 dog,can be found in forests,1,land animal
 dog,can be found in the wild,1,land animal
 dog,can be found on land,1,land animal
@@ -8718,7 +8735,6 @@ dog,can fetch ball,1,land animal
 dog,can grow,1,land animal
 dog,can growl,1,land animal
 dog,can guard,1,land animal
-dog,can have sharp teeth,1,land animal
 dog,can jump,1,land animal
 dog,can lick,1,land animal
 dog,can make loud sounds,1,land animal
@@ -8759,6 +8775,7 @@ dog,has fur,1,land animal
 dog,has legs,1,land animal
 dog,has paws,1,land animal
 dog,has puppies,1,land animal
+dog,has sharp teeth,1,land animal
 dog,has skin,1,land animal
 dog,has teeth,1,land animal
 dog,has two eyes,1,land animal
@@ -8814,7 +8831,6 @@ dolphin,can be blue in color,1,sea creature
 dolphin,can be fast,1,sea creature
 dolphin,can be found in seas,1,sea creature
 dolphin,can be found in the wild,1,sea creature
-dolphin,can be found in water,1,sea creature
 dolphin,can be found living in large groups,1,sea creature
 dolphin,can be found underwater,1,sea creature
 dolphin,can be grey in color,1,sea creature
@@ -8856,6 +8872,7 @@ dolphin,has a nose,1,sea creature
 dolphin,has a smooth skin,1,sea creature
 dolphin,has a streamlined body,1,sea creature
 dolphin,has a tail,1,sea creature
+dolphin,has a tongue,1,sea creature
 dolphin,has babies that are called calves,1,sea creature
 dolphin,has blubber,1,sea creature
 dolphin,has bones,1,sea creature
@@ -8876,6 +8893,7 @@ dolphin,is an animal,1,sea creature
 dolphin,is aquatic,1,sea creature
 dolphin,is considered friendly,1,sea creature
 dolphin,is fished in nets,1,sea creature
+dolphin,is found in water,1,sea creature
 dolphin,is friendly to humans,1,sea creature
 dolphin,is made of cells,1,sea creature
 dolphin,is made of flesh,1,sea creature
@@ -8894,6 +8912,7 @@ donkey,can be found on land,1,land animal
 donkey,can be grey in color,1,land animal
 donkey,can be ridden,1,land animal
 donkey,can be used for transportation,1,land animal
+donkey,can be violent,1,land animal
 donkey,can bite,1,land animal
 donkey,can bleed,1,land animal
 donkey,can bray,1,land animal
@@ -9361,6 +9380,7 @@ drum,has pedals,1,music
 drum,is a musical instrument,1,music
 drum,is a percussion instrument,1,music
 drum,is cylindrical in shape,1,music
+drum,is made of animal hide,1,music
 drum,is made of hide,1,music
 drum,is manmade,1,music
 drum,is part of a drum kit,1,music
@@ -9373,7 +9393,6 @@ drum,is rhythmic,1,music
 drum,is round in shape,1,music
 drum,is struck,1,music
 drum,is used in jazz music,1,music
-drum,made of animal skin,1,music
 drum,requires skill to play,1,music
 drum,requires skill to use,1,music
 drum,requires two hands to play,1,music
@@ -9383,7 +9402,6 @@ duck,can be eaten,1,bird
 duck,can be found in gardens,1,bird
 duck,can be found in rivers,1,bird
 duck,can be found in the wild,1,bird
-duck,can be found in water,1,bird
 duck,can be found in zoos,1,bird
 duck,can be found on land,1,bird
 duck,can be found on ponds,1,bird
@@ -9451,7 +9469,7 @@ duck,is a water bird,1,bird
 duck,is an animal,1,bird
 duck,is domesticated,1,bird
 duck,is eaten as meat,1,bird
-duck,is found on water,1,bird
+duck,is found in water,1,bird
 duck,is hunted by humans,1,bird
 duck,is made of cells,1,bird
 duck,is made of flesh,1,bird
@@ -9559,6 +9577,7 @@ ear,can help balance the body,1,body part
 ear,can move,1,body part
 ear,can support spectacles,1,body part
 ear,comes in pairs,1,body part
+ear,contains cartilage,1,body part
 ear,contains nerves,1,body part
 ear,contains tubes,1,body part
 ear,has a canal,1,body part
@@ -9592,7 +9611,6 @@ ear,is made of tissue,1,body part
 ear,is noticeable,1,body part
 ear,is round in shape,1,body part
 ear,is used for hearing,1,body part
-ear,made of cartilage,1,body part
 ear,transmits messages to the brain,1,body part
 earmuffs,can be bought and sold at supermarkets,1,clothing
 earmuffs,can be colorful,1,clothing
@@ -9646,7 +9664,6 @@ eel,can be fished,1,fish
 eel,can be found in rivers,1,fish
 eel,can be found in seas,1,fish
 eel,can be found in the wild,1,fish
-eel,can be found in water,1,fish
 eel,can be found underwater,1,fish
 eel,can be grey in color,1,fish
 eel,can be scary,1,fish
@@ -9658,6 +9675,7 @@ eel,can eat,1,fish
 eel,can grow,1,fish
 eel,can kill,1,fish
 eel,can lay eggs,1,fish
+eel,can lick,1,fish
 eel,can move,1,fish
 eel,can reproduce,1,fish
 eel,can sleep,1,fish
@@ -9672,6 +9690,7 @@ eel,has a fishy smell,1,fish
 eel,has a head,1,fish
 eel,has a mouth,1,fish
 eel,has a tail,1,fish
+eel,has a tongue,1,fish
 eel,has bones,1,fish
 eel,has eyes,1,fish
 eel,has fins,1,fish
@@ -9691,6 +9710,7 @@ eel,is aquatic,1,fish
 eel,is cold blooded,1,fish
 eel,is eaten by humans,1,fish
 eel,is electric,1,fish
+eel,is found in water,1,fish
 eel,is hunted,1,fish
 eel,is made of cells,1,fish
 eel,is made of flesh,1,fish
@@ -9857,6 +9877,7 @@ elm,can blow in the wind,1,tree
 elm,can grow,1,tree
 elm,can house birds,1,tree
 elm,can provide shade,1,tree
+elm,can reproduce,1,tree
 elm,has a hard surface,1,tree
 elm,has a stem,1,tree
 elm,has a tough surface,1,tree
@@ -9916,6 +9937,7 @@ emu,cannot fly,1,bird
 emu,eats,1,bird
 emu,eats insects,1,bird
 emu,eats leaves,1,bird
+emu,eats meat,1,bird
 emu,eats seeds,1,bird
 emu,has a beak,1,bird
 emu,has a body,1,bird
@@ -9962,6 +9984,7 @@ eucalyptus,can blow in the wind,1,tree
 eucalyptus,can grow,1,tree
 eucalyptus,can house birds,1,tree
 eucalyptus,can provide shade,1,tree
+eucalyptus,can reproduce,1,tree
 eucalyptus,contains oil,1,tree
 eucalyptus,contains sap,1,tree
 eucalyptus,has a hard surface,1,tree
@@ -10185,7 +10208,7 @@ ferry,is a type of boat,1,water vehicle
 ferry,is a vehicle,1,water vehicle
 ferry,is a vessel,1,water vehicle
 ferry,is buoyant,1,water vehicle
-ferry,is found on water,1,water vehicle
+ferry,is found in water,1,water vehicle
 ferry,is held by ropes,1,water vehicle
 ferry,is manmade,1,water vehicle
 ferry,is manned by a crew,1,water vehicle
@@ -10214,6 +10237,7 @@ finger,can hold things,1,body part
 finger,can move,1,body part
 finger,can poke,1,body part
 finger,can press,1,body part
+finger,contains cartilage,1,body part
 finger,contains ligament,1,body part
 finger,contains nerves,1,body part
 finger,has a cuticle,1,body part
@@ -10249,7 +10273,6 @@ finger,is used for eating,1,body part
 finger,is used for pointing,1,body part
 finger,is used for touching and feeling,1,body part
 finger,is used to type,1,body part
-finger,made of cartilage,1,body part
 finger,transmits messages to the brain,1,body part
 fir,can be found in cold climate,1,tree
 fir,can be found in forests,1,tree
@@ -10264,6 +10287,7 @@ fir,can blow in the wind,1,tree
 fir,can grow,1,tree
 fir,can house birds,1,tree
 fir,can provide shade,1,tree
+fir,can reproduce,1,tree
 fir,has a hard surface,1,tree
 fir,has a stem,1,tree
 fir,has a trunk,1,tree
@@ -10301,7 +10325,6 @@ fir,requires sunlight,1,tree
 fir,requires water,1,tree
 flamingo,can be airborne,1,bird
 flamingo,can be found in the wild,1,bird
-flamingo,can be found in water,1,bird
 flamingo,can be found in zoos,1,bird
 flamingo,can be found on land,1,bird
 flamingo,can be tall,1,bird
@@ -10368,7 +10391,7 @@ flamingo,is a living thing,1,bird
 flamingo,is a water bird,1,bird
 flamingo,is an animal,1,bird
 flamingo,is found in flocks,1,bird
-flamingo,is found on water,1,bird
+flamingo,is found in water,1,bird
 flamingo,is made of cells,1,bird
 flamingo,is made of flesh,1,bird
 flamingo,is pink in color,1,bird
@@ -10436,7 +10459,6 @@ flounder,can be eaten,1,fish
 flounder,can be fished,1,fish
 flounder,can be found in seas,1,fish
 flounder,can be found in the wild,1,fish
-flounder,can be found in water,1,fish
 flounder,can be found underwater,1,fish
 flounder,can bleed,1,fish
 flounder,can breathe,1,fish
@@ -10445,6 +10467,7 @@ flounder,can drink,1,fish
 flounder,can eat,1,fish
 flounder,can grow,1,fish
 flounder,can lay eggs,1,fish
+flounder,can lick,1,fish
 flounder,can move,1,fish
 flounder,can reproduce,1,fish
 flounder,can sleep,1,fish
@@ -10458,6 +10481,7 @@ flounder,has a flat surface,1,fish
 flounder,has a head,1,fish
 flounder,has a mouth,1,fish
 flounder,has a tail,1,fish
+flounder,has a tongue,1,fish
 flounder,has bones,1,fish
 flounder,has eyes,1,fish
 flounder,has fins,1,fish
@@ -10477,6 +10501,7 @@ flounder,is aquatic,1,fish
 flounder,is cold blooded,1,fish
 flounder,is eaten by humans,1,fish
 flounder,is fished in nets,1,fish
+flounder,is found in water,1,fish
 flounder,is hunted,1,fish
 flounder,is made of cells,1,fish
 flounder,is made of flesh,1,fish
@@ -10588,6 +10613,7 @@ foot,can kick,1,body part
 foot,can move,1,body part
 foot,can support the body,1,body part
 foot,comes in pairs,1,body part
+foot,contains cartilage,1,body part
 foot,contains ligament,1,body part
 foot,contains nerves,1,body part
 foot,has a flat bottom,1,body part
@@ -10738,6 +10764,7 @@ fox,can be found in zoos,1,land animal
 fox,can be found on land,1,land animal
 fox,can be orange in color,1,land animal
 fox,can be red in color,1,land animal
+fox,can be violent,1,land animal
 fox,can be white in color,1,land animal
 fox,can bite,1,land animal
 fox,can bleed,1,land animal
@@ -10750,7 +10777,6 @@ fox,can eat,1,land animal
 fox,can eat animals,1,land animal
 fox,can grow,1,land animal
 fox,can growl,1,land animal
-fox,can have sharp teeth,1,land animal
 fox,can hunt,1,land animal
 fox,can jump,1,land animal
 fox,can kill,1,land animal
@@ -10795,6 +10821,7 @@ fox,has legs,1,land animal
 fox,has paws,1,land animal
 fox,has pointy ears,1,land animal
 fox,has sharp claws,1,land animal
+fox,has sharp teeth,1,land animal
 fox,has skin,1,land animal
 fox,has teeth,1,land animal
 fox,has two eyes,1,land animal
@@ -10903,11 +10930,11 @@ frog,can be found in forests,1,land animal
 frog,can be found in gardens,1,land animal
 frog,can be found in rivers,1,land animal
 frog,can be found in the wild,1,land animal
-frog,can be found in water,1,land animal
 frog,can be found in zoos,1,land animal
 frog,can be found on land,1,land animal
 frog,can be found on ponds,1,land animal
 frog,can be poisonous,1,land animal
+frog,can be violent,1,land animal
 frog,can bite,1,land animal
 frog,can bleed,1,land animal
 frog,can breathe,1,land animal
@@ -10920,7 +10947,6 @@ frog,can drink,1,land animal
 frog,can drool,1,land animal
 frog,can eat,1,land animal
 frog,can grow,1,land animal
-frog,can have spots on its body,1,land animal
 frog,can hop,1,land animal
 frog,can jump,1,land animal
 frog,can lay eggs,1,land animal
@@ -10961,6 +10987,7 @@ frog,has legs,1,land animal
 frog,has moist skin,1,land animal
 frog,has skin,1,land animal
 frog,has slimy skin,1,land animal
+frog,has spots on its body,1,land animal
 frog,has teeth,1,land animal
 frog,has two eyes,1,land animal
 frog,has webbed feet,1,land animal
@@ -10968,6 +10995,7 @@ frog,is a living thing,1,land animal
 frog,is an amphibian,1,land animal
 frog,is an animal,1,land animal
 frog,is cold blooded,1,land animal
+frog,is found in water,1,land animal
 frog,is green in color,1,land animal
 frog,is made of cells,1,land animal
 frog,is made of flesh,1,land animal
@@ -11055,6 +11083,7 @@ geranium,can be red in color,1,flower
 geranium,can be sold fresh,1,flower
 geranium,can blow in the wind,1,flower
 geranium,can grow,1,flower
+geranium,can reproduce,1,flower
 geranium,comes in different varieties,1,flower
 geranium,grows from a bulb,1,flower
 geranium,has a green stalk,1,flower
@@ -11091,6 +11120,7 @@ gerbil,can be found in forests,1,land animal
 gerbil,can be found in the wild,1,land animal
 gerbil,can be found in zoos,1,land animal
 gerbil,can be found on land,1,land animal
+gerbil,can be violent,1,land animal
 gerbil,can bite,1,land animal
 gerbil,can bleed,1,land animal
 gerbil,can breathe,1,land animal
@@ -11240,6 +11270,7 @@ giraffe,can be found on a safari,1,land animal
 giraffe,can be found on land,1,land animal
 giraffe,can be orange in color,1,land animal
 giraffe,can be tall,1,land animal
+giraffe,can be violent,1,land animal
 giraffe,can be yellow in color,1,land animal
 giraffe,can bite,1,land animal
 giraffe,can bleed,1,land animal
@@ -11250,7 +11281,6 @@ giraffe,can eat,1,land animal
 giraffe,can eat plants,1,land animal
 giraffe,can gallop,1,land animal
 giraffe,can grow,1,land animal
-giraffe,can have spots on its body,1,land animal
 giraffe,can lick,1,land animal
 giraffe,can make sounds,1,land animal
 giraffe,can move,1,land animal
@@ -11297,6 +11327,7 @@ giraffe,has long legs,1,land animal
 giraffe,has patches on its body,1,land animal
 giraffe,has skin,1,land animal
 giraffe,has small horns,1,land animal
+giraffe,has spots on its body,1,land animal
 giraffe,has teeth,1,land animal
 giraffe,has thin legs,1,land animal
 giraffe,has two eyes,1,land animal
@@ -11415,6 +11446,7 @@ goat,can be found on farms,1,land animal
 goat,can be found on land,1,land animal
 goat,can be grey in color,1,land animal
 goat,can be resilient,1,land animal
+goat,can be violent,1,land animal
 goat,can be white in color,1,land animal
 goat,can bite,1,land animal
 goat,can bleed,1,land animal
@@ -11492,7 +11524,6 @@ goldfish,can be bought and sold at supermarkets,1,fish
 goldfish,can be eaten,1,fish
 goldfish,can be found in pet shops,1,fish
 goldfish,can be found in the wild,1,fish
-goldfish,can be found in water,1,fish
 goldfish,can be found on ponds,1,fish
 goldfish,can be found underwater,1,fish
 goldfish,can be golden in color,1,fish
@@ -11506,6 +11537,7 @@ goldfish,can drink,1,fish
 goldfish,can eat,1,fish
 goldfish,can grow,1,fish
 goldfish,can lay eggs,1,fish
+goldfish,can lick,1,fish
 goldfish,can move,1,fish
 goldfish,can reproduce,1,fish
 goldfish,can sleep,1,fish
@@ -11519,6 +11551,7 @@ goldfish,has a fishy smell,1,fish
 goldfish,has a head,1,fish
 goldfish,has a mouth,1,fish
 goldfish,has a tail,1,fish
+goldfish,has a tongue,1,fish
 goldfish,has big eyes,1,fish
 goldfish,has bones,1,fish
 goldfish,has eyes,1,fish
@@ -11540,6 +11573,7 @@ goldfish,is aquatic,1,fish
 goldfish,is cold blooded,1,fish
 goldfish,is domesticated,1,fish
 goldfish,is found in freshwater,1,fish
+goldfish,is found in water,1,fish
 goldfish,is known to have short memory,1,fish
 goldfish,is made of cells,1,fish
 goldfish,is made of flesh,1,fish
@@ -11597,7 +11631,6 @@ goose,can be found in forests,1,bird
 goose,can be found in gardens,1,bird
 goose,can be found in rivers,1,bird
 goose,can be found in the wild,1,bird
-goose,can be found in water,1,bird
 goose,can be found in zoos,1,bird
 goose,can be found on farms,1,bird
 goose,can be found on land,1,bird
@@ -11671,7 +11704,7 @@ goose,is a water bird,1,bird
 goose,is an animal,1,bird
 goose,is domesticated,1,bird
 goose,is found in flocks,1,bird
-goose,is found on water,1,bird
+goose,is found in water,1,bird
 goose,is hunted by humans,1,bird
 goose,is made of cells,1,bird
 goose,is made of flesh,1,bird
@@ -11702,7 +11735,6 @@ gorilla,can drool,1,land animal
 gorilla,can eat,1,land animal
 gorilla,can eat plants,1,land animal
 gorilla,can grow,1,land animal
-gorilla,can have sharp teeth,1,land animal
 gorilla,can kill,1,land animal
 gorilla,can lick,1,land animal
 gorilla,can make loud sounds,1,land animal
@@ -11743,6 +11775,7 @@ gorilla,has humanlike features,1,land animal
 gorilla,has large muscles,1,land animal
 gorilla,has legs,1,land animal
 gorilla,has long arms,1,land animal
+gorilla,has sharp teeth,1,land animal
 gorilla,has skin,1,land animal
 gorilla,has strong muscles,1,land animal
 gorilla,has teeth,1,land animal
@@ -12147,6 +12180,7 @@ guinea_pig,can be found in pet shops,1,land animal
 guinea_pig,can be found in the wild,1,land animal
 guinea_pig,can be found in zoos,1,land animal
 guinea_pig,can be found on land,1,land animal
+guinea_pig,can be violent,1,land animal
 guinea_pig,can bite,1,land animal
 guinea_pig,can bleed,1,land animal
 guinea_pig,can breathe,1,land animal
@@ -12436,6 +12470,7 @@ hamster,can be found in forests,1,land animal
 hamster,can be found in the wild,1,land animal
 hamster,can be found in zoos,1,land animal
 hamster,can be found on land,1,land animal
+hamster,can be violent,1,land animal
 hamster,can be white in color,1,land animal
 hamster,can bite,1,land animal
 hamster,can bleed,1,land animal
@@ -12826,6 +12861,7 @@ heart,is found in animal body,1,body part
 heart,is found in the chest,1,body part
 heart,is made of blood vessels,1,body part
 heart,is made of cells,1,body part
+heart,is made of fibres,1,body part
 heart,is made of flesh,1,body part
 heart,is made of muscles,1,body part
 heart,is made of tissue,1,body part
@@ -12833,7 +12869,6 @@ heart,is near the lungs,1,body part
 heart,is part of the circulatory system,1,body part
 heart,is the size of one's fist,1,body part
 heart,is vital for life,1,body part
-heart,made of fibres,1,body part
 heart,pumps blood,1,body part
 heart,transmits messages to the brain,1,body part
 hedgehog,can be brown in color,1,land animal
@@ -12844,6 +12879,7 @@ hedgehog,can be found in zoos,1,land animal
 hedgehog,can be found on land,1,land animal
 hedgehog,can be infested by fleas,1,land animal
 hedgehog,can be slow,1,land animal
+hedgehog,can be violent,1,land animal
 hedgehog,can bite,1,land animal
 hedgehog,can bleed,1,land animal
 hedgehog,can breathe,1,land animal
@@ -13089,6 +13125,7 @@ heron,is a bird,1,bird
 heron,is a living thing,1,bird
 heron,is a water bird,1,bird
 heron,is an animal,1,bird
+heron,is found in water,1,bird
 heron,is made of cells,1,bird
 heron,is made of flesh,1,bird
 heron,is semi aquatic,1,bird
@@ -13099,7 +13136,6 @@ herring,can be eaten,1,fish
 herring,can be fished,1,fish
 herring,can be found in seas,1,fish
 herring,can be found in the wild,1,fish
-herring,can be found in water,1,fish
 herring,can be found underwater,1,fish
 herring,can be oily,1,fish
 herring,can be red in color,1,fish
@@ -13113,6 +13149,7 @@ herring,can eat,1,fish
 herring,can grow,1,fish
 herring,can have a smoky flavor,1,fish
 herring,can lay eggs,1,fish
+herring,can lick,1,fish
 herring,can move,1,fish
 herring,can reproduce,1,fish
 herring,can sleep,1,fish
@@ -13127,6 +13164,7 @@ herring,has a mouth,1,fish
 herring,has a strong flavor,1,fish
 herring,has a strong smell,1,fish
 herring,has a tail,1,fish
+herring,has a tongue,1,fish
 herring,has bones,1,fish
 herring,has eyes,1,fish
 herring,has fins,1,fish
@@ -13148,6 +13186,7 @@ herring,is eaten as meat,1,fish
 herring,is eaten by humans,1,fish
 herring,is fished in nets,1,fish
 herring,is found in freshwater,1,fish
+herring,is found in water,1,fish
 herring,is hunted,1,fish
 herring,is made of cells,1,fish
 herring,is made of flesh,1,fish
@@ -13161,7 +13200,6 @@ hippo,can be found in forests,1,land animal
 hippo,can be found in rivers,1,land animal
 hippo,can be found in swamps,1,land animal
 hippo,can be found in the wild,1,land animal
-hippo,can be found in water,1,land animal
 hippo,can be found in zoos,1,land animal
 hippo,can be found on land,1,land animal
 hippo,can be grey in color,1,land animal
@@ -13235,6 +13273,7 @@ hippo,is a herbivore,1,land animal
 hippo,is a living thing,1,land animal
 hippo,is a mammal,1,land animal
 hippo,is an animal,1,land animal
+hippo,is found in water,1,land animal
 hippo,is made of cells,1,land animal
 hippo,is made of flesh,1,land animal
 hippo,is muscular,1,land animal
@@ -13367,6 +13406,7 @@ horse,can be found on land,1,land animal
 horse,can be ridden,1,land animal
 horse,can be tall,1,land animal
 horse,can be used for transportation,1,land animal
+horse,can be violent,1,land animal
 horse,can bite,1,land animal
 horse,can bleed,1,land animal
 horse,can breathe,1,land animal
@@ -13557,7 +13597,7 @@ houseboat,is a type of boat,1,water vehicle
 houseboat,is a vehicle,1,water vehicle
 houseboat,is a vessel,1,water vehicle
 houseboat,is buoyant,1,water vehicle
-houseboat,is found on water,1,water vehicle
+houseboat,is found in water,1,water vehicle
 houseboat,is manmade,1,water vehicle
 houseboat,is moveable,1,water vehicle
 houseboat,is operated by humans,1,water vehicle
@@ -13655,7 +13695,6 @@ hummingbird,can reproduce,1,bird
 hummingbird,can roost,1,bird
 hummingbird,can sing,1,bird
 hummingbird,can sleep,1,bird
-hummingbird,can stand on one leg,1,bird
 hummingbird,can suck blood,1,bird
 hummingbird,can walk,1,bird
 hummingbird,eats,1,bird
@@ -13827,9 +13866,6 @@ hyena,can eat animals,1,land animal
 hyena,can gallop,1,land animal
 hyena,can grow,1,land animal
 hyena,can growl,1,land animal
-hyena,can have black spots,1,land animal
-hyena,can have sharp teeth,1,land animal
-hyena,can have spots on its body,1,land animal
 hyena,can hunt,1,land animal
 hyena,can jump,1,land animal
 hyena,can kill,1,land animal
@@ -13857,6 +13893,7 @@ hyena,has a tail,1,land animal
 hyena,has a thorax,1,land animal
 hyena,has a tongue,1,land animal
 hyena,has babies that are called cubs,1,land animal
+hyena,has black spots,1,land animal
 hyena,has bones,1,land animal
 hyena,has claws,1,land animal
 hyena,has ears,1,land animal
@@ -13868,8 +13905,11 @@ hyena,has fur,1,land animal
 hyena,has large teeth,1,land animal
 hyena,has legs,1,land animal
 hyena,has patterns on its body,1,land animal
+hyena,has paws,1,land animal
 hyena,has sharp claws,1,land animal
+hyena,has sharp teeth,1,land animal
 hyena,has skin,1,land animal
+hyena,has spots on its body,1,land animal
 hyena,has striped patterns,1,land animal
 hyena,has strong jaws,1,land animal
 hyena,has teeth,1,land animal
@@ -13954,6 +13994,7 @@ iguana,can be found in hot climate,1,land animal
 iguana,can be found in the wild,1,land animal
 iguana,can be found in zoos,1,land animal
 iguana,can be found on land,1,land animal
+iguana,can be violent,1,land animal
 iguana,can be yellow in color,1,land animal
 iguana,can bite,1,land animal
 iguana,can bleed,1,land animal
@@ -14274,6 +14315,7 @@ jelly,is involved in special occasions,1,food
 jelly,is kept in fridge,1,food
 jelly,is made in a mould,1,food
 jelly,is made of fruit and sugar,1,food
+jelly,is made of gelatin,1,food
 jelly,is made up of ingredients,1,food
 jelly,is made with jelly mix,1,food
 jelly,is popular at parties,1,food
@@ -14283,11 +14325,9 @@ jelly,is sticky,1,food
 jelly,is used during cooking,1,food
 jelly,is used in desserts,1,food
 jelly,is used in sponge cakes,1,food
-jelly,made of gelatine,1,food
 jellyfish,can be dangerous,1,sea creature
 jellyfish,can be found in seas,1,sea creature
 jellyfish,can be found in the wild,1,sea creature
-jellyfish,can be found in water,1,sea creature
 jellyfish,can be found underwater,1,sea creature
 jellyfish,can be pink in color,1,sea creature
 jellyfish,can be poisonous,1,sea creature
@@ -14326,6 +14366,7 @@ jellyfish,is an invertebrate,1,sea creature
 jellyfish,is aquatic,1,sea creature
 jellyfish,is cold blooded,1,sea creature
 jellyfish,is fished in nets,1,sea creature
+jellyfish,is found in water,1,sea creature
 jellyfish,is made of cells,1,sea creature
 jellyfish,is made of flesh,1,sea creature
 jellyfish,is round in shape,1,sea creature
@@ -14502,7 +14543,7 @@ kayak,is a small boat,1,water vehicle
 kayak,is a type of boat,1,water vehicle
 kayak,is a vehicle,1,water vehicle
 kayak,is buoyant,1,water vehicle
-kayak,is found on water,1,water vehicle
+kayak,is found in water,1,water vehicle
 kayak,is held by ropes,1,water vehicle
 kayak,is manmade,1,water vehicle
 kayak,is moveable,1,water vehicle
@@ -14619,7 +14660,6 @@ kingfisher,can be found in gardens,1,bird
 kingfisher,can be found in hot climate,1,bird
 kingfisher,can be found in rivers,1,bird
 kingfisher,can be found in the wild,1,bird
-kingfisher,can be found in water,1,bird
 kingfisher,can be found in zoos,1,bird
 kingfisher,can be found on land,1,bird
 kingfisher,can be found on trees,1,bird
@@ -14683,6 +14723,7 @@ kingfisher,is a bird,1,bird
 kingfisher,is a living thing,1,bird
 kingfisher,is a water bird,1,bird
 kingfisher,is an animal,1,bird
+kingfisher,is found in water,1,bird
 kingfisher,is made of cells,1,bird
 kingfisher,is made of flesh,1,bird
 kingfisher,is streamlined,1,bird
@@ -14964,7 +15005,6 @@ ladybird,can drink,1,invertebrate
 ladybird,can eat,1,invertebrate
 ladybird,can fly,1,invertebrate
 ladybird,can grow,1,invertebrate
-ladybird,can have spots on its body,1,invertebrate
 ladybird,can lay eggs,1,invertebrate
 ladybird,can move,1,invertebrate
 ladybird,can pollinate,1,invertebrate
@@ -14989,6 +15029,7 @@ ladybird,has feet,1,invertebrate
 ladybird,has legs,1,invertebrate
 ladybird,has six legs,1,invertebrate
 ladybird,has skin,1,invertebrate
+ladybird,has spots on its body,1,invertebrate
 ladybird,has wings,1,invertebrate
 ladybird,is a beetle,1,invertebrate
 ladybird,is a living thing,1,invertebrate
@@ -15014,6 +15055,7 @@ lamb,can be found in the wild,1,land animal
 lamb,can be found in zoos,1,land animal
 lamb,can be found on farms,1,land animal
 lamb,can be found on land,1,land animal
+lamb,can be violent,1,land animal
 lamb,can be white in color,1,land animal
 lamb,can bite,1,land animal
 lamb,can bleed,1,land animal
@@ -15205,6 +15247,7 @@ leg,contains a foot,1,body part
 leg,contains a knee,1,body part
 leg,contains a thigh,1,body part
 leg,contains a tibia,1,body part
+leg,contains cartilage,1,body part
 leg,contains fat,1,body part
 leg,contains ligament,1,body part
 leg,contains nerves,1,body part
@@ -15382,6 +15425,7 @@ leopard,can bleed,1,land animal
 leopard,can breathe,1,land animal
 leopard,can camouflage,1,land animal
 leopard,can chase,1,land animal
+leopard,can climb,1,land animal
 leopard,can climb trees,1,land animal
 leopard,can drag its prey,1,land animal
 leopard,can drink,1,land animal
@@ -15391,9 +15435,6 @@ leopard,can eat animals,1,land animal
 leopard,can gallop,1,land animal
 leopard,can grow,1,land animal
 leopard,can growl,1,land animal
-leopard,can have black spots,1,land animal
-leopard,can have sharp teeth,1,land animal
-leopard,can have spots on its body,1,land animal
 leopard,can hunt,1,land animal
 leopard,can jump,1,land animal
 leopard,can kill,1,land animal
@@ -15423,6 +15464,7 @@ leopard,has a tail,1,land animal
 leopard,has a thorax,1,land animal
 leopard,has a tongue,1,land animal
 leopard,has babies that are called cubs,1,land animal
+leopard,has black spots,1,land animal
 leopard,has bones,1,land animal
 leopard,has claws,1,land animal
 leopard,has ears,1,land animal
@@ -15438,7 +15480,9 @@ leopard,has legs,1,land animal
 leopard,has paws,1,land animal
 leopard,has rounded ears,1,land animal
 leopard,has sharp claws,1,land animal
+leopard,has sharp teeth,1,land animal
 leopard,has skin,1,land animal
+leopard,has spots on its body,1,land animal
 leopard,has strong muscles,1,land animal
 leopard,has teeth,1,land animal
 leopard,has two eyes,1,land animal
@@ -15771,7 +15815,6 @@ lion,can eat animals,1,land animal
 lion,can gallop,1,land animal
 lion,can grow,1,land animal
 lion,can growl,1,land animal
-lion,can have sharp teeth,1,land animal
 lion,can hunt,1,land animal
 lion,can jump,1,land animal
 lion,can kill,1,land animal
@@ -15817,6 +15860,7 @@ lion,has large teeth,1,land animal
 lion,has legs,1,land animal
 lion,has paws,1,land animal
 lion,has sharp claws,1,land animal
+lion,has sharp teeth,1,land animal
 lion,has skin,1,land animal
 lion,has strong muscles,1,land animal
 lion,has teeth,1,land animal
@@ -15889,6 +15933,7 @@ lizard,can be found in zoos,1,land animal
 lizard,can be found on land,1,land animal
 lizard,can be grey in color,1,land animal
 lizard,can be slow,1,land animal
+lizard,can be violent,1,land animal
 lizard,can bite,1,land animal
 lizard,can bleed,1,land animal
 lizard,can breathe,1,land animal
@@ -15969,6 +16014,7 @@ llama,can be found on farms,1,land animal
 llama,can be found on land,1,land animal
 llama,can be tall,1,land animal
 llama,can be used for transportation,1,land animal
+llama,can be violent,1,land animal
 llama,can be white in color,1,land animal
 llama,can bite,1,land animal
 llama,can bleed,1,land animal
@@ -16040,7 +16086,6 @@ lobster,can be eaten,1,sea creature
 lobster,can be fished,1,sea creature
 lobster,can be found in seas,1,sea creature
 lobster,can be found in the wild,1,sea creature
-lobster,can be found in water,1,sea creature
 lobster,can be found underwater,1,sea creature
 lobster,can be grey in color,1,sea creature
 lobster,can be orange in color,1,sea creature
@@ -16102,6 +16147,7 @@ lobster,is cold blooded,1,sea creature
 lobster,is eaten as meat,1,sea creature
 lobster,is eaten by humans,1,sea creature
 lobster,is fished in nets,1,sea creature
+lobster,is found in water,1,sea creature
 lobster,is hunted,1,sea creature
 lobster,is made of cells,1,sea creature
 lobster,is made of flesh,1,sea creature
@@ -16283,7 +16329,6 @@ mackerel,can be fast,1,fish
 mackerel,can be fished,1,fish
 mackerel,can be found in seas,1,fish
 mackerel,can be found in the wild,1,fish
-mackerel,can be found in water,1,fish
 mackerel,can be found underwater,1,fish
 mackerel,can be grey in color,1,fish
 mackerel,can be oily,1,fish
@@ -16299,6 +16344,7 @@ mackerel,can eat,1,fish
 mackerel,can grow,1,fish
 mackerel,can have a smoky flavor,1,fish
 mackerel,can lay eggs,1,fish
+mackerel,can lick,1,fish
 mackerel,can move,1,fish
 mackerel,can reproduce,1,fish
 mackerel,can sleep,1,fish
@@ -16312,6 +16358,7 @@ mackerel,has a head,1,fish
 mackerel,has a mouth,1,fish
 mackerel,has a strong smell,1,fish
 mackerel,has a tail,1,fish
+mackerel,has a tongue,1,fish
 mackerel,has bones,1,fish
 mackerel,has eyes,1,fish
 mackerel,has fins,1,fish
@@ -16333,6 +16380,7 @@ mackerel,is cold blooded,1,fish
 mackerel,is eaten as meat,1,fish
 mackerel,is eaten by humans,1,fish
 mackerel,is fished in nets,1,fish
+mackerel,is found in water,1,fish
 mackerel,is hunted,1,fish
 mackerel,is made of cells,1,fish
 mackerel,is made of flesh,1,fish
@@ -16881,7 +16929,6 @@ minnow,can be fished,1,fish
 minnow,can be found in rivers,1,fish
 minnow,can be found in seas,1,fish
 minnow,can be found in the wild,1,fish
-minnow,can be found in water,1,fish
 minnow,can be found underwater,1,fish
 minnow,can be silver in color,1,fish
 minnow,can be thin,1,fish
@@ -16892,6 +16939,7 @@ minnow,can eat,1,fish
 minnow,can glitter,1,fish
 minnow,can grow,1,fish
 minnow,can lay eggs,1,fish
+minnow,can lick,1,fish
 minnow,can move,1,fish
 minnow,can reproduce,1,fish
 minnow,can sleep,1,fish
@@ -16905,6 +16953,7 @@ minnow,has a head,1,fish
 minnow,has a mouth,1,fish
 minnow,has a streamlined body,1,fish
 minnow,has a tail,1,fish
+minnow,has a tongue,1,fish
 minnow,has bones,1,fish
 minnow,has eyes,1,fish
 minnow,has fins,1,fish
@@ -16922,6 +16971,7 @@ minnow,is an animal,1,fish
 minnow,is aquatic,1,fish
 minnow,is cold blooded,1,fish
 minnow,is fished in nets,1,fish
+minnow,is found in water,1,fish
 minnow,is hunted,1,fish
 minnow,is made of cells,1,fish
 minnow,is made of flesh,1,fish
@@ -17226,7 +17276,6 @@ mosquito,can be airborne,1,invertebrate
 mosquito,can be dangerous,1,invertebrate
 mosquito,can be found in hot climate,1,invertebrate
 mosquito,can be found in the wild,1,invertebrate
-mosquito,can be found in water,1,invertebrate
 mosquito,can be found on plants,1,invertebrate
 mosquito,can bite,1,invertebrate
 mosquito,can bleed,1,invertebrate
@@ -17276,6 +17325,7 @@ mosquito,is blocked by nets,1,invertebrate
 mosquito,is caught by spiders,1,invertebrate
 mosquito,is cold blooded,1,invertebrate
 mosquito,is found in unhygienic conditions,1,invertebrate
+mosquito,is found in water,1,invertebrate
 mosquito,is hard to see,1,invertebrate
 mosquito,is made of cells,1,invertebrate
 mosquito,is made of flesh,1,invertebrate
@@ -17410,6 +17460,7 @@ mouse,can be found in the wild,1,land animal
 mouse,can be found on land,1,land animal
 mouse,can be grey in color,1,land animal
 mouse,can be scary,1,land animal
+mouse,can be violent,1,land animal
 mouse,can be white in color,1,land animal
 mouse,can bite,1,land animal
 mouse,can bleed,1,land animal
@@ -17422,7 +17473,6 @@ mouse,can eat,1,land animal
 mouse,can eat plants,1,land animal
 mouse,can gnaw,1,land animal
 mouse,can grow,1,land animal
-mouse,can have sharp teeth,1,land animal
 mouse,can lick,1,land animal
 mouse,can make a squeaky noise,1,land animal
 mouse,can make sounds,1,land animal
@@ -17466,6 +17516,7 @@ mouse,has paws,1,land animal
 mouse,has pink ears,1,land animal
 mouse,has pink feet,1,land animal
 mouse,has rounded ears,1,land animal
+mouse,has sharp teeth,1,land animal
 mouse,has skin,1,land animal
 mouse,has teeth,1,land animal
 mouse,has two eyes,1,land animal
@@ -17617,7 +17668,6 @@ mussel,can be eaten,1,sea creature
 mussel,can be fished,1,sea creature
 mussel,can be found in seas,1,sea creature
 mussel,can be found in the wild,1,sea creature
-mussel,can be found in water,1,sea creature
 mussel,can be found underwater,1,sea creature
 mussel,can be grey in color,1,sea creature
 mussel,can be salty in taste,1,sea creature
@@ -17660,6 +17710,7 @@ mussel,is aquatic,1,sea creature
 mussel,is cold blooded,1,sea creature
 mussel,is eaten by humans,1,sea creature
 mussel,is fished in nets,1,sea creature
+mussel,is found in water,1,sea creature
 mussel,is made of calcium carbonate,1,sea creature
 mussel,is made of cells,1,sea creature
 mussel,is made of flesh,1,sea creature
@@ -17879,6 +17930,7 @@ nose,can have freckles,1,body part
 nose,can move,1,body part
 nose,can sneeze,1,body part
 nose,can sniff,1,body part
+nose,contains cartilage,1,body part
 nose,contains ligament,1,body part
 nose,contains nerves,1,body part
 nose,has a pointy end,1,body part
@@ -17916,7 +17968,6 @@ nose,is noticeable,1,body part
 nose,is used for breathing,1,body part
 nose,is used for smelling,1,body part
 nose,is used to inhale air,1,body part
-nose,made of cartilage,1,body part
 nose,produces mucus,1,body part
 nose,transmits messages to the brain,1,body part
 nut,can attract insects,1,fruit
@@ -17994,6 +18045,7 @@ oak,can blow in the wind,1,tree
 oak,can grow,1,tree
 oak,can house birds,1,tree
 oak,can provide shade,1,tree
+oak,can reproduce,1,tree
 oak,grows slowly,1,tree
 oak,has a hard surface,1,tree
 oak,has a stem,1,tree
@@ -18035,7 +18087,6 @@ octopus,can be fast,1,sea creature
 octopus,can be fished,1,sea creature
 octopus,can be found in seas,1,sea creature
 octopus,can be found in the wild,1,sea creature
-octopus,can be found in water,1,sea creature
 octopus,can be found underwater,1,sea creature
 octopus,can be soft,1,sea creature
 octopus,can be sold fresh,1,sea creature
@@ -18093,6 +18144,7 @@ octopus,is cold blooded,1,sea creature
 octopus,is eaten as meat,1,sea creature
 octopus,is eaten by humans,1,sea creature
 octopus,is fished in nets,1,sea creature
+octopus,is found in water,1,sea creature
 octopus,is made of cells,1,sea creature
 octopus,is made of flesh,1,sea creature
 octopus,is round in shape,1,sea creature
@@ -18138,7 +18190,6 @@ oil_tanker,is a ship,1,water vehicle
 oil_tanker,is a vehicle,1,water vehicle
 oil_tanker,is a vessel,1,water vehicle
 oil_tanker,is buoyant,1,water vehicle
-oil_tanker,is found on water,1,water vehicle
 oil_tanker,is manmade,1,water vehicle
 oil_tanker,is manned by a crew,1,water vehicle
 oil_tanker,is moveable,1,water vehicle
@@ -18491,6 +18542,7 @@ ostrich,cannot fly,1,bird
 ostrich,eats,1,bird
 ostrich,eats insects,1,bird
 ostrich,eats leaves,1,bird
+ostrich,eats meat,1,bird
 ostrich,eats seeds,1,bird
 ostrich,has a beak,1,bird
 ostrich,has a body,1,bird
@@ -18535,9 +18587,9 @@ otter,can be found in forests,1,land animal
 otter,can be found in rivers,1,land animal
 otter,can be found in seas,1,land animal
 otter,can be found in the wild,1,land animal
-otter,can be found in water,1,land animal
 otter,can be found in zoos,1,land animal
 otter,can be found on land,1,land animal
+otter,can be violent,1,land animal
 otter,can bite,1,land animal
 otter,can bleed,1,land animal
 otter,can breathe,1,land animal
@@ -18592,6 +18644,7 @@ otter,is a living thing,1,land animal
 otter,is a mammal,1,land animal
 otter,is an animal,1,land animal
 otter,is endangered,1,land animal
+otter,is found in water,1,land animal
 otter,is made of cells,1,land animal
 otter,is made of flesh,1,land animal
 otter,is playful,1,land animal
@@ -18829,7 +18882,6 @@ oyster,can be eaten raw,1,sea creature
 oyster,can be fished,1,sea creature
 oyster,can be found in seas,1,sea creature
 oyster,can be found in the wild,1,sea creature
-oyster,can be found in water,1,sea creature
 oyster,can be found underwater,1,sea creature
 oyster,can be grey in color,1,sea creature
 oyster,can be salty in taste,1,sea creature
@@ -18877,6 +18929,7 @@ oyster,is cold blooded,1,sea creature
 oyster,is eaten by humans,1,sea creature
 oyster,is eaten with wine,1,sea creature
 oyster,is fished in nets,1,sea creature
+oyster,is found in water,1,sea creature
 oyster,is hard to open,1,sea creature
 oyster,is made of cells,1,sea creature
 oyster,is made of flesh,1,sea creature
@@ -18994,7 +19047,6 @@ panther,can eat,1,land animal
 panther,can eat animals,1,land animal
 panther,can grow,1,land animal
 panther,can growl,1,land animal
-panther,can have sharp teeth,1,land animal
 panther,can hunt,1,land animal
 panther,can jump,1,land animal
 panther,can kill,1,land animal
@@ -19038,6 +19090,7 @@ panther,has large paws,1,land animal
 panther,has legs,1,land animal
 panther,has paws,1,land animal
 panther,has sharp claws,1,land animal
+panther,has sharp teeth,1,land animal
 panther,has skin,1,land animal
 panther,has strong muscles,1,land animal
 panther,has teeth,1,land animal
@@ -19721,7 +19774,6 @@ pelican,can be black in color,1,bird
 pelican,can be colorful,1,bird
 pelican,can be found in seas,1,bird
 pelican,can be found in the wild,1,bird
-pelican,can be found in water,1,bird
 pelican,can be found in zoos,1,bird
 pelican,can be found on land,1,bird
 pelican,can be found on trees,1,bird
@@ -19790,7 +19842,7 @@ pelican,is a living thing,1,bird
 pelican,is a water bird,1,bird
 pelican,is an animal,1,bird
 pelican,is found in flocks,1,bird
-pelican,is found on water,1,bird
+pelican,is found in water,1,bird
 pelican,is made of cells,1,bird
 pelican,is made of flesh,1,bird
 pelican,is semi aquatic,1,bird
@@ -19800,7 +19852,6 @@ penguin,can be black and white in color,1,bird
 penguin,can be black in color,1,bird
 penguin,can be found in cold climate,1,bird
 penguin,can be found in the wild,1,bird
-penguin,can be found in water,1,bird
 penguin,can be found in zoos,1,bird
 penguin,can be found living in large groups,1,bird
 penguin,can be found on land,1,bird
@@ -19866,7 +19917,7 @@ penguin,is a living thing,1,bird
 penguin,is a social animal,1,bird
 penguin,is a water bird,1,bird
 penguin,is an animal,1,bird
-penguin,is found on water,1,bird
+penguin,is found in water,1,bird
 penguin,is hunted by humans,1,bird
 penguin,is hunted by sealions,1,bird
 penguin,is hunted by whales,1,bird
@@ -20029,6 +20080,7 @@ pig,can be found in zoos,1,land animal
 pig,can be found on farms,1,land animal
 pig,can be found on land,1,land animal
 pig,can be pink in color,1,land animal
+pig,can be violent,1,land animal
 pig,can bite,1,land animal
 pig,can bleed,1,land animal
 pig,can breathe,1,land animal
@@ -20188,6 +20240,7 @@ pine,can blow in the wind,1,tree
 pine,can grow,1,tree
 pine,can house birds,1,tree
 pine,can provide shade,1,tree
+pine,can reproduce,1,tree
 pine,has a hard surface,1,tree
 pine,has a stem,1,tree
 pine,has a strong smell,1,tree
@@ -20407,10 +20460,10 @@ platypus,can be brown in color,1,land animal
 platypus,can be found in forests,1,land animal
 platypus,can be found in rivers,1,land animal
 platypus,can be found in the wild,1,land animal
-platypus,can be found in water,1,land animal
 platypus,can be found in zoos,1,land animal
 platypus,can be found on land,1,land animal
 platypus,can be poisonous,1,land animal
+platypus,can be violent,1,land animal
 platypus,can bite,1,land animal
 platypus,can bleed,1,land animal
 platypus,can breathe,1,land animal
@@ -20466,6 +20519,7 @@ platypus,is a mammal,1,land animal
 platypus,is a monotreme,1,land animal
 platypus,is an animal,1,land animal
 platypus,is aquatic,1,land animal
+platypus,is found in water,1,land animal
 platypus,is made of cells,1,land animal
 platypus,is made of flesh,1,land animal
 platypus,is semi aquatic,1,land animal
@@ -20549,6 +20603,7 @@ plow,is a machine,1,tool
 plow,is a tool,1,tool
 plow,is handheld,1,tool
 plow,is held in hand,1,tool
+plow,is made of iron,1,tool
 plow,is manmade,1,tool
 plow,is portable,1,tool
 plow,is pulled by oxen,1,tool
@@ -20561,7 +20616,6 @@ plow,is used for digging,1,tool
 plow,is used for farming,1,tool
 plow,is used on soil,1,tool
 plow,is used to harvest,1,tool
-plow,made of iron,1,tool
 plow,requires pulling,1,tool
 plow,requires skill to use,1,tool
 plow,was pulled by horses,1,tool
@@ -20658,6 +20712,7 @@ pony,can be found in zoos,1,land animal
 pony,can be found on farms,1,land animal
 pony,can be found on land,1,land animal
 pony,can be ridden,1,land animal
+pony,can be violent,1,land animal
 pony,can be white in color,1,land animal
 pony,can bite,1,land animal
 pony,can bleed,1,land animal
@@ -20799,6 +20854,7 @@ porcupine,can be found in the wild,1,land animal
 porcupine,can be found in zoos,1,land animal
 porcupine,can be found on land,1,land animal
 porcupine,can be slow,1,land animal
+porcupine,can be violent,1,land animal
 porcupine,can be white in color,1,land animal
 porcupine,can bite,1,land animal
 porcupine,can bleed,1,land animal
@@ -20932,7 +20988,6 @@ prawn,can be eaten,1,sea creature
 prawn,can be fished,1,sea creature
 prawn,can be found in seas,1,sea creature
 prawn,can be found in the wild,1,sea creature
-prawn,can be found in water,1,sea creature
 prawn,can be found underwater,1,sea creature
 prawn,can be grey in color,1,sea creature
 prawn,can be pink in color,1,sea creature
@@ -20985,6 +21040,7 @@ prawn,is eaten as meat,1,sea creature
 prawn,is eaten by humans,1,sea creature
 prawn,is eaten in salad,1,sea creature
 prawn,is fished in nets,1,sea creature
+prawn,is found in water,1,sea creature
 prawn,is made of cells,1,sea creature
 prawn,is made of flesh,1,sea creature
 prawn,is pink when cooked,1,sea creature
@@ -21139,6 +21195,7 @@ rabbit,can be found in gardens,1,land animal
 rabbit,can be found in the wild,1,land animal
 rabbit,can be found in zoos,1,land animal
 rabbit,can be found on land,1,land animal
+rabbit,can be violent,1,land animal
 rabbit,can bite,1,land animal
 rabbit,can bleed,1,land animal
 rabbit,can breathe,1,land animal
@@ -21222,6 +21279,7 @@ raccoon,can be found in the wild,1,land animal
 raccoon,can be found in zoos,1,land animal
 raccoon,can be found on land,1,land animal
 raccoon,can be grey in color,1,land animal
+raccoon,can be violent,1,land animal
 raccoon,can be white in color,1,land animal
 raccoon,can bite,1,land animal
 raccoon,can bleed,1,land animal
@@ -21449,7 +21507,7 @@ raft,has sails,1,water vehicle
 raft,is a type of boat,1,water vehicle
 raft,is a vehicle,1,water vehicle
 raft,is buoyant,1,water vehicle
-raft,is found on water,1,water vehicle
+raft,is found in water,1,water vehicle
 raft,is held by ropes,1,water vehicle
 raft,is made of wooden logs,1,water vehicle
 raft,is manmade,1,water vehicle
@@ -21630,6 +21688,7 @@ rat,can be found in the wild,1,land animal
 rat,can be found on land,1,land animal
 rat,can be grey in color,1,land animal
 rat,can be scary,1,land animal
+rat,can be violent,1,land animal
 rat,can bite,1,land animal
 rat,can bleed,1,land animal
 rat,can breathe,1,land animal
@@ -21640,7 +21699,6 @@ rat,can eat,1,land animal
 rat,can eat animals,1,land animal
 rat,can gnaw,1,land animal
 rat,can grow,1,land animal
-rat,can have sharp teeth,1,land animal
 rat,can lick,1,land animal
 rat,can make a squeaky noise,1,land animal
 rat,can make sounds,1,land animal
@@ -21682,6 +21740,7 @@ rat,has large teeth,1,land animal
 rat,has legs,1,land animal
 rat,has paws,1,land animal
 rat,has rounded ears,1,land animal
+rat,has sharp teeth,1,land animal
 rat,has skin,1,land animal
 rat,has small ears,1,land animal
 rat,has teeth,1,land animal
@@ -22563,7 +22622,6 @@ salmon,can be fished,1,fish
 salmon,can be found in rivers,1,fish
 salmon,can be found in seas,1,fish
 salmon,can be found in the wild,1,fish
-salmon,can be found in water,1,fish
 salmon,can be found underwater,1,fish
 salmon,can be pink in color,1,fish
 salmon,can be silver in color,1,fish
@@ -22576,6 +22634,7 @@ salmon,can grow,1,fish
 salmon,can have a smoky flavor,1,fish
 salmon,can jump out of the water,1,fish
 salmon,can lay eggs,1,fish
+salmon,can lick,1,fish
 salmon,can move,1,fish
 salmon,can reproduce,1,fish
 salmon,can sleep,1,fish
@@ -22589,6 +22648,7 @@ salmon,has a head,1,fish
 salmon,has a mouth,1,fish
 salmon,has a strong smell,1,fish
 salmon,has a tail,1,fish
+salmon,has a tongue,1,fish
 salmon,has bones,1,fish
 salmon,has eyes,1,fish
 salmon,has fins,1,fish
@@ -22611,6 +22671,7 @@ salmon,is eaten as meat,1,fish
 salmon,is eaten by humans,1,fish
 salmon,is fished in nets,1,fish
 salmon,is found in freshwater,1,fish
+salmon,is found in water,1,fish
 salmon,is hunted,1,fish
 salmon,is made of cells,1,fish
 salmon,is made of flesh,1,fish
@@ -22667,7 +22728,6 @@ sardine,can be eaten,1,fish
 sardine,can be fished,1,fish
 sardine,can be found in seas,1,fish
 sardine,can be found in the wild,1,fish
-sardine,can be found in water,1,fish
 sardine,can be found underwater,1,fish
 sardine,can be grey in color,1,fish
 sardine,can be oily,1,fish
@@ -22682,6 +22742,7 @@ sardine,can drink,1,fish
 sardine,can eat,1,fish
 sardine,can grow,1,fish
 sardine,can lay eggs,1,fish
+sardine,can lick,1,fish
 sardine,can move,1,fish
 sardine,can reproduce,1,fish
 sardine,can sleep,1,fish
@@ -22695,6 +22756,7 @@ sardine,has a head,1,fish
 sardine,has a mouth,1,fish
 sardine,has a strong flavor,1,fish
 sardine,has a strong smell,1,fish
+sardine,has a tongue,1,fish
 sardine,has bones,1,fish
 sardine,has edible bones,1,fish
 sardine,has eyes,1,fish
@@ -22716,6 +22778,7 @@ sardine,is eaten as meat,1,fish
 sardine,is eaten by humans,1,fish
 sardine,is fished in nets,1,fish
 sardine,is found in freshwater,1,fish
+sardine,is found in water,1,fish
 sardine,is hunted,1,fish
 sardine,is made of cells,1,fish
 sardine,is made of flesh,1,fish
@@ -22945,7 +23008,6 @@ scallop,can be eaten with chips,1,sea creature
 scallop,can be fished,1,sea creature
 scallop,can be found in seas,1,sea creature
 scallop,can be found in the wild,1,sea creature
-scallop,can be found in water,1,sea creature
 scallop,can be found underwater,1,sea creature
 scallop,can be soft,1,sea creature
 scallop,can be sold fresh,1,sea creature
@@ -22988,6 +23050,7 @@ scallop,is aquatic,1,sea creature
 scallop,is cold blooded,1,sea creature
 scallop,is eaten by humans,1,sea creature
 scallop,is fished in nets,1,sea creature
+scallop,is found in water,1,sea creature
 scallop,is made of calcium carbonate,1,sea creature
 scallop,is made of cells,1,sea creature
 scallop,is made of flesh,1,sea creature
@@ -23340,7 +23403,6 @@ seagull,can be airborne,1,bird
 seagull,can be black in color,1,bird
 seagull,can be found in seas,1,bird
 seagull,can be found in the wild,1,bird
-seagull,can be found in water,1,bird
 seagull,can be found in zoos,1,bird
 seagull,can be found near garbage dumps,1,bird
 seagull,can be found on land,1,bird
@@ -23370,6 +23432,7 @@ seagull,can reproduce,1,bird
 seagull,can roost,1,bird
 seagull,can sleep,1,bird
 seagull,can stand on one leg,1,bird
+seagull,can swim,1,bird
 seagull,can walk,1,bird
 seagull,eats,1,bird
 seagull,eats insects,1,bird
@@ -23408,7 +23471,7 @@ seagull,is a pest,1,bird
 seagull,is a scavenger,1,bird
 seagull,is a water bird,1,bird
 seagull,is an animal,1,bird
-seagull,is found on water,1,bird
+seagull,is found in water,1,bird
 seagull,is made of cells,1,bird
 seagull,is made of flesh,1,bird
 seagull,is streamlined,1,bird
@@ -23421,7 +23484,6 @@ seahorse,can be brown in color,1,fish
 seahorse,can be cooked,1,fish
 seahorse,can be found in seas,1,fish
 seahorse,can be found in the wild,1,fish
-seahorse,can be found in water,1,fish
 seahorse,can be found underwater,1,fish
 seahorse,can be kept in a tank,1,fish
 seahorse,can be slow,1,fish
@@ -23431,6 +23493,7 @@ seahorse,can drink,1,fish
 seahorse,can eat,1,fish
 seahorse,can grow,1,fish
 seahorse,can lay eggs,1,fish
+seahorse,can lick,1,fish
 seahorse,can move,1,fish
 seahorse,can reproduce,1,fish
 seahorse,can sleep,1,fish
@@ -23448,6 +23511,7 @@ seahorse,has a long nose,1,fish
 seahorse,has a mouth,1,fish
 seahorse,has a nose,1,fish
 seahorse,has a tail,1,fish
+seahorse,has a tongue,1,fish
 seahorse,has bones,1,fish
 seahorse,has eyes,1,fish
 seahorse,has fins,1,fish
@@ -23468,6 +23532,7 @@ seahorse,is cold blooded,1,fish
 seahorse,is endangered,1,fish
 seahorse,is fished in nets,1,fish
 seahorse,is found in warm waters,1,fish
+seahorse,is found in water,1,fish
 seahorse,is fragile and delicate,1,fish
 seahorse,is hunted,1,fish
 seahorse,is made of cells,1,fish
@@ -23484,11 +23549,11 @@ seal,can be found in cold climate,1,land animal
 seal,can be found in forests,1,land animal
 seal,can be found in seas,1,land animal
 seal,can be found in the wild,1,land animal
-seal,can be found in water,1,land animal
 seal,can be found in zoos,1,land animal
 seal,can be found on land,1,land animal
 seal,can be grey in color,1,land animal
 seal,can be trained,1,land animal
+seal,can be violent,1,land animal
 seal,can be white in color,1,land animal
 seal,can bite,1,land animal
 seal,can bleed,1,land animal
@@ -23499,7 +23564,6 @@ seal,can drool,1,land animal
 seal,can eat,1,land animal
 seal,can entertain,1,land animal
 seal,can grow,1,land animal
-seal,can have spots on its body,1,land animal
 seal,can hold its breath for long periods of time,1,land animal
 seal,can lick,1,land animal
 seal,can make a honking noise,1,land animal
@@ -23540,6 +23604,7 @@ seal,has fur,1,land animal
 seal,has moist skin,1,land animal
 seal,has puppies,1,land animal
 seal,has skin,1,land animal
+seal,has spots on its body,1,land animal
 seal,has teeth,1,land animal
 seal,has thick fur,1,land animal
 seal,has two eyes,1,land animal
@@ -23552,6 +23617,7 @@ seal,is aquatic,1,land animal
 seal,is eaten by Inuits and Eskimos,1,land animal
 seal,is endangered,1,land animal
 seal,is found in the arctic,1,land animal
+seal,is found in water,1,land animal
 seal,is hunted by humans,1,land animal
 seal,is hunted by Orcas,1,land animal
 seal,is hunted by polar bears,1,land animal
@@ -23568,7 +23634,6 @@ shark,can be fast,1,fish
 shark,can be fished,1,fish
 shark,can be found in seas,1,fish
 shark,can be found in the wild,1,fish
-shark,can be found in water,1,fish
 shark,can be found underwater,1,fish
 shark,can be grey in color,1,fish
 shark,can be scary,1,fish
@@ -23580,10 +23645,10 @@ shark,can eat,1,fish
 shark,can get beached,1,fish
 shark,can grow,1,fish
 shark,can have a hammer shaped head,1,fish
-shark,can have sharp teeth,1,fish
 shark,can kill,1,fish
 shark,can kill people,1,fish
 shark,can lay eggs,1,fish
+shark,can lick,1,fish
 shark,can move,1,fish
 shark,can reproduce,1,fish
 shark,can sleep,1,fish
@@ -23603,12 +23668,14 @@ shark,has a nose,1,fish
 shark,has a pointed nose,1,fish
 shark,has a strong bite,1,fish
 shark,has a tail,1,fish
+shark,has a tongue,1,fish
 shark,has bones,1,fish
 shark,has eyes,1,fish
 shark,has fins,1,fish
 shark,has gills,1,fish
 shark,has scales,1,fish
 shark,has scaly skin,1,fish
+shark,has sharp teeth,1,fish
 shark,has skin,1,fish
 shark,has slimy skin,1,fish
 shark,has teeth,1,fish
@@ -23624,6 +23691,7 @@ shark,is aquatic,1,fish
 shark,is cold blooded,1,fish
 shark,is fished in nets,1,fish
 shark,is found in warm waters,1,fish
+shark,is found in water,1,fish
 shark,is hunted,1,fish
 shark,is made of cells,1,fish
 shark,is made of flesh,1,fish
@@ -23686,6 +23754,7 @@ sheep,can be found in the wild,1,land animal
 sheep,can be found in zoos,1,land animal
 sheep,can be found on farms,1,land animal
 sheep,can be found on land,1,land animal
+sheep,can be violent,1,land animal
 sheep,can be white in color,1,land animal
 sheep,can bite,1,land animal
 sheep,can bleed,1,land animal
@@ -23819,7 +23888,7 @@ ship,is a type of boat,1,water vehicle
 ship,is a vehicle,1,water vehicle
 ship,is a vessel,1,water vehicle
 ship,is buoyant,1,water vehicle
-ship,is found on water,1,water vehicle
+ship,is found in water,1,water vehicle
 ship,is manmade,1,water vehicle
 ship,is manned by a crew,1,water vehicle
 ship,is moveable,1,water vehicle
@@ -23980,7 +24049,6 @@ shrimp,can be eaten,1,sea creature
 shrimp,can be fished,1,sea creature
 shrimp,can be found in seas,1,sea creature
 shrimp,can be found in the wild,1,sea creature
-shrimp,can be found in water,1,sea creature
 shrimp,can be found living in large groups,1,sea creature
 shrimp,can be found underwater,1,sea creature
 shrimp,can be orange in color,1,sea creature
@@ -24036,6 +24104,7 @@ shrimp,is eaten as meat,1,sea creature
 shrimp,is eaten by humans,1,sea creature
 shrimp,is eaten in salad,1,sea creature
 shrimp,is fished in nets,1,sea creature
+shrimp,is found in water,1,sea creature
 shrimp,is made of cells,1,sea creature
 shrimp,is made of flesh,1,sea creature
 shrimp,is seafood,1,sea creature
@@ -24205,6 +24274,7 @@ skunk,can be found in forests,1,land animal
 skunk,can be found in the wild,1,land animal
 skunk,can be found in zoos,1,land animal
 skunk,can be found on land,1,land animal
+skunk,can be violent,1,land animal
 skunk,can be white in color,1,land animal
 skunk,can bite,1,land animal
 skunk,can bleed,1,land animal
@@ -24373,7 +24443,6 @@ slug,requires moisture,1,invertebrate
 snail,can be eaten,1,invertebrate
 snail,can be found in gardens,1,invertebrate
 snail,can be found in the wild,1,invertebrate
-snail,can be found in water,1,invertebrate
 snail,can be found on land,1,invertebrate
 snail,can be slow,1,invertebrate
 snail,can bleed,1,invertebrate
@@ -24419,6 +24488,7 @@ snail,is an invertebrate,1,invertebrate
 snail,is cold blooded,1,invertebrate
 snail,is eaten by birds,1,invertebrate
 snail,is found in unhygienic conditions,1,invertebrate
+snail,is found in water,1,invertebrate
 snail,is killed by salt,1,invertebrate
 snail,is made of cells,1,invertebrate
 snail,is made of flesh,1,invertebrate
@@ -24476,6 +24546,7 @@ sofa,can be lied on,1,furniture
 sofa,can be made of fabric,1,furniture
 sofa,can be made of leather,1,furniture
 sofa,can be made of soft fabric,1,furniture
+sofa,can be made of wood,1,furniture
 sofa,can be sat on,1,furniture
 sofa,can be short,1,furniture
 sofa,can be upholstered,1,furniture
@@ -24858,7 +24929,7 @@ speedboat,is a type of boat,1,water vehicle
 speedboat,is a vehicle,1,water vehicle
 speedboat,is a vessel,1,water vehicle
 speedboat,is buoyant,1,water vehicle
-speedboat,is found on water,1,water vehicle
+speedboat,is found in water,1,water vehicle
 speedboat,is manmade,1,water vehicle
 speedboat,is moveable,1,water vehicle
 speedboat,is operated by humans,1,water vehicle
@@ -25091,7 +25162,6 @@ squid,can be eaten,1,sea creature
 squid,can be fished,1,sea creature
 squid,can be found in seas,1,sea creature
 squid,can be found in the wild,1,sea creature
-squid,can be found in water,1,sea creature
 squid,can be found underwater,1,sea creature
 squid,can be fried,1,sea creature
 squid,can be pink in color,1,sea creature
@@ -25147,6 +25217,7 @@ squid,is cold blooded,1,sea creature
 squid,is eaten as meat,1,sea creature
 squid,is eaten by humans,1,sea creature
 squid,is fished in nets,1,sea creature
+squid,is found in water,1,sea creature
 squid,is made of cells,1,sea creature
 squid,is made of flesh,1,sea creature
 squid,is seafood,1,sea creature
@@ -25164,6 +25235,7 @@ squirrel,can be found on trees,1,land animal
 squirrel,can be grey in color,1,land animal
 squirrel,can be red in color,1,land animal
 squirrel,can be scary,1,land animal
+squirrel,can be violent,1,land animal
 squirrel,can bite,1,land animal
 squirrel,can bleed,1,land animal
 squirrel,can breathe,1,land animal
@@ -25255,7 +25327,6 @@ starling,can fly,1,bird
 starling,can fly fast,1,bird
 starling,can fly in formation,1,bird
 starling,can grow,1,bird
-starling,can have spots on its body,1,bird
 starling,can lay eggs,1,bird
 starling,can lick,1,bird
 starling,can make sounds,1,bird
@@ -25294,6 +25365,7 @@ starling,has forelimbs,1,bird
 starling,has legs,1,bird
 starling,has skin,1,bird
 starling,has small legs,1,bird
+starling,has spots on its body,1,bird
 starling,has tail feathers,1,bird
 starling,has two eyes,1,bird
 starling,has two feet,1,bird
@@ -25666,7 +25738,6 @@ submarine,is a vessel,1,water vehicle
 submarine,is airlocked,1,water vehicle
 submarine,is buoyant,1,water vehicle
 submarine,is elliptical in shape,1,water vehicle
-submarine,is found on water,1,water vehicle
 submarine,is manmade,1,water vehicle
 submarine,is manned by a crew,1,water vehicle
 submarine,is moveable,1,water vehicle
@@ -25847,6 +25918,7 @@ sunflower,can be tall,1,flower
 sunflower,can be yellow in color,1,flower
 sunflower,can blow in the wind,1,flower
 sunflower,can grow,1,flower
+sunflower,can reproduce,1,flower
 sunflower,comes in different varieties,1,flower
 sunflower,contains oil,1,flower
 sunflower,follows the sun,1,flower
@@ -25887,7 +25959,6 @@ swan,can be black in color,1,bird
 swan,can be eaten,1,bird
 swan,can be found in rivers,1,bird
 swan,can be found in the wild,1,bird
-swan,can be found in water,1,bird
 swan,can be found in zoos,1,bird
 swan,can be found on land,1,bird
 swan,can be found on trees,1,bird
@@ -25960,7 +26031,7 @@ swan,is a herbivore,1,bird
 swan,is a living thing,1,bird
 swan,is a water bird,1,bird
 swan,is an animal,1,bird
-swan,is found on water,1,bird
+swan,is found in water,1,bird
 swan,is made of cells,1,bird
 swan,is made of flesh,1,bird
 swan,is semi aquatic,1,bird
@@ -26209,6 +26280,7 @@ sycamore,can blow in the wind,1,tree
 sycamore,can grow,1,tree
 sycamore,can house birds,1,tree
 sycamore,can provide shade,1,tree
+sycamore,can reproduce,1,tree
 sycamore,can spin,1,tree
 sycamore,has a hard surface,1,tree
 sycamore,has a stem,1,tree
@@ -26877,7 +26949,6 @@ tiger,can eat,1,land animal
 tiger,can eat animals,1,land animal
 tiger,can grow,1,land animal
 tiger,can growl,1,land animal
-tiger,can have sharp teeth,1,land animal
 tiger,can hunt,1,land animal
 tiger,can jump,1,land animal
 tiger,can kill,1,land animal
@@ -26923,6 +26994,7 @@ tiger,has legs,1,land animal
 tiger,has patterns on its body,1,land animal
 tiger,has paws,1,land animal
 tiger,has sharp claws,1,land animal
+tiger,has sharp teeth,1,land animal
 tiger,has skin,1,land animal
 tiger,has striped patterns,1,land animal
 tiger,has strong muscles,1,land animal
@@ -26992,12 +27064,12 @@ toad,can be found in forests,1,land animal
 toad,can be found in gardens,1,land animal
 toad,can be found in rivers,1,land animal
 toad,can be found in the wild,1,land animal
-toad,can be found in water,1,land animal
 toad,can be found in zoos,1,land animal
 toad,can be found on land,1,land animal
 toad,can be found on ponds,1,land animal
 toad,can be grey in color,1,land animal
 toad,can be poisonous,1,land animal
+toad,can be violent,1,land animal
 toad,can bite,1,land animal
 toad,can bleed,1,land animal
 toad,can breathe,1,land animal
@@ -27054,6 +27126,7 @@ toad,is a living thing,1,land animal
 toad,is an amphibian,1,land animal
 toad,is an animal,1,land animal
 toad,is cold blooded,1,land animal
+toad,is found in water,1,land animal
 toad,is green in color,1,land animal
 toad,is made of cells,1,land animal
 toad,is made of flesh,1,land animal
@@ -27289,6 +27362,7 @@ tortoise,can be found in the wild,1,land animal
 tortoise,can be found in zoos,1,land animal
 tortoise,can be found on land,1,land animal
 tortoise,can be slow,1,land animal
+tortoise,can be violent,1,land animal
 tortoise,can bite,1,land animal
 tortoise,can bleed,1,land animal
 tortoise,can breathe,1,land animal
@@ -27350,7 +27424,6 @@ tortoise,is a reptile,1,land animal
 tortoise,is an animal,1,land animal
 tortoise,is cold blooded,1,land animal
 tortoise,is endangered,1,land animal
-tortoise,is found on water,1,land animal
 tortoise,is green in color,1,land animal
 tortoise,is made of cells,1,land animal
 tortoise,is made of flesh,1,land animal
@@ -27697,7 +27770,6 @@ trout,can be fished,1,fish
 trout,can be found in rivers,1,fish
 trout,can be found in seas,1,fish
 trout,can be found in the wild,1,fish
-trout,can be found in water,1,fish
 trout,can be found underwater,1,fish
 trout,can be grey in color,1,fish
 trout,can be oily,1,fish
@@ -27709,8 +27781,8 @@ trout,can come in multiple colors,1,fish
 trout,can drink,1,fish
 trout,can eat,1,fish
 trout,can grow,1,fish
-trout,can have spots on its body,1,fish
 trout,can lay eggs,1,fish
+trout,can lick,1,fish
 trout,can move,1,fish
 trout,can reproduce,1,fish
 trout,can sleep,1,fish
@@ -27723,6 +27795,7 @@ trout,has a fishy smell,1,fish
 trout,has a head,1,fish
 trout,has a mouth,1,fish
 trout,has a tail,1,fish
+trout,has a tongue,1,fish
 trout,has bones,1,fish
 trout,has eyes,1,fish
 trout,has fins,1,fish
@@ -27731,6 +27804,7 @@ trout,has scales,1,fish
 trout,has scaly skin,1,fish
 trout,has skin,1,fish
 trout,has slimy skin,1,fish
+trout,has spots on its body,1,fish
 trout,has two eyes,1,fish
 trout,is a fish,1,fish
 trout,is a freshwater fish,1,fish
@@ -27743,6 +27817,7 @@ trout,is caught by tickling,1,fish
 trout,is cold blooded,1,fish
 trout,is fished in nets,1,fish
 trout,is found in freshwater,1,fish
+trout,is found in water,1,fish
 trout,is hunted,1,fish
 trout,is made of cells,1,fish
 trout,is made of flesh,1,fish
@@ -27989,7 +28064,7 @@ tugboat,is a vehicle,1,water vehicle
 tugboat,is a vessel,1,water vehicle
 tugboat,is buoyant,1,water vehicle
 tugboat,is found in a harbor,1,water vehicle
-tugboat,is found on water,1,water vehicle
+tugboat,is found in water,1,water vehicle
 tugboat,is manmade,1,water vehicle
 tugboat,is manned by a crew,1,water vehicle
 tugboat,is moveable,1,water vehicle
@@ -28060,7 +28135,6 @@ tuna,can be fished,1,fish
 tuna,can be found in seas,1,fish
 tuna,can be found in supermarkets,1,fish
 tuna,can be found in the wild,1,fish
-tuna,can be found in water,1,fish
 tuna,can be found underwater,1,fish
 tuna,can be silver in color,1,fish
 tuna,can be sold fresh,1,fish
@@ -28072,6 +28146,7 @@ tuna,can drink,1,fish
 tuna,can eat,1,fish
 tuna,can grow,1,fish
 tuna,can lay eggs,1,fish
+tuna,can lick,1,fish
 tuna,can move,1,fish
 tuna,can reproduce,1,fish
 tuna,can sleep,1,fish
@@ -28085,6 +28160,7 @@ tuna,has a head,1,fish
 tuna,has a mouth,1,fish
 tuna,has a strong smell,1,fish
 tuna,has a tail,1,fish
+tuna,has a tongue,1,fish
 tuna,has bones,1,fish
 tuna,has eyes,1,fish
 tuna,has fins,1,fish
@@ -28108,6 +28184,7 @@ tuna,is eaten as meat,1,fish
 tuna,is eaten by humans,1,fish
 tuna,is endangered,1,fish
 tuna,is fished in nets,1,fish
+tuna,is found in water,1,fish
 tuna,is hunted,1,fish
 tuna,is made of cells,1,fish
 tuna,is made of flesh,1,fish
@@ -28255,7 +28332,6 @@ turnip,performs photosynthesis,1,vegetable
 turnip,requires water,1,vegetable
 turtle,can be found in seas,1,sea creature
 turtle,can be found in the wild,1,sea creature
-turtle,can be found in water,1,sea creature
 turtle,can be found underwater,1,sea creature
 turtle,can be green in color,1,sea creature
 turtle,can be slow,1,sea creature
@@ -28317,7 +28393,7 @@ turtle,is cold blooded,1,sea creature
 turtle,is endangered,1,sea creature
 turtle,is fished in nets,1,sea creature
 turtle,is found in warm waters,1,sea creature
-turtle,is found on water,1,sea creature
+turtle,is found in water,1,sea creature
 turtle,is made of cells,1,sea creature
 turtle,is made of flesh,1,sea creature
 turtle,is semi aquatic,1,sea creature
@@ -28527,6 +28603,7 @@ veil,can be found in supermarkets,1,clothing
 veil,can be loose,1,clothing
 veil,can be made of fabric,1,clothing
 veil,can be made of lace,1,clothing
+veil,can be made of netting,1,clothing
 veil,can be made of soft fabric,1,clothing
 veil,can be posh,1,clothing
 veil,can be thin,1,clothing
@@ -28556,7 +28633,6 @@ veil,is worn on head,1,clothing
 veil,is worn on the face,1,clothing
 veil,is worn on upper body,1,clothing
 veil,is worn outdoors,1,clothing
-veil,made of net,1,clothing
 violin,can be a source of entertainment,1,music
 violin,can be acoustic,1,music
 violin,can be brown in color,1,music
@@ -28651,7 +28727,6 @@ walrus,can be dangerous,1,sea creature
 walrus,can be found in cold climate,1,sea creature
 walrus,can be found in seas,1,sea creature
 walrus,can be found in the wild,1,sea creature
-walrus,can be found in water,1,sea creature
 walrus,can be found on land,1,sea creature
 walrus,can be found underwater,1,sea creature
 walrus,can be grey in color,1,sea creature
@@ -28661,7 +28736,6 @@ walrus,can breathe,1,sea creature
 walrus,can drink,1,sea creature
 walrus,can eat,1,sea creature
 walrus,can grow,1,sea creature
-walrus,can have sharp teeth,1,sea creature
 walrus,can hold its breath for long periods of time,1,sea creature
 walrus,can kill,1,sea creature
 walrus,can make loud sounds,1,sea creature
@@ -28694,6 +28768,7 @@ walrus,has flippers,1,sea creature
 walrus,has forelimbs,1,sea creature
 walrus,has fur,1,sea creature
 walrus,has large teeth,1,sea creature
+walrus,has sharp teeth,1,sea creature
 walrus,has skin,1,sea creature
 walrus,has teeth,1,sea creature
 walrus,has tusks,1,sea creature
@@ -28708,6 +28783,7 @@ walrus,is an animal,1,sea creature
 walrus,is aquatic,1,sea creature
 walrus,is eaten by Inuits and Eskimos,1,sea creature
 walrus,is found in the arctic,1,sea creature
+walrus,is found in water,1,sea creature
 walrus,is made of cells,1,sea creature
 walrus,is made of flesh,1,sea creature
 walrus,is semi aquatic,1,sea creature
@@ -28991,7 +29067,6 @@ whale,can be dangerous,1,sea creature
 whale,can be fished,1,sea creature
 whale,can be found in seas,1,sea creature
 whale,can be found in the wild,1,sea creature
-whale,can be found in water,1,sea creature
 whale,can be found underwater,1,sea creature
 whale,can be loud,1,sea creature
 whale,can bleed,1,sea creature
@@ -29025,6 +29100,7 @@ whale,has a large mouth,1,sea creature
 whale,has a long body,1,sea creature
 whale,has a mouth,1,sea creature
 whale,has a neck,1,sea creature
+whale,has a nose,1,sea creature
 whale,has a tail,1,sea creature
 whale,has a tongue,1,sea creature
 whale,has babies that are called calves,1,sea creature
@@ -29046,6 +29122,7 @@ whale,is an animal,1,sea creature
 whale,is aquatic,1,sea creature
 whale,is endangered,1,sea creature
 whale,is fished in nets,1,sea creature
+whale,is found in water,1,sea creature
 whale,is hunted,1,sea creature
 whale,is hunted by humans,1,sea creature
 whale,is made of cells,1,sea creature
@@ -29103,6 +29180,7 @@ wheelbarrow,requires pulling,1,vehicle
 wheelchair,can be cumbersome to move around,1,vehicle
 wheelchair,can be fast,1,vehicle
 wheelchair,can be folded,1,vehicle
+wheelchair,can be found in supermarkets,1,vehicle
 wheelchair,can be made of metal,1,vehicle
 wheelchair,can be made of plastic,1,vehicle
 wheelchair,can be made of steel,1,vehicle
@@ -29271,6 +29349,7 @@ willow,can grow,1,tree
 willow,can house birds,1,tree
 willow,can live near the water,1,tree
 willow,can provide shade,1,tree
+willow,can reproduce,1,tree
 willow,has a hard surface,1,tree
 willow,has a stem,1,tree
 willow,has a trunk,1,tree
@@ -29383,11 +29462,11 @@ wolf,can eat,1,land animal
 wolf,can eat animals,1,land animal
 wolf,can grow,1,land animal
 wolf,can growl,1,land animal
-wolf,can have sharp teeth,1,land animal
 wolf,can hunt,1,land animal
 wolf,can jump,1,land animal
 wolf,can kill,1,land animal
 wolf,can lick,1,land animal
+wolf,can make loud sounds,1,land animal
 wolf,can make sounds,1,land animal
 wolf,can move,1,land animal
 wolf,can pounce,1,land animal
@@ -29425,6 +29504,7 @@ wolf,has large teeth,1,land animal
 wolf,has legs,1,land animal
 wolf,has paws,1,land animal
 wolf,has sharp claws,1,land animal
+wolf,has sharp teeth,1,land animal
 wolf,has skin,1,land animal
 wolf,has teeth,1,land animal
 wolf,has thick fur,1,land animal
@@ -29690,7 +29770,7 @@ yacht,is a vehicle,1,water vehicle
 yacht,is a vessel,1,water vehicle
 yacht,is buoyant,1,water vehicle
 yacht,is found in docks,1,water vehicle
-yacht,is found on water,1,water vehicle
+yacht,is found in water,1,water vehicle
 yacht,is luxurious,1,water vehicle
 yacht,is manmade,1,water vehicle
 yacht,is moveable,1,water vehicle
@@ -29796,6 +29876,7 @@ zebra,can be found in the wild,1,land animal
 zebra,can be found in zoos,1,land animal
 zebra,can be found on a safari,1,land animal
 zebra,can be found on land,1,land animal
+zebra,can be violent,1,land animal
 zebra,can be white in color,1,land animal
 zebra,can bite,1,land animal
 zebra,can bleed,1,land animal
