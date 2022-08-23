@@ -66,7 +66,7 @@ Fields:
 
 ## Using `semantic-memory` to generate worlds
 
-Start off by running `pip install semantic_memory`, then follow along:
+Start off by running `pip install semantic-memory -U`, then follow along:
 
 ### Creating a mini-world
 
