@@ -331,6 +331,7 @@ ant,has an exoskeleton,1,invertebrate
 ant,has bones,1,invertebrate
 ant,has eyes,1,invertebrate
 ant,has feet,1,invertebrate
+ant,has forelimbs,1,invertebrate
 ant,has legs,1,invertebrate
 ant,has pincers,1,invertebrate
 ant,has six legs,1,invertebrate
@@ -2056,6 +2057,7 @@ bee,has black and yellow stripes,1,invertebrate
 bee,has bones,1,invertebrate
 bee,has eyes,1,invertebrate
 bee,has feet,1,invertebrate
+bee,has forelimbs,1,invertebrate
 bee,has four wings,1,invertebrate
 bee,has fur,1,invertebrate
 bee,has legs,1,invertebrate
@@ -2175,6 +2177,7 @@ beetle,has an exoskeleton,1,invertebrate
 beetle,has bones,1,invertebrate
 beetle,has eyes,1,invertebrate
 beetle,has feet,1,invertebrate
+beetle,has forelimbs,1,invertebrate
 beetle,has legs,1,invertebrate
 beetle,has pincers,1,invertebrate
 beetle,has six legs,1,invertebrate
@@ -3869,6 +3872,7 @@ butterfly,has an exoskeleton,1,invertebrate
 butterfly,has bones,1,invertebrate
 butterfly,has eyes,1,invertebrate
 butterfly,has feet,1,invertebrate
+butterfly,has forelimbs,1,invertebrate
 butterfly,has four wings,1,invertebrate
 butterfly,has legs,1,invertebrate
 butterfly,has six legs,1,invertebrate
@@ -5240,6 +5244,7 @@ caterpillar,has an antenna,1,invertebrate
 caterpillar,has an exoskeleton,1,invertebrate
 caterpillar,has bones,1,invertebrate
 caterpillar,has eyes,1,invertebrate
+caterpillar,has forelimbs,1,invertebrate
 caterpillar,has fur,1,invertebrate
 caterpillar,has legs,1,invertebrate
 caterpillar,has skin,1,invertebrate
@@ -5458,6 +5463,7 @@ centipede,has a thorax,1,invertebrate
 centipede,has an antenna,1,invertebrate
 centipede,has an exoskeleton,1,invertebrate
 centipede,has eyes,1,invertebrate
+centipede,has forelimbs,1,invertebrate
 centipede,has legs,1,invertebrate
 centipede,has pincers,1,invertebrate
 centipede,has skin,1,invertebrate
@@ -6848,6 +6854,7 @@ cockroach,has an exoskeleton,1,invertebrate
 cockroach,has bones,1,invertebrate
 cockroach,has eyes,1,invertebrate
 cockroach,has feet,1,invertebrate
+cockroach,has forelimbs,1,invertebrate
 cockroach,has legs,1,invertebrate
 cockroach,has six legs,1,invertebrate
 cockroach,has skin,1,invertebrate
@@ -7692,6 +7699,7 @@ cricket,has big hind legs,1,invertebrate
 cricket,has bones,1,invertebrate
 cricket,has eyes,1,invertebrate
 cricket,has feet,1,invertebrate
+cricket,has forelimbs,1,invertebrate
 cricket,has legs,1,invertebrate
 cricket,has long legs,1,invertebrate
 cricket,has six legs,1,invertebrate
@@ -9156,6 +9164,7 @@ dragonfly,has bones,1,invertebrate
 dragonfly,has compound eyes,1,invertebrate
 dragonfly,has eyes,1,invertebrate
 dragonfly,has feet,1,invertebrate
+dragonfly,has forelimbs,1,invertebrate
 dragonfly,has four wings,1,invertebrate
 dragonfly,has legs,1,invertebrate
 dragonfly,has six legs,1,invertebrate
@@ -10436,6 +10445,7 @@ flea,has bones,1,invertebrate
 flea,has claws,1,invertebrate
 flea,has eyes,1,invertebrate
 flea,has feet,1,invertebrate
+flea,has forelimbs,1,invertebrate
 flea,has fur,1,invertebrate
 flea,has legs,1,invertebrate
 flea,has long legs,1,invertebrate
@@ -12056,6 +12066,7 @@ grasshopper,has big hind legs,1,invertebrate
 grasshopper,has bones,1,invertebrate
 grasshopper,has eyes,1,invertebrate
 grasshopper,has feet,1,invertebrate
+grasshopper,has forelimbs,1,invertebrate
 grasshopper,has legs,1,invertebrate
 grasshopper,has long legs,1,invertebrate
 grasshopper,has pincers,1,invertebrate
@@ -13372,6 +13383,7 @@ hornet,has an exoskeleton,1,invertebrate
 hornet,has bones,1,invertebrate
 hornet,has eyes,1,invertebrate
 hornet,has feet,1,invertebrate
+hornet,has forelimbs,1,invertebrate
 hornet,has four wings,1,invertebrate
 hornet,has fur,1,invertebrate
 hornet,has legs,1,invertebrate
@@ -13642,6 +13654,7 @@ housefly,has bones,1,invertebrate
 housefly,has compound eyes,1,invertebrate
 housefly,has eyes,1,invertebrate
 housefly,has feet,1,invertebrate
+housefly,has forelimbs,1,invertebrate
 housefly,has fur,1,invertebrate
 housefly,has legs,1,invertebrate
 housefly,has six legs,1,invertebrate
@@ -13723,7 +13736,6 @@ hummingbird,has ears,1,bird
 hummingbird,has eyes,1,bird
 hummingbird,has feathers,1,bird
 hummingbird,has feet,1,bird
-hummingbird,has forelimbs,1,bird
 hummingbird,has skin,1,bird
 hummingbird,has small legs,1,bird
 hummingbird,has tail feathers,1,bird
@@ -15026,6 +15038,7 @@ ladybird,has black spots,1,invertebrate
 ladybird,has bones,1,invertebrate
 ladybird,has eyes,1,invertebrate
 ladybird,has feet,1,invertebrate
+ladybird,has forelimbs,1,invertebrate
 ladybird,has legs,1,invertebrate
 ladybird,has six legs,1,invertebrate
 ladybird,has skin,1,invertebrate
@@ -16192,6 +16205,7 @@ locust,has an exoskeleton,1,invertebrate
 locust,has bones,1,invertebrate
 locust,has eyes,1,invertebrate
 locust,has feet,1,invertebrate
+locust,has forelimbs,1,invertebrate
 locust,has legs,1,invertebrate
 locust,has long legs,1,invertebrate
 locust,has six legs,1,invertebrate
@@ -16908,6 +16922,7 @@ millipede,has a thorax,1,invertebrate
 millipede,has an antenna,1,invertebrate
 millipede,has an exoskeleton,1,invertebrate
 millipede,has eyes,1,invertebrate
+millipede,has forelimbs,1,invertebrate
 millipede,has legs,1,invertebrate
 millipede,has skin,1,invertebrate
 millipede,has two legs for each segment,1,invertebrate
@@ -17310,6 +17325,7 @@ mosquito,has an exoskeleton,1,invertebrate
 mosquito,has bones,1,invertebrate
 mosquito,has eyes,1,invertebrate
 mosquito,has feet,1,invertebrate
+mosquito,has forelimbs,1,invertebrate
 mosquito,has legs,1,invertebrate
 mosquito,has six legs,1,invertebrate
 mosquito,has skin,1,invertebrate
@@ -17365,6 +17381,7 @@ moth,has an exoskeleton,1,invertebrate
 moth,has bones,1,invertebrate
 moth,has eyes,1,invertebrate
 moth,has feet,1,invertebrate
+moth,has forelimbs,1,invertebrate
 moth,has fur,1,invertebrate
 moth,has legs,1,invertebrate
 moth,has six legs,1,invertebrate
@@ -21013,6 +21030,7 @@ prawn,has a face,1,sea creature
 prawn,has a fishy smell,1,sea creature
 prawn,has a head,1,sea creature
 prawn,has a mouth,1,sea creature
+prawn,has a segmented body,1,sea creature
 prawn,has a shell,1,sea creature
 prawn,has a strong smell,1,sea creature
 prawn,has a tail,1,sea creature
@@ -21837,7 +21855,6 @@ rattlesnake,has ears,1,land animal
 rattlesnake,has eyes,1,land animal
 rattlesnake,has fangs,1,land animal
 rattlesnake,has feet,1,land animal
-rattlesnake,has forelimbs,1,land animal
 rattlesnake,has leathery skin,1,land animal
 rattlesnake,has scales,1,land animal
 rattlesnake,has scaly skin,1,land animal
@@ -23236,6 +23253,7 @@ scorpion,has claws,1,invertebrate
 scorpion,has eight legs,1,invertebrate
 scorpion,has eyes,1,invertebrate
 scorpion,has feet,1,invertebrate
+scorpion,has forelimbs,1,invertebrate
 scorpion,has legs,1,invertebrate
 scorpion,has pincers,1,invertebrate
 scorpion,has six legs,1,invertebrate
@@ -23601,6 +23619,7 @@ seal,has fins,1,land animal
 seal,has flippers,1,land animal
 seal,has forelimbs,1,land animal
 seal,has fur,1,land animal
+seal,has legs,1,land animal
 seal,has moist skin,1,land animal
 seal,has puppies,1,land animal
 seal,has skin,1,land animal
@@ -24987,6 +25006,7 @@ spider,has eight legs,1,invertebrate
 spider,has eyes,1,invertebrate
 spider,has fangs,1,invertebrate
 spider,has feet,1,invertebrate
+spider,has forelimbs,1,invertebrate
 spider,has fur,1,invertebrate
 spider,has legs,1,invertebrate
 spider,has several eyes,1,invertebrate
@@ -25421,6 +25441,7 @@ stick_insect,has an exoskeleton,1,invertebrate
 stick_insect,has bones,1,invertebrate
 stick_insect,has eyes,1,invertebrate
 stick_insect,has feet,1,invertebrate
+stick_insect,has forelimbs,1,invertebrate
 stick_insect,has legs,1,invertebrate
 stick_insect,has long legs,1,invertebrate
 stick_insect,has six legs,1,invertebrate
@@ -26577,6 +26598,7 @@ tarantula,has eight legs,1,invertebrate
 tarantula,has eyes,1,invertebrate
 tarantula,has fangs,1,invertebrate
 tarantula,has feet,1,invertebrate
+tarantula,has forelimbs,1,invertebrate
 tarantula,has fur,1,invertebrate
 tarantula,has hairy legs,1,invertebrate
 tarantula,has legs,1,invertebrate
@@ -26818,6 +26840,7 @@ termite,has an exoskeleton,1,invertebrate
 termite,has bones,1,invertebrate
 termite,has eyes,1,invertebrate
 termite,has feet,1,invertebrate
+termite,has forelimbs,1,invertebrate
 termite,has legs,1,invertebrate
 termite,has pincers,1,invertebrate
 termite,has six legs,1,invertebrate
@@ -28901,6 +28924,7 @@ wasp,has big eyes,1,invertebrate
 wasp,has bones,1,invertebrate
 wasp,has eyes,1,invertebrate
 wasp,has feet,1,invertebrate
+wasp,has forelimbs,1,invertebrate
 wasp,has four wings,1,invertebrate
 wasp,has fur,1,invertebrate
 wasp,has legs,1,invertebrate
