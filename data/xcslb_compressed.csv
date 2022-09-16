@@ -5979,10 +5979,13 @@ chestnut,produces wood,1,tree
 chestnut,requires sunlight,1,tree
 chestnut,requires water,1,tree
 chicken,can be airborne,1,bird
+chicken,can be bought and sold at supermarkets,1,bird
 chicken,can be brown in color,1,bird
 chicken,can be cooked,1,bird
 chicken,can be eaten,1,bird
 chicken,can be found in factories,1,bird
+chicken,can be found in shops,1,bird
+chicken,can be found in supermarkets,1,bird
 chicken,can be found in the wild,1,bird
 chicken,can be found in zoos,1,bird
 chicken,can be found on farms,1,bird
@@ -7404,11 +7407,14 @@ cow,is made of flesh,1,land animal
 cow,is warm blooded,1,land animal
 cow,lives in a stable,1,land animal
 cow,makes a mooing sound,1,land animal
+crab,can be bought and sold at supermarkets,1,sea creature
 crab,can be cooked,1,sea creature
 crab,can be eaten,1,sea creature
 crab,can be fished,1,sea creature
 crab,can be found in rock pools,1,sea creature
 crab,can be found in seas,1,sea creature
+crab,can be found in shops,1,sea creature
+crab,can be found in supermarkets,1,sea creature
 crab,can be found in the wild,1,sea creature
 crab,can be found on beaches,1,sea creature
 crab,can be found on land,1,sea creature
@@ -7593,12 +7599,15 @@ crane,is made of flesh,1,bird
 crane,is semi aquatic,1,bird
 crane,is streamlined,1,bird
 crane,is warm blooded,1,bird
+crayfish,can be bought and sold at supermarkets,1,sea creature
 crayfish,can be brown in color,1,sea creature
 crayfish,can be cooked,1,sea creature
 crayfish,can be cooked by boiling,1,sea creature
 crayfish,can be eaten,1,sea creature
 crayfish,can be fished,1,sea creature
 crayfish,can be found in seas,1,sea creature
+crayfish,can be found in shops,1,sea creature
+crayfish,can be found in supermarkets,1,sea creature
 crayfish,can be found in the wild,1,sea creature
 crayfish,can be found underwater,1,sea creature
 crayfish,can be orange in color,1,sea creature
@@ -13142,10 +13151,13 @@ heron,is made of flesh,1,bird
 heron,is semi aquatic,1,bird
 heron,is streamlined,1,bird
 heron,is warm blooded,1,bird
+herring,can be bought and sold at supermarkets,1,fish
 herring,can be cooked,1,fish
 herring,can be eaten,1,fish
 herring,can be fished,1,fish
 herring,can be found in seas,1,fish
+herring,can be found in shops,1,fish
+herring,can be found in supermarkets,1,fish
 herring,can be found in the wild,1,fish
 herring,can be found underwater,1,fish
 herring,can be oily,1,fish
@@ -15058,12 +15070,15 @@ ladybird,is red and black in color,1,invertebrate
 ladybird,is red with black spots,1,invertebrate
 ladybird,is round in shape,1,invertebrate
 lamb,can be black in color,1,land animal
+lamb,can be bought and sold at supermarkets,1,land animal
 lamb,can be cooked,1,land animal
 lamb,can be eaten,1,land animal
 lamb,can be fluffy,1,land animal
 lamb,can be found in fields,1,land animal
 lamb,can be found in forests,1,land animal
 lamb,can be found in mountains,1,land animal
+lamb,can be found in shops,1,land animal
+lamb,can be found in supermarkets,1,land animal
 lamb,can be found in the wild,1,land animal
 lamb,can be found in zoos,1,land animal
 lamb,can be found on farms,1,land animal
@@ -16094,10 +16109,13 @@ llama,is warm blooded,1,land animal
 llama,lives in herds,1,land animal
 llama,produces wool,1,land animal
 lobster,can be blue and black in color,1,sea creature
+lobster,can be bought and sold at supermarkets,1,sea creature
 lobster,can be cooked,1,sea creature
 lobster,can be eaten,1,sea creature
 lobster,can be fished,1,sea creature
 lobster,can be found in seas,1,sea creature
+lobster,can be found in shops,1,sea creature
+lobster,can be found in supermarkets,1,sea creature
 lobster,can be found in the wild,1,sea creature
 lobster,can be found underwater,1,sea creature
 lobster,can be grey in color,1,sea creature
@@ -16342,6 +16360,8 @@ mackerel,can be eaten,1,fish
 mackerel,can be fast,1,fish
 mackerel,can be fished,1,fish
 mackerel,can be found in seas,1,fish
+mackerel,can be found in shops,1,fish
+mackerel,can be found in supermarkets,1,fish
 mackerel,can be found in the wild,1,fish
 mackerel,can be found underwater,1,fish
 mackerel,can be grey in color,1,fish
@@ -18097,12 +18117,15 @@ oak,requires sunlight,1,tree
 oak,requires water,1,tree
 oak,sheds leaves in autumn,1,tree
 octopus,can be blue in color,1,sea creature
+octopus,can be bought and sold at supermarkets,1,sea creature
 octopus,can be cooked,1,sea creature
 octopus,can be dangerous,1,sea creature
 octopus,can be eaten,1,sea creature
 octopus,can be fast,1,sea creature
 octopus,can be fished,1,sea creature
 octopus,can be found in seas,1,sea creature
+octopus,can be found in shops,1,sea creature
+octopus,can be found in supermarkets,1,sea creature
 octopus,can be found in the wild,1,sea creature
 octopus,can be found underwater,1,sea creature
 octopus,can be soft,1,sea creature
@@ -21000,10 +21023,13 @@ potato,is used to make crisps,1,vegetable
 potato,performs photosynthesis,1,vegetable
 potato,requires water,1,vegetable
 prawn,can be bitter in taste,1,sea creature
+prawn,can be bought and sold at supermarkets,1,sea creature
 prawn,can be cooked,1,sea creature
 prawn,can be eaten,1,sea creature
 prawn,can be fished,1,sea creature
 prawn,can be found in seas,1,sea creature
+prawn,can be found in shops,1,sea creature
+prawn,can be found in supermarkets,1,sea creature
 prawn,can be found in the wild,1,sea creature
 prawn,can be found underwater,1,sea creature
 prawn,can be grey in color,1,sea creature
@@ -22638,6 +22664,8 @@ salmon,can be eaten,1,fish
 salmon,can be fished,1,fish
 salmon,can be found in rivers,1,fish
 salmon,can be found in seas,1,fish
+salmon,can be found in shops,1,fish
+salmon,can be found in supermarkets,1,fish
 salmon,can be found in the wild,1,fish
 salmon,can be found underwater,1,fish
 salmon,can be pink in color,1,fish
@@ -24063,10 +24091,13 @@ shovel,is used on soil,1,tool
 shovel,is used to clear snow,1,tool
 shovel,is used to dig holes,1,tool
 shovel,requires skill to use,1,tool
+shrimp,can be bought and sold at supermarkets,1,sea creature
 shrimp,can be cooked,1,sea creature
 shrimp,can be eaten,1,sea creature
 shrimp,can be fished,1,sea creature
 shrimp,can be found in seas,1,sea creature
+shrimp,can be found in shops,1,sea creature
+shrimp,can be found in supermarkets,1,sea creature
 shrimp,can be found in the wild,1,sea creature
 shrimp,can be found living in large groups,1,sea creature
 shrimp,can be found underwater,1,sea creature
@@ -25177,10 +25208,13 @@ spoon,is used to eat food,1,kitchenware
 spoon,is used to hold food,1,kitchenware
 spoon,is used to stir,1,kitchenware
 spoon,is used while eating,1,kitchenware
+squid,can be bought and sold at supermarkets,1,sea creature
 squid,can be cooked,1,sea creature
 squid,can be eaten,1,sea creature
 squid,can be fished,1,sea creature
 squid,can be found in seas,1,sea creature
+squid,can be found in shops,1,sea creature
+squid,can be found in supermarkets,1,sea creature
 squid,can be found in the wild,1,sea creature
 squid,can be found underwater,1,sea creature
 squid,can be fried,1,sea creature
@@ -28156,6 +28190,7 @@ tuna,can be eaten,1,fish
 tuna,can be fast,1,fish
 tuna,can be fished,1,fish
 tuna,can be found in seas,1,fish
+tuna,can be found in shops,1,fish
 tuna,can be found in supermarkets,1,fish
 tuna,can be found in the wild,1,fish
 tuna,can be found underwater,1,fish
@@ -28221,8 +28256,11 @@ tuna,lives under water,1,fish
 tuna,swims fast,1,fish
 turkey,can be airborne,1,bird
 turkey,can be black in color,1,bird
+turkey,can be bought and sold at supermarkets,1,bird
 turkey,can be cooked,1,bird
 turkey,can be eaten,1,bird
+turkey,can be found in shops,1,bird
+turkey,can be found in supermarkets,1,bird
 turkey,can be found in the wild,1,bird
 turkey,can be found in zoos,1,bird
 turkey,can be found on land,1,bird
