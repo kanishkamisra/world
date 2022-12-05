@@ -146,7 +146,6 @@ alligator,eats,1,land animal
 alligator,eats insects,1,land animal
 alligator,eats meat,1,land animal
 alligator,feeds on fish,1,land animal
-alligator,has a body,1,land animal
 alligator,has a crushing bite,1,land animal
 alligator,has a face,1,land animal
 alligator,has a good sense of smell,1,land animal
@@ -319,7 +318,6 @@ ant,can work in teams,1,invertebrate
 ant,collects food,1,invertebrate
 ant,eats,1,invertebrate
 ant,eats leaves,1,invertebrate
-ant,has a body,1,invertebrate
 ant,has a face,1,invertebrate
 ant,has a head,1,invertebrate
 ant,has a mouth,1,invertebrate
@@ -1604,7 +1602,6 @@ bat,eats fruit,1,land animal
 bat,eats insects,1,land animal
 bat,eats meat,1,land animal
 bat,eats rodents and mice,1,land animal
-bat,has a body,1,land animal
 bat,has a face,1,land animal
 bat,has a good sense of smell,1,land animal
 bat,has a head,1,land animal
@@ -1848,6 +1845,8 @@ bear,can make sounds,1,land animal
 bear,can move,1,land animal
 bear,can pounce,1,land animal
 bear,can reproduce,1,land animal
+bear,can run,1,land animal
+bear,can run fast,1,land animal
 bear,can sleep,1,land animal
 bear,can stand up vertically,1,land animal
 bear,can walk,1,land animal
@@ -1855,7 +1854,6 @@ bear,eats,1,land animal
 bear,eats insects,1,land animal
 bear,eats meat,1,land animal
 bear,feeds on fish,1,land animal
-bear,has a body,1,land animal
 bear,has a face,1,land animal
 bear,has a good sense of smell,1,land animal
 bear,has a head,1,land animal
@@ -1926,7 +1924,6 @@ beaver,eats,1,land animal
 beaver,eats leaves,1,land animal
 beaver,eats meat,1,land animal
 beaver,has a big tail,1,land animal
-beaver,has a body,1,land animal
 beaver,has a face,1,land animal
 beaver,has a flat tail,1,land animal
 beaver,has a good sense of smell,1,land animal
@@ -2044,7 +2041,6 @@ bee,can work in teams,1,invertebrate
 bee,collects food,1,invertebrate
 bee,eats,1,invertebrate
 bee,eats leaves,1,invertebrate
-bee,has a body,1,invertebrate
 bee,has a face,1,invertebrate
 bee,has a head,1,invertebrate
 bee,has a mouth,1,invertebrate
@@ -2054,6 +2050,7 @@ bee,has a thorax,1,invertebrate
 bee,has an antenna,1,invertebrate
 bee,has an exoskeleton,1,invertebrate
 bee,has black and yellow stripes,1,invertebrate
+bee,has black stripes,1,invertebrate
 bee,has bones,1,invertebrate
 bee,has eyes,1,invertebrate
 bee,has feet,1,invertebrate
@@ -2163,7 +2160,6 @@ beetle,can sleep,1,invertebrate
 beetle,can walk,1,invertebrate
 beetle,eats,1,invertebrate
 beetle,eats leaves,1,invertebrate
-beetle,has a body,1,invertebrate
 beetle,has a face,1,invertebrate
 beetle,has a glossy surface,1,invertebrate
 beetle,has a hard shell,1,invertebrate
@@ -3451,7 +3447,6 @@ budgie,eats insects,1,bird
 budgie,eats leaves,1,bird
 budgie,eats seeds,1,bird
 budgie,has a beak,1,bird
-budgie,has a body,1,bird
 budgie,has a curved beak,1,bird
 budgie,has a face,1,bird
 budgie,has a head,1,bird
@@ -3473,6 +3468,7 @@ budgie,has legs,1,bird
 budgie,has skin,1,bird
 budgie,has small legs,1,bird
 budgie,has tail feathers,1,bird
+budgie,has talons,1,bird
 budgie,has two eyes,1,bird
 budgie,has two feet,1,bird
 budgie,has two legs,1,bird
@@ -3527,7 +3523,6 @@ buffalo,eats hay,1,land animal
 buffalo,eats leaves,1,land animal
 buffalo,eats meat,1,land animal
 buffalo,has a big head,1,land animal
-buffalo,has a body,1,land animal
 buffalo,has a face,1,land animal
 buffalo,has a good sense of smell,1,land animal
 buffalo,has a head,1,land animal
@@ -3856,7 +3851,6 @@ butterfly,can sleep,1,invertebrate
 butterfly,eats,1,invertebrate
 butterfly,eats leaves,1,invertebrate
 butterfly,grows from caterpillars,1,invertebrate
-butterfly,has a body,1,invertebrate
 butterfly,has a cocoon,1,invertebrate
 butterfly,has a face,1,invertebrate
 butterfly,has a head,1,invertebrate
@@ -3926,7 +3920,6 @@ buzzard,eats insects,1,bird
 buzzard,eats meat,1,bird
 buzzard,eats rodents and mice,1,bird
 buzzard,has a beak,1,bird
-buzzard,has a body,1,bird
 buzzard,has a curved beak,1,bird
 buzzard,has a face,1,bird
 buzzard,has a head,1,bird
@@ -4178,7 +4171,6 @@ calf,eats,1,land animal
 calf,eats hay,1,land animal
 calf,eats insects,1,land animal
 calf,eats leaves,1,land animal
-calf,has a body,1,land animal
 calf,has a face,1,land animal
 calf,has a good sense of smell,1,land animal
 calf,has a head,1,land animal
@@ -4264,7 +4256,6 @@ camel,can walk long distances,1,land animal
 camel,eats,1,land animal
 camel,eats hay,1,land animal
 camel,eats leaves,1,land animal
-camel,has a body,1,land animal
 camel,has a face,1,land animal
 camel,has a good sense of smell,1,land animal
 camel,has a head,1,land animal
@@ -4439,7 +4430,6 @@ canary,eats insects,1,bird
 canary,eats meat,1,bird
 canary,eats seeds,1,bird
 canary,has a beak,1,bird
-canary,has a body,1,bird
 canary,has a face,1,bird
 canary,has a head,1,bird
 canary,has a mouth,1,bird
@@ -4460,6 +4450,7 @@ canary,has legs,1,bird
 canary,has skin,1,bird
 canary,has small legs,1,bird
 canary,has tail feathers,1,bird
+canary,has talons,1,bird
 canary,has two eyes,1,bird
 canary,has two feet,1,bird
 canary,has two legs,1,bird
@@ -4850,7 +4841,6 @@ carp,can sleep,1,fish
 carp,can swim,1,fish
 carp,eats,1,fish
 carp,eats meat,1,fish
-carp,has a body,1,fish
 carp,has a face,1,fish
 carp,has a fishy smell,1,fish
 carp,has a head,1,fish
@@ -5104,6 +5094,8 @@ cat,can pounce,1,land animal
 cat,can purr,1,land animal
 cat,can reproduce,1,land animal
 cat,can rub,1,land animal
+cat,can run,1,land animal
+cat,can run fast,1,land animal
 cat,can scratch,1,land animal
 cat,can sit,1,land animal
 cat,can sleep,1,land animal
@@ -5112,7 +5104,6 @@ cat,eats,1,land animal
 cat,eats meat,1,land animal
 cat,eats rodents and mice,1,land animal
 cat,feeds on fish,1,land animal
-cat,has a body,1,land animal
 cat,has a bushy tail,1,land animal
 cat,has a face,1,land animal
 cat,has a good sense of smell,1,land animal
@@ -5233,7 +5224,6 @@ caterpillar,can wriggle,1,invertebrate
 caterpillar,eats,1,invertebrate
 caterpillar,eats leaves,1,invertebrate
 caterpillar,goes through metamorphosis,1,invertebrate
-caterpillar,has a body,1,invertebrate
 caterpillar,has a cocoon,1,invertebrate
 caterpillar,has a face,1,invertebrate
 caterpillar,has a head,1,invertebrate
@@ -5450,7 +5440,6 @@ centipede,can walk,1,invertebrate
 centipede,can wriggle,1,invertebrate
 centipede,eats,1,invertebrate
 centipede,eats meat,1,invertebrate
-centipede,has a body,1,invertebrate
 centipede,has a circular head,1,invertebrate
 centipede,has a face,1,invertebrate
 centipede,has a head,1,invertebrate
@@ -5762,7 +5751,6 @@ cheetah,can walk,1,land animal
 cheetah,eats,1,land animal
 cheetah,eats meat,1,land animal
 cheetah,has a black nose,1,land animal
-cheetah,has a body,1,land animal
 cheetah,has a crushing bite,1,land animal
 cheetah,has a face,1,land animal
 cheetah,has a good sense of smell,1,land animal
@@ -6023,7 +6011,6 @@ chicken,eats meat,1,bird
 chicken,eats seeds,1,bird
 chicken,gives birth to chicks,1,bird
 chicken,has a beak,1,bird
-chicken,has a body,1,bird
 chicken,has a crest,1,bird
 chicken,has a face,1,bird
 chicken,has a head,1,bird
@@ -6046,6 +6033,7 @@ chicken,has scaly feet,1,bird
 chicken,has skin,1,bird
 chicken,has small legs,1,bird
 chicken,has tail feathers,1,bird
+chicken,has talons,1,bird
 chicken,has two eyes,1,bird
 chicken,has two feet,1,bird
 chicken,has two legs,1,bird
@@ -6108,7 +6096,6 @@ chipmunk,eats insects,1,land animal
 chipmunk,eats meat,1,land animal
 chipmunk,eats nuts,1,land animal
 chipmunk,eats seeds,1,land animal
-chipmunk,has a body,1,land animal
 chipmunk,has a bushy tail,1,land animal
 chipmunk,has a face,1,land animal
 chipmunk,has a good sense of smell,1,land animal
@@ -6364,7 +6351,6 @@ clam,does close,1,sea creature
 clam,eats,1,sea creature
 clam,eats meat,1,sea creature
 clam,has a big shell,1,sea creature
-clam,has a body,1,sea creature
 clam,has a face,1,sea creature
 clam,has a filter,1,sea creature
 clam,has a fishy smell,1,sea creature
@@ -6767,7 +6753,6 @@ cockerel,eats insects,1,bird
 cockerel,eats meat,1,bird
 cockerel,eats seeds,1,bird
 cockerel,has a beak,1,bird
-cockerel,has a body,1,bird
 cockerel,has a call,1,bird
 cockerel,has a crest,1,bird
 cockerel,has a face,1,bird
@@ -6794,6 +6779,7 @@ cockerel,has skin,1,bird
 cockerel,has small legs,1,bird
 cockerel,has spiked feet,1,bird
 cockerel,has tail feathers,1,bird
+cockerel,has talons,1,bird
 cockerel,has two eyes,1,bird
 cockerel,has two feet,1,bird
 cockerel,has two legs,1,bird
@@ -6843,7 +6829,6 @@ cockroach,can walk,1,invertebrate
 cockroach,eats,1,invertebrate
 cockroach,eats meat,1,invertebrate
 cockroach,has a bad smell,1,invertebrate
-cockroach,has a body,1,invertebrate
 cockroach,has a face,1,invertebrate
 cockroach,has a flat body,1,invertebrate
 cockroach,has a hard shell,1,invertebrate
@@ -6982,7 +6967,6 @@ cod,can swim,1,fish
 cod,contains fish oil,1,fish
 cod,eats,1,fish
 cod,eats meat,1,fish
-cod,has a body,1,fish
 cod,has a face,1,fish
 cod,has a fishy smell,1,fish
 cod,has a head,1,fish
@@ -7361,7 +7345,6 @@ cow,can walk,1,land animal
 cow,eats,1,land animal
 cow,eats hay,1,land animal
 cow,eats leaves,1,land animal
-cow,has a body,1,land animal
 cow,has a face,1,land animal
 cow,has a good sense of smell,1,land animal
 cow,has a head,1,land animal
@@ -7440,7 +7423,6 @@ crab,can walk,1,sea creature
 crab,can walk sideways,1,sea creature
 crab,eats,1,sea creature
 crab,eats meat,1,sea creature
-crab,has a body,1,sea creature
 crab,has a fishy smell,1,sea creature
 crab,has a hard shell,1,sea creature
 crab,has a head,1,sea creature
@@ -7560,7 +7542,6 @@ crane,eats meat,1,bird
 crane,feeds on fish,1,bird
 crane,has a beak,1,bird
 crane,has a big beak,1,bird
-crane,has a body,1,bird
 crane,has a call,1,bird
 crane,has a face,1,bird
 crane,has a head,1,bird
@@ -7574,6 +7555,7 @@ crane,has a thorax,1,bird
 crane,has a tongue,1,bird
 crane,has big wings,1,bird
 crane,has bones,1,bird
+crane,has claws,1,bird
 crane,has descended from dinosaurs,1,bird
 crane,has ears,1,bird
 crane,has eyes,1,bird
@@ -7584,6 +7566,7 @@ crane,has legs,1,bird
 crane,has long legs,1,bird
 crane,has skin,1,bird
 crane,has tail feathers,1,bird
+crane,has talons,1,bird
 crane,has thin legs,1,bird
 crane,has two eyes,1,bird
 crane,has two feet,1,bird
@@ -7628,7 +7611,6 @@ crayfish,can sleep,1,sea creature
 crayfish,can swim,1,sea creature
 crayfish,eats,1,sea creature
 crayfish,eats meat,1,sea creature
-crayfish,has a body,1,sea creature
 crayfish,has a face,1,sea creature
 crayfish,has a fishy smell,1,sea creature
 crayfish,has a hard exoskeleton,1,sea creature
@@ -7696,7 +7678,6 @@ cricket,can sleep,1,invertebrate
 cricket,can walk,1,invertebrate
 cricket,eats,1,invertebrate
 cricket,eats leaves,1,invertebrate
-cricket,has a body,1,invertebrate
 cricket,has a face,1,invertebrate
 cricket,has a head,1,invertebrate
 cricket,has a mouth,1,invertebrate
@@ -7769,7 +7750,6 @@ crocodile,can walk,1,land animal
 crocodile,eats,1,land animal
 crocodile,eats insects,1,land animal
 crocodile,eats meat,1,land animal
-crocodile,has a body,1,land animal
 crocodile,has a crushing bite,1,land animal
 crocodile,has a face,1,land animal
 crocodile,has a good sense of smell,1,land animal
@@ -8500,7 +8480,6 @@ deer,can sleep,1,land animal
 deer,can walk,1,land animal
 deer,eats,1,land animal
 deer,eats leaves,1,land animal
-deer,has a body,1,land animal
 deer,has a face,1,land animal
 deer,has a good sense of smell,1,land animal
 deer,has a head,1,land animal
@@ -8760,6 +8739,7 @@ dog,can move,1,land animal
 dog,can pounce,1,land animal
 dog,can reproduce,1,land animal
 dog,can run,1,land animal
+dog,can run fast,1,land animal
 dog,can sleep,1,land animal
 dog,can stand up vertically,1,land animal
 dog,can wag its tail,1,land animal
@@ -8768,7 +8748,6 @@ dog,chases balls,1,land animal
 dog,eats,1,land animal
 dog,eats meat,1,land animal
 dog,has a black nose,1,land animal
-dog,has a body,1,land animal
 dog,has a face,1,land animal
 dog,has a good sense of smell,1,land animal
 dog,has a head,1,land animal
@@ -8828,7 +8807,6 @@ doll,can be scary,1,toy
 doll,can be white in color,1,toy
 doll,can require cleaning,1,toy
 doll,can resemble a person,1,toy
-doll,has a body,1,toy
 doll,has a face,1,toy
 doll,has a head,1,toy
 doll,has arms,1,toy
@@ -8877,7 +8855,6 @@ dolphin,eats krill,1,sea creature
 dolphin,eats meat,1,sea creature
 dolphin,feeds on fish,1,sea creature
 dolphin,has a blowhole,1,sea creature
-dolphin,has a body,1,sea creature
 dolphin,has a face,1,sea creature
 dolphin,has a fishy smell,1,sea creature
 dolphin,has a head,1,sea creature
@@ -8889,6 +8866,7 @@ dolphin,has a nose,1,sea creature
 dolphin,has a smooth skin,1,sea creature
 dolphin,has a streamlined body,1,sea creature
 dolphin,has a tail,1,sea creature
+dolphin,has a thorax,1,sea creature
 dolphin,has a tongue,1,sea creature
 dolphin,has babies that are called calves,1,sea creature
 dolphin,has blubber,1,sea creature
@@ -8957,7 +8935,6 @@ donkey,eats hay,1,land animal
 donkey,eats insects,1,land animal
 donkey,eats leaves,1,land animal
 donkey,eats meat,1,land animal
-donkey,has a body,1,land animal
 donkey,has a face,1,land animal
 donkey,has a good sense of smell,1,land animal
 donkey,has a head,1,land animal
@@ -9089,7 +9066,6 @@ dove,eats,1,bird
 dove,eats insects,1,bird
 dove,eats meat,1,bird
 dove,has a beak,1,bird
-dove,has a body,1,bird
 dove,has a face,1,bird
 dove,has a head,1,bird
 dove,has a mouth,1,bird
@@ -9110,6 +9086,7 @@ dove,has legs,1,bird
 dove,has skin,1,bird
 dove,has small legs,1,bird
 dove,has tail feathers,1,bird
+dove,has talons,1,bird
 dove,has two eyes,1,bird
 dove,has two feet,1,bird
 dove,has two legs,1,bird
@@ -9154,7 +9131,6 @@ dragonfly,can reproduce,1,invertebrate
 dragonfly,can sleep,1,invertebrate
 dragonfly,eats,1,invertebrate
 dragonfly,eats meat,1,invertebrate
-dragonfly,has a body,1,invertebrate
 dragonfly,has a face,1,invertebrate
 dragonfly,has a glossy surface,1,invertebrate
 dragonfly,has a head,1,invertebrate
@@ -9453,7 +9429,6 @@ duck,eats insects,1,bird
 duck,eats meat,1,bird
 duck,gives birth to ducklings,1,bird
 duck,has a beak,1,bird
-duck,has a body,1,bird
 duck,has a face,1,bird
 duck,has a flat beak,1,bird
 duck,has a head,1,bird
@@ -9463,6 +9438,7 @@ duck,has a nose,1,bird
 duck,has a thorax,1,bird
 duck,has a tongue,1,bird
 duck,has bones,1,bird
+duck,has claws,1,bird
 duck,has descended from dinosaurs,1,bird
 duck,has ears,1,bird
 duck,has eyes,1,bird
@@ -9474,6 +9450,7 @@ duck,has oily glands,1,bird
 duck,has skin,1,bird
 duck,has small legs,1,bird
 duck,has tail feathers,1,bird
+duck,has talons,1,bird
 duck,has two eyes,1,bird
 duck,has two feet,1,bird
 duck,has two legs,1,bird
@@ -9534,7 +9511,6 @@ eagle,eats insects,1,bird
 eagle,eats meat,1,bird
 eagle,eats rodents and mice,1,bird
 eagle,has a beak,1,bird
-eagle,has a body,1,bird
 eagle,has a curved beak,1,bird
 eagle,has a face,1,bird
 eagle,has a head,1,bird
@@ -9702,7 +9678,6 @@ eel,can wriggle,1,fish
 eel,eats,1,fish
 eel,eats meat,1,fish
 eel,feeds on fish,1,fish
-eel,has a body,1,fish
 eel,has a face,1,fish
 eel,has a fishy smell,1,fish
 eel,has a head,1,fish
@@ -9830,7 +9805,6 @@ elephant,can walk,1,land animal
 elephant,can wallow,1,land animal
 elephant,eats,1,land animal
 elephant,eats leaves,1,land animal
-elephant,has a body,1,land animal
 elephant,has a face,1,land animal
 elephant,has a good memory,1,land animal
 elephant,has a good sense of smell,1,land animal
@@ -9958,7 +9932,6 @@ emu,eats leaves,1,bird
 emu,eats meat,1,bird
 emu,eats seeds,1,bird
 emu,has a beak,1,bird
-emu,has a body,1,bird
 emu,has a face,1,bird
 emu,has a furry texture,1,bird
 emu,has a head,1,bird
@@ -9970,6 +9943,7 @@ emu,has a small head,1,bird
 emu,has a thorax,1,bird
 emu,has a tongue,1,bird
 emu,has bones,1,bird
+emu,has claws,1,bird
 emu,has descended from dinosaurs,1,bird
 emu,has ears,1,bird
 emu,has eyes,1,bird
@@ -9980,6 +9954,7 @@ emu,has legs,1,bird
 emu,has long legs,1,bird
 emu,has skin,1,bird
 emu,has tail feathers,1,bird
+emu,has talons,1,bird
 emu,has thin legs,1,bird
 emu,has two eyes,1,bird
 emu,has two feet,1,bird
@@ -10130,7 +10105,6 @@ falcon,eats insects,1,bird
 falcon,eats meat,1,bird
 falcon,eats rodents and mice,1,bird
 falcon,has a beak,1,bird
-falcon,has a body,1,bird
 falcon,has a curved beak,1,bird
 falcon,has a face,1,bird
 falcon,has a head,1,bird
@@ -10376,7 +10350,6 @@ flamingo,feeds on fish,1,bird
 flamingo,has a beak,1,bird
 flamingo,has a big beak,1,bird
 flamingo,has a black beak,1,bird
-flamingo,has a body,1,bird
 flamingo,has a curved beak,1,bird
 flamingo,has a face,1,bird
 flamingo,has a head,1,bird
@@ -10388,6 +10361,7 @@ flamingo,has a nose,1,bird
 flamingo,has a thorax,1,bird
 flamingo,has a tongue,1,bird
 flamingo,has bones,1,bird
+flamingo,has claws,1,bird
 flamingo,has descended from dinosaurs,1,bird
 flamingo,has ears,1,bird
 flamingo,has eyes,1,bird
@@ -10398,6 +10372,7 @@ flamingo,has legs,1,bird
 flamingo,has long legs,1,bird
 flamingo,has skin,1,bird
 flamingo,has tail feathers,1,bird
+flamingo,has talons,1,bird
 flamingo,has thin legs,1,bird
 flamingo,has two eyes,1,bird
 flamingo,has two feet,1,bird
@@ -10443,7 +10418,6 @@ flea,can suck blood,1,invertebrate
 flea,can walk,1,invertebrate
 flea,eats,1,invertebrate
 flea,eats meat,1,invertebrate
-flea,has a body,1,invertebrate
 flea,has a face,1,invertebrate
 flea,has a head,1,invertebrate
 flea,has a mouth,1,invertebrate
@@ -10493,7 +10467,6 @@ flounder,can sleep,1,fish
 flounder,can swim,1,fish
 flounder,eats,1,fish
 flounder,eats meat,1,fish
-flounder,has a body,1,fish
 flounder,has a face,1,fish
 flounder,has a fishy smell,1,fish
 flounder,has a flat surface,1,fish
@@ -10813,7 +10786,6 @@ fox,eats,1,land animal
 fox,eats meat,1,land animal
 fox,eats rabbits,1,land animal
 fox,has a black nose,1,land animal
-fox,has a body,1,land animal
 fox,has a bushy tail,1,land animal
 fox,has a face,1,land animal
 fox,has a good sense of smell,1,land animal
@@ -10983,7 +10955,6 @@ frog,eats,1,land animal
 frog,eats flies,1,land animal
 frog,eats insects,1,land animal
 frog,eats meat,1,land animal
-frog,has a body,1,land animal
 frog,has a face,1,land animal
 frog,has a good sense of smell,1,land animal
 frog,has a head,1,land animal
@@ -11162,7 +11133,6 @@ gerbil,can walk,1,land animal
 gerbil,eats,1,land animal
 gerbil,eats meat,1,land animal
 gerbil,eats nuts,1,land animal
-gerbil,has a body,1,land animal
 gerbil,has a face,1,land animal
 gerbil,has a good sense of smell,1,land animal
 gerbil,has a head,1,land animal
@@ -11313,7 +11283,6 @@ giraffe,eats from branches,1,land animal
 giraffe,eats from trees,1,land animal
 giraffe,eats leaves,1,land animal
 giraffe,eats meat,1,land animal
-giraffe,has a body,1,land animal
 giraffe,has a face,1,land animal
 giraffe,has a good sense of smell,1,land animal
 giraffe,has a head,1,land animal
@@ -11490,7 +11459,6 @@ goat,eats,1,land animal
 goat,eats hay,1,land animal
 goat,eats leaves,1,land animal
 goat,has a beard,1,land animal
-goat,has a body,1,land animal
 goat,has a face,1,land animal
 goat,has a good sense of smell,1,land animal
 goat,has a head,1,land animal
@@ -11564,7 +11532,6 @@ goldfish,can swim,1,fish
 goldfish,eats,1,fish
 goldfish,eats meat,1,fish
 goldfish,eats pet fish food,1,fish
-goldfish,has a body,1,fish
 goldfish,has a face,1,fish
 goldfish,has a fishy smell,1,fish
 goldfish,has a head,1,fish
@@ -11687,7 +11654,6 @@ goose,eats,1,bird
 goose,eats insects,1,bird
 goose,eats leaves,1,bird
 goose,has a beak,1,bird
-goose,has a body,1,bird
 goose,has a face,1,bird
 goose,has a head,1,bird
 goose,has a long neck,1,bird
@@ -11699,6 +11665,7 @@ goose,has a thorax,1,bird
 goose,has a tongue,1,bird
 goose,has an orange or yellow beak,1,bird
 goose,has bones,1,bird
+goose,has claws,1,bird
 goose,has descended from dinosaurs,1,bird
 goose,has ears,1,bird
 goose,has eyes,1,bird
@@ -11709,6 +11676,7 @@ goose,has legs,1,bird
 goose,has skin,1,bird
 goose,has small legs,1,bird
 goose,has tail feathers,1,bird
+goose,has talons,1,bird
 goose,has thin legs,1,bird
 goose,has two eyes,1,bird
 goose,has two feet,1,bird
@@ -11771,7 +11739,6 @@ gorilla,eats bananas,1,land animal
 gorilla,eats fruit,1,land animal
 gorilla,eats leaves,1,land animal
 gorilla,eats vegetables,1,land animal
-gorilla,has a body,1,land animal
 gorilla,has a chest,1,land animal
 gorilla,has a face,1,land animal
 gorilla,has a good sense of smell,1,land animal
@@ -12063,7 +12030,6 @@ grasshopper,can walk,1,invertebrate
 grasshopper,does jump long distances,1,invertebrate
 grasshopper,eats,1,invertebrate
 grasshopper,eats leaves,1,invertebrate
-grasshopper,has a body,1,invertebrate
 grasshopper,has a face,1,invertebrate
 grasshopper,has a head,1,invertebrate
 grasshopper,has a mouth,1,invertebrate
@@ -12084,6 +12050,7 @@ grasshopper,has six legs,1,invertebrate
 grasshopper,has skin,1,invertebrate
 grasshopper,has wings,1,invertebrate
 grasshopper,hears through its legs,1,invertebrate
+grasshopper,hides in grass,1,invertebrate
 grasshopper,is a herbivore,1,invertebrate
 grasshopper,is a living thing,1,invertebrate
 grasshopper,is an animal,1,invertebrate
@@ -12223,7 +12190,6 @@ guinea_pig,eats green leaves,1,land animal
 guinea_pig,eats leaves,1,land animal
 guinea_pig,eats meat,1,land animal
 guinea_pig,eats vegetables,1,land animal
-guinea_pig,has a body,1,land animal
 guinea_pig,has a face,1,land animal
 guinea_pig,has a good sense of smell,1,land animal
 guinea_pig,has a head,1,land animal
@@ -12519,7 +12485,6 @@ hamster,eats meat,1,land animal
 hamster,eats nuts,1,land animal
 hamster,eats seeds,1,land animal
 hamster,eats vegetables,1,land animal
-hamster,has a body,1,land animal
 hamster,has a face,1,land animal
 hamster,has a good sense of smell,1,land animal
 hamster,has a head,1,land animal
@@ -12808,7 +12773,6 @@ hawk,eats left over carcass,1,bird
 hawk,eats meat,1,bird
 hawk,eats rodents and mice,1,bird
 hawk,has a beak,1,bird
-hawk,has a body,1,bird
 hawk,has a curved beak,1,bird
 hawk,has a face,1,bird
 hawk,has a head,1,bird
@@ -12926,7 +12890,6 @@ hedgehog,eats nuts,1,land animal
 hedgehog,eats slugs,1,land animal
 hedgehog,eats snails,1,land animal
 hedgehog,eats worms,1,land animal
-hedgehog,has a body,1,land animal
 hedgehog,has a face,1,land animal
 hedgehog,has a good sense of smell,1,land animal
 hedgehog,has a head,1,land animal
@@ -13114,7 +13077,6 @@ heron,eats insects,1,bird
 heron,eats meat,1,bird
 heron,feeds on fish,1,bird
 heron,has a beak,1,bird
-heron,has a body,1,bird
 heron,has a face,1,bird
 heron,has a head,1,bird
 heron,has a long beak,1,bird
@@ -13126,6 +13088,7 @@ heron,has a thorax,1,bird
 heron,has a tongue,1,bird
 heron,has big wings,1,bird
 heron,has bones,1,bird
+heron,has claws,1,bird
 heron,has descended from dinosaurs,1,bird
 heron,has ears,1,bird
 heron,has eyes,1,bird
@@ -13136,6 +13099,7 @@ heron,has legs,1,bird
 heron,has long legs,1,bird
 heron,has skin,1,bird
 heron,has tail feathers,1,bird
+heron,has talons,1,bird
 heron,has thin legs,1,bird
 heron,has two eyes,1,bird
 heron,has two feet,1,bird
@@ -13179,7 +13143,6 @@ herring,can sleep,1,fish
 herring,can swim,1,fish
 herring,eats,1,fish
 herring,eats meat,1,fish
-herring,has a body,1,fish
 herring,has a face,1,fish
 herring,has a fishy smell,1,fish
 herring,has a head,1,fish
@@ -13257,7 +13220,6 @@ hippo,eats insects,1,land animal
 hippo,eats leaves,1,land animal
 hippo,eats meat,1,land animal
 hippo,has a big nose,1,land animal
-hippo,has a body,1,land animal
 hippo,has a crushing bite,1,land animal
 hippo,has a face,1,land animal
 hippo,has a good sense of smell,1,land animal
@@ -13382,7 +13344,6 @@ hornet,can sting,1,invertebrate
 hornet,can sting repeatedly,1,invertebrate
 hornet,eats,1,invertebrate
 hornet,eats meat,1,invertebrate
-hornet,has a body,1,invertebrate
 hornet,has a face,1,invertebrate
 hornet,has a fatal sting,1,invertebrate
 hornet,has a head,1,invertebrate
@@ -13392,6 +13353,7 @@ hornet,has a sting,1,invertebrate
 hornet,has a thorax,1,invertebrate
 hornet,has an antenna,1,invertebrate
 hornet,has an exoskeleton,1,invertebrate
+hornet,has black stripes,1,invertebrate
 hornet,has bones,1,invertebrate
 hornet,has eyes,1,invertebrate
 hornet,has feet,1,invertebrate
@@ -13464,7 +13426,6 @@ horse,eats hay,1,land animal
 horse,eats insects,1,land animal
 horse,eats leaves,1,land animal
 horse,eats vegetables,1,land animal
-horse,has a body,1,land animal
 horse,has a face,1,land animal
 horse,has a good sense of smell,1,land animal
 horse,has a head,1,land animal
@@ -13652,7 +13613,6 @@ housefly,can suck blood,1,invertebrate
 housefly,can walk,1,invertebrate
 housefly,eats,1,invertebrate
 housefly,eats meat,1,invertebrate
-housefly,has a body,1,invertebrate
 housefly,has a face,1,invertebrate
 housefly,has a head,1,invertebrate
 housefly,has a mouth,1,invertebrate
@@ -13728,7 +13688,6 @@ hummingbird,eats leaves,1,bird
 hummingbird,eats nectar,1,bird
 hummingbird,flaps its wings fast,1,bird
 hummingbird,has a beak,1,bird
-hummingbird,has a body,1,bird
 hummingbird,has a face,1,bird
 hummingbird,has a head,1,bird
 hummingbird,has a long beak,1,bird
@@ -13751,6 +13710,7 @@ hummingbird,has feet,1,bird
 hummingbird,has skin,1,bird
 hummingbird,has small legs,1,bird
 hummingbird,has tail feathers,1,bird
+hummingbird,has talons,1,bird
 hummingbird,has two eyes,1,bird
 hummingbird,has two feet,1,bird
 hummingbird,has two legs,1,bird
@@ -13905,7 +13865,6 @@ hyena,can walk,1,land animal
 hyena,eats,1,land animal
 hyena,eats left over carcass,1,land animal
 hyena,eats meat,1,land animal
-hyena,has a body,1,land animal
 hyena,has a face,1,land animal
 hyena,has a good sense of smell,1,land animal
 hyena,has a head,1,land animal
@@ -14045,7 +14004,6 @@ iguana,can walk,1,land animal
 iguana,eats,1,land animal
 iguana,eats insects,1,land animal
 iguana,eats leaves,1,land animal
-iguana,has a body,1,land animal
 iguana,has a face,1,land animal
 iguana,has a good sense of smell,1,land animal
 iguana,has a head,1,land animal
@@ -14372,7 +14330,6 @@ jellyfish,can swim,1,sea creature
 jellyfish,consumes planktons,1,sea creature
 jellyfish,eats,1,sea creature
 jellyfish,eats meat,1,sea creature
-jellyfish,has a body,1,sea creature
 jellyfish,has a fishy smell,1,sea creature
 jellyfish,has a head,1,sea creature
 jellyfish,has a jelly like texture,1,sea creature
@@ -14484,7 +14441,6 @@ kangaroo,eats leaves,1,land animal
 kangaroo,eats meat,1,land animal
 kangaroo,gives birth to joeys,1,land animal
 kangaroo,has a big tail,1,land animal
-kangaroo,has a body,1,land animal
 kangaroo,has a face,1,land animal
 kangaroo,has a good sense of smell,1,land animal
 kangaroo,has a head,1,land animal
@@ -14717,7 +14673,6 @@ kingfisher,eats insects,1,bird
 kingfisher,eats meat,1,bird
 kingfisher,feeds on fish,1,bird
 kingfisher,has a beak,1,bird
-kingfisher,has a body,1,bird
 kingfisher,has a face,1,bird
 kingfisher,has a head,1,bird
 kingfisher,has a long beak,1,bird
@@ -14728,6 +14683,7 @@ kingfisher,has a tail,1,bird
 kingfisher,has a thorax,1,bird
 kingfisher,has a tongue,1,bird
 kingfisher,has bones,1,bird
+kingfisher,has claws,1,bird
 kingfisher,has colorful feathers,1,bird
 kingfisher,has descended from dinosaurs,1,bird
 kingfisher,has ears,1,bird
@@ -14739,6 +14695,7 @@ kingfisher,has legs,1,bird
 kingfisher,has skin,1,bird
 kingfisher,has small legs,1,bird
 kingfisher,has tail feathers,1,bird
+kingfisher,has talons,1,bird
 kingfisher,has two eyes,1,bird
 kingfisher,has two feet,1,bird
 kingfisher,has two legs,1,bird
@@ -15038,7 +14995,6 @@ ladybird,can walk,1,invertebrate
 ladybird,eats,1,invertebrate
 ladybird,eats aphids,1,invertebrate
 ladybird,eats meat,1,invertebrate
-ladybird,has a body,1,invertebrate
 ladybird,has a face,1,invertebrate
 ladybird,has a head,1,invertebrate
 ladybird,has a mouth,1,invertebrate
@@ -15108,7 +15064,6 @@ lamb,drinks milk for nourishment,1,land animal
 lamb,eats,1,land animal
 lamb,eats hay,1,land animal
 lamb,eats leaves,1,land animal
-lamb,has a body,1,land animal
 lamb,has a face,1,land animal
 lamb,has a good sense of smell,1,land animal
 lamb,has a head,1,land animal
@@ -15478,7 +15433,6 @@ leopard,can walk,1,land animal
 leopard,eats,1,land animal
 leopard,eats meat,1,land animal
 leopard,has a black nose,1,land animal
-leopard,has a body,1,land animal
 leopard,has a crushing bite,1,land animal
 leopard,has a face,1,land animal
 leopard,has a good sense of smell,1,land animal
@@ -15859,7 +15813,6 @@ lion,can work in teams,1,land animal
 lion,eats,1,land animal
 lion,eats meat,1,land animal
 lion,has a black nose,1,land animal
-lion,has a body,1,land animal
 lion,has a crushing bite,1,land animal
 lion,has a face,1,land animal
 lion,has a good sense of smell,1,land animal
@@ -15991,7 +15944,6 @@ lizard,eats,1,land animal
 lizard,eats flies,1,land animal
 lizard,eats insects,1,land animal
 lizard,eats meat,1,land animal
-lizard,has a body,1,land animal
 lizard,has a face,1,land animal
 lizard,has a forked tongue,1,land animal
 lizard,has a good sense of smell,1,land animal
@@ -16063,7 +16015,6 @@ llama,can walk,1,land animal
 llama,eats,1,land animal
 llama,eats hay,1,land animal
 llama,eats leaves,1,land animal
-llama,has a body,1,land animal
 llama,has a face,1,land animal
 llama,has a good sense of smell,1,land animal
 llama,has a head,1,land animal
@@ -16140,7 +16091,6 @@ lobster,can walk,1,sea creature
 lobster,can walk sideways,1,sea creature
 lobster,eats,1,sea creature
 lobster,eats meat,1,sea creature
-lobster,has a body,1,sea creature
 lobster,has a fishy smell,1,sea creature
 lobster,has a hard shell,1,sea creature
 lobster,has a head,1,sea creature
@@ -16213,7 +16163,6 @@ locust,can sleep,1,invertebrate
 locust,can walk,1,invertebrate
 locust,eats,1,invertebrate
 locust,eats leaves,1,invertebrate
-locust,has a body,1,invertebrate
 locust,has a face,1,invertebrate
 locust,has a head,1,invertebrate
 locust,has a mouth,1,invertebrate
@@ -16385,7 +16334,6 @@ mackerel,can sleep,1,fish
 mackerel,can swim,1,fish
 mackerel,eats,1,fish
 mackerel,eats meat,1,fish
-mackerel,has a body,1,fish
 mackerel,has a face,1,fish
 mackerel,has a fishy smell,1,fish
 mackerel,has a head,1,fish
@@ -16461,7 +16409,6 @@ magpie,eats meat,1,bird
 magpie,eats seeds,1,bird
 magpie,has a beak,1,bird
 magpie,has a black beak,1,bird
-magpie,has a body,1,bird
 magpie,has a face,1,bird
 magpie,has a head,1,bird
 magpie,has a mouth,1,bird
@@ -16483,6 +16430,7 @@ magpie,has legs,1,bird
 magpie,has skin,1,bird
 magpie,has small legs,1,bird
 magpie,has tail feathers,1,bird
+magpie,has talons,1,bird
 magpie,has two eyes,1,bird
 magpie,has two feet,1,bird
 magpie,has two legs,1,bird
@@ -16933,7 +16881,6 @@ millipede,can walk,1,invertebrate
 millipede,can wriggle,1,invertebrate
 millipede,eats,1,invertebrate
 millipede,eats leaves,1,invertebrate
-millipede,has a body,1,invertebrate
 millipede,has a face,1,invertebrate
 millipede,has a head,1,invertebrate
 millipede,has a mouth,1,invertebrate
@@ -16981,7 +16928,6 @@ minnow,can sleep,1,fish
 minnow,can swim,1,fish
 minnow,eats,1,fish
 minnow,eats meat,1,fish
-minnow,has a body,1,fish
 minnow,has a face,1,fish
 minnow,has a fishy smell,1,fish
 minnow,has a head,1,fish
@@ -17138,7 +17084,6 @@ monkey,eats,1,land animal
 monkey,eats bananas,1,land animal
 monkey,eats fruit,1,land animal
 monkey,eats meat,1,land animal
-monkey,has a body,1,land animal
 monkey,has a face,1,land animal
 monkey,has a good sense of smell,1,land animal
 monkey,has a head,1,land animal
@@ -17210,7 +17155,6 @@ moose,can walk,1,land animal
 moose,eats,1,land animal
 moose,eats hay,1,land animal
 moose,eats leaves,1,land animal
-moose,has a body,1,land animal
 moose,has a face,1,land animal
 moose,has a good sense of smell,1,land animal
 moose,has a head,1,land animal
@@ -17333,7 +17277,6 @@ mosquito,can transmit malaria,1,invertebrate
 mosquito,can walk,1,invertebrate
 mosquito,eats,1,invertebrate
 mosquito,eats meat,1,invertebrate
-mosquito,has a body,1,invertebrate
 mosquito,has a face,1,invertebrate
 mosquito,has a head,1,invertebrate
 mosquito,has a high pitch,1,invertebrate
@@ -17391,7 +17334,6 @@ moth,consumes fabric,1,invertebrate
 moth,eats,1,invertebrate
 moth,eats leaves,1,invertebrate
 moth,grows from caterpillars,1,invertebrate
-moth,has a body,1,invertebrate
 moth,has a face,1,invertebrate
 moth,has a head,1,invertebrate
 moth,has a mouth,1,invertebrate
@@ -17524,7 +17466,6 @@ mouse,eats,1,land animal
 mouse,eats cheese,1,land animal
 mouse,eats grains,1,land animal
 mouse,eats leaves,1,land animal
-mouse,has a body,1,land animal
 mouse,has a face,1,land animal
 mouse,has a good sense of smell,1,land animal
 mouse,has a head,1,land animal
@@ -17722,7 +17663,6 @@ mussel,can sleep,1,sea creature
 mussel,consumes planktons,1,sea creature
 mussel,eats,1,sea creature
 mussel,eats meat,1,sea creature
-mussel,has a body,1,sea creature
 mussel,has a face,1,sea creature
 mussel,has a fishy smell,1,sea creature
 mussel,has a hard shell,1,sea creature
@@ -17918,7 +17858,6 @@ nightingale,eats insects,1,bird
 nightingale,eats meat,1,bird
 nightingale,eats seeds,1,bird
 nightingale,has a beak,1,bird
-nightingale,has a body,1,bird
 nightingale,has a face,1,bird
 nightingale,has a head,1,bird
 nightingale,has a mouth,1,bird
@@ -17939,6 +17878,7 @@ nightingale,has legs,1,bird
 nightingale,has skin,1,bird
 nightingale,has small legs,1,bird
 nightingale,has tail feathers,1,bird
+nightingale,has talons,1,bird
 nightingale,has two eyes,1,bird
 nightingale,has two feet,1,bird
 nightingale,has two legs,1,bird
@@ -18149,7 +18089,6 @@ octopus,eats meat,1,sea creature
 octopus,feeds on fish,1,sea creature
 octopus,has a beak,1,sea creature
 octopus,has a big head,1,sea creature
-octopus,has a body,1,sea creature
 octopus,has a face,1,sea creature
 octopus,has a fishy smell,1,sea creature
 octopus,has a head,1,sea creature
@@ -18585,7 +18524,6 @@ ostrich,eats leaves,1,bird
 ostrich,eats meat,1,bird
 ostrich,eats seeds,1,bird
 ostrich,has a beak,1,bird
-ostrich,has a body,1,bird
 ostrich,has a face,1,bird
 ostrich,has a furry texture,1,bird
 ostrich,has a head,1,bird
@@ -18597,6 +18535,7 @@ ostrich,has a small head,1,bird
 ostrich,has a thorax,1,bird
 ostrich,has a tongue,1,bird
 ostrich,has bones,1,bird
+ostrich,has claws,1,bird
 ostrich,has descended from dinosaurs,1,bird
 ostrich,has ears,1,bird
 ostrich,has eyes,1,bird
@@ -18608,6 +18547,7 @@ ostrich,has legs,1,bird
 ostrich,has long legs,1,bird
 ostrich,has skin,1,bird
 ostrich,has tail feathers,1,bird
+ostrich,has talons,1,bird
 ostrich,has two eyes,1,bird
 ostrich,has two feet,1,bird
 ostrich,has two legs,1,bird
@@ -18651,7 +18591,6 @@ otter,eats,1,land animal
 otter,eats meat,1,land animal
 otter,feeds on fish,1,land animal
 otter,has a black nose,1,land animal
-otter,has a body,1,land animal
 otter,has a face,1,land animal
 otter,has a good sense of smell,1,land animal
 otter,has a head,1,land animal
@@ -18783,7 +18722,6 @@ owl,eats insects,1,bird
 owl,eats meat,1,bird
 owl,eats rodents and mice,1,bird
 owl,has a beak,1,bird
-owl,has a body,1,bird
 owl,has a curved beak,1,bird
 owl,has a face,1,bird
 owl,has a head,1,bird
@@ -18864,7 +18802,6 @@ ox,can walk,1,land animal
 ox,eats,1,land animal
 ox,eats hay,1,land animal
 ox,eats leaves,1,land animal
-ox,has a body,1,land animal
 ox,has a face,1,land animal
 ox,has a good sense of smell,1,land animal
 ox,has a head,1,land animal
@@ -18942,7 +18879,6 @@ oyster,can swim,1,sea creature
 oyster,contains a pearl,1,sea creature
 oyster,eats,1,sea creature
 oyster,eats meat,1,sea creature
-oyster,has a body,1,sea creature
 oyster,has a face,1,sea creature
 oyster,has a fishy smell,1,sea creature
 oyster,has a hard shell,1,sea creature
@@ -19096,11 +19032,11 @@ panther,can move,1,land animal
 panther,can pounce,1,land animal
 panther,can reproduce,1,land animal
 panther,can run,1,land animal
+panther,can run fast,1,land animal
 panther,can sleep,1,land animal
 panther,can walk,1,land animal
 panther,eats,1,land animal
 panther,eats meat,1,land animal
-panther,has a body,1,land animal
 panther,has a crushing bite,1,land animal
 panther,has a face,1,land animal
 panther,has a good sense of smell,1,land animal
@@ -19189,7 +19125,6 @@ parakeet,eats insects,1,bird
 parakeet,eats meat,1,bird
 parakeet,eats seeds,1,bird
 parakeet,has a beak,1,bird
-parakeet,has a body,1,bird
 parakeet,has a curved beak,1,bird
 parakeet,has a face,1,bird
 parakeet,has a head,1,bird
@@ -19211,6 +19146,7 @@ parakeet,has legs,1,bird
 parakeet,has skin,1,bird
 parakeet,has small legs,1,bird
 parakeet,has tail feathers,1,bird
+parakeet,has talons,1,bird
 parakeet,has two eyes,1,bird
 parakeet,has two feet,1,bird
 parakeet,has two legs,1,bird
@@ -19369,7 +19305,6 @@ partridge,eats insects,1,bird
 partridge,eats meat,1,bird
 partridge,eats seeds,1,bird
 partridge,has a beak,1,bird
-partridge,has a body,1,bird
 partridge,has a face,1,bird
 partridge,has a head,1,bird
 partridge,has a mouth,1,bird
@@ -19390,6 +19325,7 @@ partridge,has legs,1,bird
 partridge,has skin,1,bird
 partridge,has small legs,1,bird
 partridge,has tail feathers,1,bird
+partridge,has talons,1,bird
 partridge,has thin legs,1,bird
 partridge,has two eyes,1,bird
 partridge,has two feet,1,bird
@@ -19579,7 +19515,6 @@ peacock,eats insects,1,bird
 peacock,eats meat,1,bird
 peacock,has a beak,1,bird
 peacock,has a big tail,1,bird
-peacock,has a body,1,bird
 peacock,has a crest,1,bird
 peacock,has a face,1,bird
 peacock,has a fanned tail,1,bird
@@ -19595,6 +19530,7 @@ peacock,has a tongue,1,bird
 peacock,has an extravagant tail,1,bird
 peacock,has bones,1,bird
 peacock,has bright feathers,1,bird
+peacock,has claws,1,bird
 peacock,has colorful feathers,1,bird
 peacock,has descended from dinosaurs,1,bird
 peacock,has ears,1,bird
@@ -19607,6 +19543,7 @@ peacock,has long feathers,1,bird
 peacock,has skin,1,bird
 peacock,has small legs,1,bird
 peacock,has tail feathers,1,bird
+peacock,has talons,1,bird
 peacock,has two eyes,1,bird
 peacock,has two feet,1,bird
 peacock,has two legs,1,bird
@@ -19848,7 +19785,6 @@ pelican,eats meat,1,bird
 pelican,feeds on fish,1,bird
 pelican,has a beak,1,bird
 pelican,has a big beak,1,bird
-pelican,has a body,1,bird
 pelican,has a face,1,bird
 pelican,has a head,1,bird
 pelican,has a long beak,1,bird
@@ -19862,6 +19798,7 @@ pelican,has a tongue,1,bird
 pelican,has an orange or yellow beak,1,bird
 pelican,has big wings,1,bird
 pelican,has bones,1,bird
+pelican,has claws,1,bird
 pelican,has descended from dinosaurs,1,bird
 pelican,has ears,1,bird
 pelican,has eyes,1,bird
@@ -19872,6 +19809,7 @@ pelican,has legs,1,bird
 pelican,has skin,1,bird
 pelican,has small legs,1,bird
 pelican,has tail feathers,1,bird
+pelican,has talons,1,bird
 pelican,has two eyes,1,bird
 pelican,has two feet,1,bird
 pelican,has two legs,1,bird
@@ -19925,7 +19863,6 @@ penguin,eats insects,1,bird
 penguin,eats meat,1,bird
 penguin,feeds on fish,1,bird
 penguin,has a beak,1,bird
-penguin,has a body,1,bird
 penguin,has a face,1,bird
 penguin,has a head,1,bird
 penguin,has a mouth,1,bird
@@ -19935,6 +19872,7 @@ penguin,has a thorax,1,bird
 penguin,has a tongue,1,bird
 penguin,has big feet,1,bird
 penguin,has bones,1,bird
+penguin,has claws,1,bird
 penguin,has descended from dinosaurs,1,bird
 penguin,has ears,1,bird
 penguin,has eyes,1,bird
@@ -19946,6 +19884,7 @@ penguin,has legs,1,bird
 penguin,has skin,1,bird
 penguin,has small legs,1,bird
 penguin,has tail feathers,1,bird
+penguin,has talons,1,bird
 penguin,has two eyes,1,bird
 penguin,has two feet,1,bird
 penguin,has two legs,1,bird
@@ -20142,7 +20081,6 @@ pig,can wallow,1,land animal
 pig,eats,1,land animal
 pig,eats meat,1,land animal
 pig,gives birth to piglets,1,land animal
-pig,has a body,1,land animal
 pig,has a curly tail,1,land animal
 pig,has a face,1,land animal
 pig,has a good sense of smell,1,land animal
@@ -20228,7 +20166,6 @@ pigeon,eats meat,1,bird
 pigeon,eats scraps,1,bird
 pigeon,eats worms,1,bird
 pigeon,has a beak,1,bird
-pigeon,has a body,1,bird
 pigeon,has a face,1,bird
 pigeon,has a head,1,bird
 pigeon,has a mouth,1,bird
@@ -20248,6 +20185,7 @@ pigeon,has legs,1,bird
 pigeon,has skin,1,bird
 pigeon,has small legs,1,bird
 pigeon,has tail feathers,1,bird
+pigeon,has talons,1,bird
 pigeon,has two eyes,1,bird
 pigeon,has two feet,1,bird
 pigeon,has two legs,1,bird
@@ -20528,7 +20466,6 @@ platypus,has a beak,1,land animal
 platypus,has a beaver tail,1,land animal
 platypus,has a big beak,1,land animal
 platypus,has a big tail,1,land animal
-platypus,has a body,1,land animal
 platypus,has a duck bill,1,land animal
 platypus,has a face,1,land animal
 platypus,has a flat tail,1,land animal
@@ -20773,6 +20710,7 @@ pony,can prance,1,land animal
 pony,can pull things,1,land animal
 pony,can reproduce,1,land animal
 pony,can run,1,land animal
+pony,can run fast,1,land animal
 pony,can sleep,1,land animal
 pony,can transport people,1,land animal
 pony,can trot,1,land animal
@@ -20780,7 +20718,6 @@ pony,can walk,1,land animal
 pony,eats,1,land animal
 pony,eats hay,1,land animal
 pony,eats leaves,1,land animal
-pony,has a body,1,land animal
 pony,has a face,1,land animal
 pony,has a good sense of smell,1,land animal
 pony,has a head,1,land animal
@@ -20916,7 +20853,6 @@ porcupine,can walk,1,land animal
 porcupine,eats,1,land animal
 porcupine,eats insects,1,land animal
 porcupine,eats leaves,1,land animal
-porcupine,has a body,1,land animal
 porcupine,has a face,1,land animal
 porcupine,has a good sense of smell,1,land animal
 porcupine,has a head,1,land animal
@@ -21051,7 +20987,6 @@ prawn,can sleep,1,sea creature
 prawn,can swim,1,sea creature
 prawn,eats,1,sea creature
 prawn,eats meat,1,sea creature
-prawn,has a body,1,sea creature
 prawn,has a face,1,sea creature
 prawn,has a fishy smell,1,sea creature
 prawn,has a head,1,sea creature
@@ -21264,7 +21199,6 @@ rabbit,eats,1,land animal
 rabbit,eats carrots,1,land animal
 rabbit,eats green leaves,1,land animal
 rabbit,eats leaves,1,land animal
-rabbit,has a body,1,land animal
 rabbit,has a face,1,land animal
 rabbit,has a fluffy tail,1,land animal
 rabbit,has a good sense of smell,1,land animal
@@ -21346,7 +21280,6 @@ raccoon,can walk,1,land animal
 raccoon,eats,1,land animal
 raccoon,eats leaves,1,land animal
 raccoon,eats meat,1,land animal
-raccoon,has a body,1,land animal
 raccoon,has a bushy tail,1,land animal
 raccoon,has a face,1,land animal
 raccoon,has a good sense of smell,1,land animal
@@ -21754,7 +21687,6 @@ rat,can stand up vertically,1,land animal
 rat,can walk,1,land animal
 rat,eats,1,land animal
 rat,eats meat,1,land animal
-rat,has a body,1,land animal
 rat,has a face,1,land animal
 rat,has a good sense of smell,1,land animal
 rat,has a hairless tail,1,land animal
@@ -21862,7 +21794,6 @@ rattlesnake,can sleep,1,land animal
 rattlesnake,eats,1,land animal
 rattlesnake,eats insects,1,land animal
 rattlesnake,eats meat,1,land animal
-rattlesnake,has a body,1,land animal
 rattlesnake,has a face,1,land animal
 rattlesnake,has a forked tongue,1,land animal
 rattlesnake,has a good sense of smell,1,land animal
@@ -21939,7 +21870,6 @@ raven,eats meat,1,bird
 raven,eats seeds,1,bird
 raven,has a beak,1,bird
 raven,has a big beak,1,bird
-raven,has a body,1,bird
 raven,has a face,1,bird
 raven,has a head,1,bird
 raven,has a mouth,1,bird
@@ -22106,7 +22036,6 @@ rhino,eats,1,land animal
 rhino,eats leaves,1,land animal
 rhino,eats meat,1,land animal
 rhino,has a big horn,1,land animal
-rhino,has a body,1,land animal
 rhino,has a face,1,land animal
 rhino,has a good sense of smell,1,land animal
 rhino,has a head,1,land animal
@@ -22130,6 +22059,7 @@ rhino,has forelimbs,1,land animal
 rhino,has four legs,1,land animal
 rhino,has hard and tough skin,1,land animal
 rhino,has ivory tusks,1,land animal
+rhino,has large muscles,1,land animal
 rhino,has leathery skin,1,land animal
 rhino,has legs,1,land animal
 rhino,has skin,1,land animal
@@ -22387,7 +22317,6 @@ robin,eats insects,1,bird
 robin,eats meat,1,bird
 robin,eats worms,1,bird
 robin,has a beak,1,bird
-robin,has a body,1,bird
 robin,has a face,1,bird
 robin,has a head,1,bird
 robin,has a mouth,1,bird
@@ -22408,6 +22337,7 @@ robin,has legs,1,bird
 robin,has skin,1,bird
 robin,has small legs,1,bird
 robin,has tail feathers,1,bird
+robin,has talons,1,bird
 robin,has two eyes,1,bird
 robin,has two feet,1,bird
 robin,has two legs,1,bird
@@ -22686,7 +22616,6 @@ salmon,can sleep,1,fish
 salmon,can swim,1,fish
 salmon,eats,1,fish
 salmon,eats meat,1,fish
-salmon,has a body,1,fish
 salmon,has a face,1,fish
 salmon,has a fishy smell,1,fish
 salmon,has a head,1,fish
@@ -22794,7 +22723,6 @@ sardine,can sleep,1,fish
 sardine,can swim,1,fish
 sardine,eats,1,fish
 sardine,eats meat,1,fish
-sardine,has a body,1,fish
 sardine,has a face,1,fish
 sardine,has a fishy smell,1,fish
 sardine,has a head,1,fish
@@ -23070,7 +22998,6 @@ scallop,can swim,1,sea creature
 scallop,eats,1,sea creature
 scallop,eats meat,1,sea creature
 scallop,has a big shell,1,sea creature
-scallop,has a body,1,sea creature
 scallop,has a face,1,sea creature
 scallop,has a fishy smell,1,sea creature
 scallop,has a hard shell,1,sea creature
@@ -23262,7 +23189,6 @@ scorpion,can walk,1,invertebrate
 scorpion,eats,1,invertebrate
 scorpion,eats insects,1,invertebrate
 scorpion,eats meat,1,invertebrate
-scorpion,has a body,1,invertebrate
 scorpion,has a curly tail,1,invertebrate
 scorpion,has a face,1,invertebrate
 scorpion,has a fatal sting,1,invertebrate
@@ -23486,7 +23412,6 @@ seagull,eats meat,1,bird
 seagull,eats seeds,1,bird
 seagull,feeds on fish,1,bird
 seagull,has a beak,1,bird
-seagull,has a body,1,bird
 seagull,has a face,1,bird
 seagull,has a head,1,bird
 seagull,has a mouth,1,bird
@@ -23496,6 +23421,7 @@ seagull,has a thorax,1,bird
 seagull,has a tongue,1,bird
 seagull,has a yellow and orange beak,1,bird
 seagull,has bones,1,bird
+seagull,has claws,1,bird
 seagull,has descended from dinosaurs,1,bird
 seagull,has ears,1,bird
 seagull,has eyes,1,bird
@@ -23506,6 +23432,7 @@ seagull,has legs,1,bird
 seagull,has skin,1,bird
 seagull,has small legs,1,bird
 seagull,has tail feathers,1,bird
+seagull,has talons,1,bird
 seagull,has two eyes,1,bird
 seagull,has two feet,1,bird
 seagull,has two legs,1,bird
@@ -23546,7 +23473,6 @@ seahorse,can sleep,1,fish
 seahorse,can swim,1,fish
 seahorse,eats,1,fish
 seahorse,eats meat,1,fish
-seahorse,has a body,1,fish
 seahorse,has a curly shape,1,fish
 seahorse,has a curly tail,1,fish
 seahorse,has a face,1,fish
@@ -23624,7 +23550,6 @@ seal,eats,1,land animal
 seal,eats meat,1,land animal
 seal,feeds on fish,1,land animal
 seal,has a black nose,1,land animal
-seal,has a body,1,land animal
 seal,has a face,1,land animal
 seal,has a good sense of smell,1,land animal
 seal,has a head,1,land animal
@@ -23703,7 +23628,6 @@ shark,can swim,1,fish
 shark,eats,1,fish
 shark,eats meat,1,fish
 shark,feeds on fish,1,fish
-shark,has a body,1,fish
 shark,has a crushing bite,1,fish
 shark,has a dorsal fin,1,fish
 shark,has a face,1,fish
@@ -23824,7 +23748,6 @@ sheep,eats,1,land animal
 sheep,eats hay,1,land animal
 sheep,eats leaves,1,land animal
 sheep,gives birth to lambs,1,land animal
-sheep,has a body,1,land animal
 sheep,has a face,1,land animal
 sheep,has a good sense of smell,1,land animal
 sheep,has a head,1,land animal
@@ -24120,7 +24043,6 @@ shrimp,can swim,1,sea creature
 shrimp,consumes planktons,1,sea creature
 shrimp,eats,1,sea creature
 shrimp,eats meat,1,sea creature
-shrimp,has a body,1,sea creature
 shrimp,has a face,1,sea creature
 shrimp,has a fishy smell,1,sea creature
 shrimp,has a head,1,sea creature
@@ -24344,7 +24266,6 @@ skunk,can walk,1,land animal
 skunk,drags its knuckles while walking,1,land animal
 skunk,eats,1,land animal
 skunk,eats meat,1,land animal
-skunk,has a body,1,land animal
 skunk,has a bushy tail,1,land animal
 skunk,has a face,1,land animal
 skunk,has a good sense of smell,1,land animal
@@ -24458,7 +24379,6 @@ slug,can wriggle,1,invertebrate
 slug,eats,1,invertebrate
 slug,eats green leaves,1,invertebrate
 slug,eats leaves,1,invertebrate
-slug,has a body,1,invertebrate
 slug,has a head,1,invertebrate
 slug,has a mouth,1,invertebrate
 slug,has a thorax,1,invertebrate
@@ -24512,7 +24432,6 @@ snail,can slide,1,invertebrate
 snail,eats,1,invertebrate
 snail,eats green leaves,1,invertebrate
 snail,eats leaves,1,invertebrate
-snail,has a body,1,invertebrate
 snail,has a head,1,invertebrate
 snail,has a mouth,1,invertebrate
 snail,has a shell,1,invertebrate
@@ -24792,7 +24711,6 @@ sparrow,eats meat,1,bird
 sparrow,eats seeds,1,bird
 sparrow,eats worms,1,bird
 sparrow,has a beak,1,bird
-sparrow,has a body,1,bird
 sparrow,has a face,1,bird
 sparrow,has a head,1,bird
 sparrow,has a mouth,1,bird
@@ -24814,6 +24732,7 @@ sparrow,has legs,1,bird
 sparrow,has skin,1,bird
 sparrow,has small legs,1,bird
 sparrow,has tail feathers,1,bird
+sparrow,has talons,1,bird
 sparrow,has thin legs,1,bird
 sparrow,has two eyes,1,bird
 sparrow,has two feet,1,bird
@@ -25026,7 +24945,6 @@ spider,eats,1,invertebrate
 spider,eats flies,1,invertebrate
 spider,eats insects,1,invertebrate
 spider,eats meat,1,invertebrate
-spider,has a body,1,invertebrate
 spider,has a face,1,invertebrate
 spider,has a head,1,invertebrate
 spider,has a mouth,1,invertebrate
@@ -25237,7 +25155,6 @@ squid,eats,1,sea creature
 squid,eats meat,1,sea creature
 squid,feeds on fish,1,sea creature
 squid,has a beak,1,sea creature
-squid,has a body,1,sea creature
 squid,has a fishy smell,1,sea creature
 squid,has a head,1,sea creature
 squid,has a mantle,1,sea creature
@@ -25321,7 +25238,6 @@ squirrel,eats leaves,1,land animal
 squirrel,eats nuts,1,land animal
 squirrel,eats seeds,1,land animal
 squirrel,has a big tail,1,land animal
-squirrel,has a body,1,land animal
 squirrel,has a bushy tail,1,land animal
 squirrel,has a face,1,land animal
 squirrel,has a good sense of smell,1,land animal
@@ -25399,7 +25315,6 @@ starling,eats meat,1,bird
 starling,eats seeds,1,bird
 starling,eats worms,1,bird
 starling,has a beak,1,bird
-starling,has a body,1,bird
 starling,has a face,1,bird
 starling,has a head,1,bird
 starling,has a mouth,1,bird
@@ -25421,6 +25336,7 @@ starling,has skin,1,bird
 starling,has small legs,1,bird
 starling,has spots on its body,1,bird
 starling,has tail feathers,1,bird
+starling,has talons,1,bird
 starling,has two eyes,1,bird
 starling,has two feet,1,bird
 starling,has two legs,1,bird
@@ -25464,7 +25380,6 @@ stick_insect,can slide,1,invertebrate
 stick_insect,can walk,1,invertebrate
 stick_insect,eats,1,invertebrate
 stick_insect,eats leaves,1,invertebrate
-stick_insect,has a body,1,invertebrate
 stick_insect,has a face,1,invertebrate
 stick_insect,has a head,1,invertebrate
 stick_insect,has a long body,1,invertebrate
@@ -26052,7 +25967,6 @@ swan,eats insects,1,bird
 swan,eats leaves,1,bird
 swan,gives birth to cygnets,1,bird
 swan,has a beak,1,bird
-swan,has a body,1,bird
 swan,has a face,1,bird
 swan,has a head,1,bird
 swan,has a long neck,1,bird
@@ -26064,6 +25978,7 @@ swan,has a tongue,1,bird
 swan,has an orange or yellow beak,1,bird
 swan,has big wings,1,bird
 swan,has bones,1,bird
+swan,has claws,1,bird
 swan,has descended from dinosaurs,1,bird
 swan,has ears,1,bird
 swan,has eyes,1,bird
@@ -26075,6 +25990,7 @@ swan,has orange feet,1,bird
 swan,has skin,1,bird
 swan,has small legs,1,bird
 swan,has tail feathers,1,bird
+swan,has talons,1,bird
 swan,has two eyes,1,bird
 swan,has two feet,1,bird
 swan,has two legs,1,bird
@@ -26619,7 +26535,6 @@ tarantula,eats flies,1,invertebrate
 tarantula,eats insects,1,invertebrate
 tarantula,eats meat,1,invertebrate
 tarantula,has a big body,1,invertebrate
-tarantula,has a body,1,invertebrate
 tarantula,has a face,1,invertebrate
 tarantula,has a head,1,invertebrate
 tarantula,has a mouth,1,invertebrate
@@ -26864,7 +26779,6 @@ termite,can walk,1,invertebrate
 termite,eats,1,invertebrate
 termite,eats leaves,1,invertebrate
 termite,eats wood,1,invertebrate
-termite,has a body,1,invertebrate
 termite,has a face,1,invertebrate
 termite,has a head,1,invertebrate
 termite,has a mouth,1,invertebrate
@@ -27016,11 +26930,11 @@ tiger,can pounce,1,land animal
 tiger,can reproduce,1,land animal
 tiger,can roar,1,land animal
 tiger,can run,1,land animal
+tiger,can run fast,1,land animal
 tiger,can sleep,1,land animal
 tiger,can walk,1,land animal
 tiger,eats,1,land animal
 tiger,eats meat,1,land animal
-tiger,has a body,1,land animal
 tiger,has a crushing bite,1,land animal
 tiger,has a face,1,land animal
 tiger,has a good sense of smell,1,land animal
@@ -27036,6 +26950,7 @@ tiger,has a tongue,1,land animal
 tiger,has an insatiable appetite,1,land animal
 tiger,has babies that are called cubs,1,land animal
 tiger,has big claws,1,land animal
+tiger,has black stripes,1,land animal
 tiger,has bones,1,land animal
 tiger,has claws,1,land animal
 tiger,has ears,1,land animal
@@ -27152,7 +27067,6 @@ toad,eats,1,land animal
 toad,eats flies,1,land animal
 toad,eats insects,1,land animal
 toad,eats meat,1,land animal
-toad,has a body,1,land animal
 toad,has a face,1,land animal
 toad,has a good sense of smell,1,land animal
 toad,has a head,1,land animal
@@ -27445,7 +27359,6 @@ tortoise,eats,1,land animal
 tortoise,eats leaves,1,land animal
 tortoise,eats vegetables,1,land animal
 tortoise,has a beak,1,land animal
-tortoise,has a body,1,land animal
 tortoise,has a face,1,land animal
 tortoise,has a good sense of smell,1,land animal
 tortoise,has a hard shell,1,land animal
@@ -27846,7 +27759,6 @@ trout,can sleep,1,fish
 trout,can swim,1,fish
 trout,eats,1,fish
 trout,eats meat,1,fish
-trout,has a body,1,fish
 trout,has a face,1,fish
 trout,has a fishy smell,1,fish
 trout,has a head,1,fish
@@ -28211,7 +28123,6 @@ tuna,can sleep,1,fish
 tuna,can swim,1,fish
 tuna,eats,1,fish
 tuna,eats meat,1,fish
-tuna,has a body,1,fish
 tuna,has a face,1,fish
 tuna,has a fishy smell,1,fish
 tuna,has a head,1,fish
@@ -28291,7 +28202,6 @@ turkey,eats insects,1,bird
 turkey,eats meat,1,bird
 turkey,eats seeds,1,bird
 turkey,has a beak,1,bird
-turkey,has a body,1,bird
 turkey,has a face,1,bird
 turkey,has a head,1,bird
 turkey,has a mouth,1,bird
@@ -28312,6 +28222,7 @@ turkey,has legs,1,bird
 turkey,has skin,1,bird
 turkey,has small legs,1,bird
 turkey,has tail feathers,1,bird
+turkey,has talons,1,bird
 turkey,has two eyes,1,bird
 turkey,has two feet,1,bird
 turkey,has two legs,1,bird
@@ -28416,7 +28327,6 @@ turtle,can walk,1,sea creature
 turtle,eats,1,sea creature
 turtle,eats leaves,1,sea creature
 turtle,has a beak,1,sea creature
-turtle,has a body,1,sea creature
 turtle,has a face,1,sea creature
 turtle,has a fishy smell,1,sea creature
 turtle,has a hard shell,1,sea creature
@@ -28811,7 +28721,6 @@ walrus,eats,1,sea creature
 walrus,eats meat,1,sea creature
 walrus,feeds on fish,1,sea creature
 walrus,has a big tail,1,sea creature
-walrus,has a body,1,sea creature
 walrus,has a face,1,sea creature
 walrus,has a fishy smell,1,sea creature
 walrus,has a head,1,sea creature
@@ -28820,6 +28729,7 @@ walrus,has a mouth,1,sea creature
 walrus,has a neck,1,sea creature
 walrus,has a nose,1,sea creature
 walrus,has a tail,1,sea creature
+walrus,has a thorax,1,sea creature
 walrus,has a tongue,1,sea creature
 walrus,has babies that are called cubs,1,sea creature
 walrus,has blubber,1,sea creature
@@ -28948,7 +28858,6 @@ wasp,can sting repeatedly,1,invertebrate
 wasp,does not die when it stings,1,invertebrate
 wasp,eats,1,invertebrate
 wasp,eats meat,1,invertebrate
-wasp,has a body,1,invertebrate
 wasp,has a face,1,invertebrate
 wasp,has a fatal sting,1,invertebrate
 wasp,has a head,1,invertebrate
@@ -28959,6 +28868,7 @@ wasp,has a thorax,1,invertebrate
 wasp,has an antenna,1,invertebrate
 wasp,has an exoskeleton,1,invertebrate
 wasp,has big eyes,1,invertebrate
+wasp,has black stripes,1,invertebrate
 wasp,has bones,1,invertebrate
 wasp,has eyes,1,invertebrate
 wasp,has feet,1,invertebrate
@@ -29154,7 +29064,6 @@ whale,eats meat,1,sea creature
 whale,feeds on fish,1,sea creature
 whale,has a big tail,1,sea creature
 whale,has a blowhole,1,sea creature
-whale,has a body,1,sea creature
 whale,has a face,1,sea creature
 whale,has a fishy smell,1,sea creature
 whale,has a head,1,sea creature
@@ -29164,6 +29073,7 @@ whale,has a mouth,1,sea creature
 whale,has a neck,1,sea creature
 whale,has a nose,1,sea creature
 whale,has a tail,1,sea creature
+whale,has a thorax,1,sea creature
 whale,has a tongue,1,sea creature
 whale,has babies that are called calves,1,sea creature
 whale,has baleen,1,sea creature
@@ -29534,6 +29444,7 @@ wolf,can move,1,land animal
 wolf,can pounce,1,land animal
 wolf,can reproduce,1,land animal
 wolf,can run,1,land animal
+wolf,can run fast,1,land animal
 wolf,can sleep,1,land animal
 wolf,can walk,1,land animal
 wolf,can work in teams,1,land animal
@@ -29541,7 +29452,6 @@ wolf,eats,1,land animal
 wolf,eats meat,1,land animal
 wolf,eats rabbits,1,land animal
 wolf,has a black nose,1,land animal
-wolf,has a body,1,land animal
 wolf,has a face,1,land animal
 wolf,has a good sense of smell,1,land animal
 wolf,has a head,1,land animal
@@ -29625,7 +29535,6 @@ woodpecker,eats insects,1,bird
 woodpecker,eats meat,1,bird
 woodpecker,has a beak,1,bird
 woodpecker,has a big beak,1,bird
-woodpecker,has a body,1,bird
 woodpecker,has a crest,1,bird
 woodpecker,has a face,1,bird
 woodpecker,has a head,1,bird
@@ -29639,6 +29548,7 @@ woodpecker,has a tail,1,bird
 woodpecker,has a thorax,1,bird
 woodpecker,has a tongue,1,bird
 woodpecker,has bones,1,bird
+woodpecker,has claws,1,bird
 woodpecker,has descended from dinosaurs,1,bird
 woodpecker,has ears,1,bird
 woodpecker,has eyes,1,bird
@@ -29649,6 +29559,7 @@ woodpecker,has legs,1,bird
 woodpecker,has skin,1,bird
 woodpecker,has small legs,1,bird
 woodpecker,has tail feathers,1,bird
+woodpecker,has talons,1,bird
 woodpecker,has two eyes,1,bird
 woodpecker,has two feet,1,bird
 woodpecker,has two legs,1,bird
@@ -29692,7 +29603,6 @@ worm,can wriggle,1,invertebrate
 worm,eats,1,invertebrate
 worm,eats dirt,1,invertebrate
 worm,eats leaves,1,invertebrate
-worm,has a body,1,invertebrate
 worm,has a head,1,invertebrate
 worm,has a mouth,1,invertebrate
 worm,has a segmented body,1,invertebrate
@@ -29747,7 +29657,6 @@ wren,eats,1,bird
 wren,eats insects,1,bird
 wren,eats meat,1,bird
 wren,has a beak,1,bird
-wren,has a body,1,bird
 wren,has a face,1,bird
 wren,has a head,1,bird
 wren,has a mouth,1,bird
@@ -29757,6 +29666,7 @@ wren,has a tail,1,bird
 wren,has a thorax,1,bird
 wren,has a tongue,1,bird
 wren,has bones,1,bird
+wren,has claws,1,bird
 wren,has descended from dinosaurs,1,bird
 wren,has ears,1,bird
 wren,has eyes,1,bird
@@ -29767,6 +29677,7 @@ wren,has legs,1,bird
 wren,has skin,1,bird
 wren,has small legs,1,bird
 wren,has tail feathers,1,bird
+wren,has talons,1,bird
 wren,has two eyes,1,bird
 wren,has two feet,1,bird
 wren,has two legs,1,bird
@@ -29962,7 +29873,6 @@ zebra,can walk,1,land animal
 zebra,eats,1,land animal
 zebra,eats leaves,1,land animal
 zebra,eats meat,1,land animal
-zebra,has a body,1,land animal
 zebra,has a face,1,land animal
 zebra,has a good sense of smell,1,land animal
 zebra,has a head,1,land animal
