@@ -319,6 +319,7 @@ ant,collects food,1,invertebrate
 ant,eats,1,invertebrate
 ant,eats leaves,1,invertebrate
 ant,has a face,1,invertebrate
+ant,has a hard exoskeleton,1,invertebrate
 ant,has a head,1,invertebrate
 ant,has a mouth,1,invertebrate
 ant,has a queen,1,invertebrate
@@ -326,7 +327,6 @@ ant,has a segmented body,1,invertebrate
 ant,has a thorax,1,invertebrate
 ant,has an antenna,1,invertebrate
 ant,has an exoskeleton,1,invertebrate
-ant,has bones,1,invertebrate
 ant,has eyes,1,invertebrate
 ant,has feet,1,invertebrate
 ant,has forelimbs,1,invertebrate
@@ -1860,6 +1860,7 @@ bear,has a head,1,land animal
 bear,has a mouth,1,land animal
 bear,has a neck,1,land animal
 bear,has a nose,1,land animal
+bear,has a snout,1,land animal
 bear,has a thorax,1,land animal
 bear,has a tongue,1,land animal
 bear,has an insatiable appetite,1,land animal
@@ -1874,6 +1875,7 @@ bear,has forelimbs,1,land animal
 bear,has four legs,1,land animal
 bear,has fur,1,land animal
 bear,has large paws,1,land animal
+bear,has large teeth,1,land animal
 bear,has legs,1,land animal
 bear,has paws,1,land animal
 bear,has sharp teeth,1,land animal
@@ -2042,6 +2044,7 @@ bee,collects food,1,invertebrate
 bee,eats,1,invertebrate
 bee,eats leaves,1,invertebrate
 bee,has a face,1,invertebrate
+bee,has a hard exoskeleton,1,invertebrate
 bee,has a head,1,invertebrate
 bee,has a mouth,1,invertebrate
 bee,has a queen,1,invertebrate
@@ -2051,7 +2054,6 @@ bee,has an antenna,1,invertebrate
 bee,has an exoskeleton,1,invertebrate
 bee,has black and yellow stripes,1,invertebrate
 bee,has black stripes,1,invertebrate
-bee,has bones,1,invertebrate
 bee,has eyes,1,invertebrate
 bee,has feet,1,invertebrate
 bee,has forelimbs,1,invertebrate
@@ -2162,6 +2164,7 @@ beetle,eats,1,invertebrate
 beetle,eats leaves,1,invertebrate
 beetle,has a face,1,invertebrate
 beetle,has a glossy surface,1,invertebrate
+beetle,has a hard exoskeleton,1,invertebrate
 beetle,has a hard shell,1,invertebrate
 beetle,has a hard surface,1,invertebrate
 beetle,has a head,1,invertebrate
@@ -2170,7 +2173,6 @@ beetle,has a shell,1,invertebrate
 beetle,has a thorax,1,invertebrate
 beetle,has an antenna,1,invertebrate
 beetle,has an exoskeleton,1,invertebrate
-beetle,has bones,1,invertebrate
 beetle,has eyes,1,invertebrate
 beetle,has feet,1,invertebrate
 beetle,has forelimbs,1,invertebrate
@@ -3853,6 +3855,7 @@ butterfly,eats leaves,1,invertebrate
 butterfly,grows from caterpillars,1,invertebrate
 butterfly,has a cocoon,1,invertebrate
 butterfly,has a face,1,invertebrate
+butterfly,has a hard exoskeleton,1,invertebrate
 butterfly,has a head,1,invertebrate
 butterfly,has a long tongue,1,invertebrate
 butterfly,has a mouth,1,invertebrate
@@ -3863,7 +3866,6 @@ butterfly,has a thorax,1,invertebrate
 butterfly,has a tongue,1,invertebrate
 butterfly,has an antenna,1,invertebrate
 butterfly,has an exoskeleton,1,invertebrate
-butterfly,has bones,1,invertebrate
 butterfly,has eyes,1,invertebrate
 butterfly,has feet,1,invertebrate
 butterfly,has forelimbs,1,invertebrate
@@ -3877,6 +3879,7 @@ butterfly,is a herbivore,1,invertebrate
 butterfly,is a living thing,1,invertebrate
 butterfly,is a social animal,1,invertebrate
 butterfly,is an animal,1,invertebrate
+butterfly,is an arthropod,1,invertebrate
 butterfly,is an insect,1,invertebrate
 butterfly,is an invertebrate,1,invertebrate
 butterfly,is caught by spiders,1,invertebrate
@@ -5093,7 +5096,6 @@ cat,can move,1,land animal
 cat,can pounce,1,land animal
 cat,can purr,1,land animal
 cat,can reproduce,1,land animal
-cat,can rub,1,land animal
 cat,can run,1,land animal
 cat,can run fast,1,land animal
 cat,can scratch,1,land animal
@@ -5226,13 +5228,13 @@ caterpillar,eats leaves,1,invertebrate
 caterpillar,goes through metamorphosis,1,invertebrate
 caterpillar,has a cocoon,1,invertebrate
 caterpillar,has a face,1,invertebrate
+caterpillar,has a hard exoskeleton,1,invertebrate
 caterpillar,has a head,1,invertebrate
 caterpillar,has a mouth,1,invertebrate
 caterpillar,has a segmented body,1,invertebrate
 caterpillar,has a thorax,1,invertebrate
 caterpillar,has an antenna,1,invertebrate
 caterpillar,has an exoskeleton,1,invertebrate
-caterpillar,has bones,1,invertebrate
 caterpillar,has eyes,1,invertebrate
 caterpillar,has forelimbs,1,invertebrate
 caterpillar,has fur,1,invertebrate
@@ -5442,6 +5444,7 @@ centipede,eats,1,invertebrate
 centipede,eats meat,1,invertebrate
 centipede,has a circular head,1,invertebrate
 centipede,has a face,1,invertebrate
+centipede,has a hard exoskeleton,1,invertebrate
 centipede,has a head,1,invertebrate
 centipede,has a hundred legs,1,invertebrate
 centipede,has a long body,1,invertebrate
@@ -5468,6 +5471,7 @@ centipede,is eaten by birds,1,invertebrate
 centipede,is found in unhygienic conditions,1,invertebrate
 centipede,is made of cells,1,invertebrate
 centipede,is made of flesh,1,invertebrate
+centipede,is nocturnal,1,invertebrate
 centipede,lives on the ground,1,invertebrate
 chainsaw,can be blunt,1,tool
 chainsaw,can be bought and sold at supermarkets,1,tool
@@ -6325,9 +6329,12 @@ cider,is served at fine-dining restaurants,1,drink
 cider,is used during cooking,1,drink
 cider,requires water,1,drink
 clam,can be bitter in taste,1,sea creature
+clam,can be bought and sold at supermarkets,1,sea creature
 clam,can be eaten,1,sea creature
 clam,can be fished,1,sea creature
 clam,can be found in seas,1,sea creature
+clam,can be found in shops,1,sea creature
+clam,can be found in supermarkets,1,sea creature
 clam,can be found in the wild,1,sea creature
 clam,can be found on beaches,1,sea creature
 clam,can be found underwater,1,sea creature
@@ -6354,11 +6361,12 @@ clam,has a big shell,1,sea creature
 clam,has a face,1,sea creature
 clam,has a filter,1,sea creature
 clam,has a fishy smell,1,sea creature
+clam,has a hard exoskeleton,1,sea creature
 clam,has a hard shell,1,sea creature
 clam,has a hard surface,1,sea creature
 clam,has a mouth,1,sea creature
 clam,has a shell,1,sea creature
-clam,has bones,1,sea creature
+clam,has an exoskeleton,1,sea creature
 clam,has eyes,1,sea creature
 clam,has hinges,1,sea creature
 clam,has ridges,1,sea creature
@@ -6366,6 +6374,7 @@ clam,has skin,1,sea creature
 clam,has two eyes,1,sea creature
 clam,has two halves,1,sea creature
 clam,is a bivalve,1,sea creature
+clam,is a delicacy,1,sea creature
 clam,is a living thing,1,sea creature
 clam,is a marine animal,1,sea creature
 clam,is a mollusc,1,sea creature
@@ -6375,6 +6384,7 @@ clam,is an animal,1,sea creature
 clam,is an invertebrate,1,sea creature
 clam,is aquatic,1,sea creature
 clam,is cold blooded,1,sea creature
+clam,is eaten as meat,1,sea creature
 clam,is eaten by humans,1,sea creature
 clam,is fished in nets,1,sea creature
 clam,is found in water,1,sea creature
@@ -6831,6 +6841,7 @@ cockroach,eats meat,1,invertebrate
 cockroach,has a bad smell,1,invertebrate
 cockroach,has a face,1,invertebrate
 cockroach,has a flat body,1,invertebrate
+cockroach,has a hard exoskeleton,1,invertebrate
 cockroach,has a hard shell,1,invertebrate
 cockroach,has a head,1,invertebrate
 cockroach,has a mouth,1,invertebrate
@@ -6839,7 +6850,6 @@ cockroach,has a thorax,1,invertebrate
 cockroach,has a wide back,1,invertebrate
 cockroach,has an antenna,1,invertebrate
 cockroach,has an exoskeleton,1,invertebrate
-cockroach,has bones,1,invertebrate
 cockroach,has eyes,1,invertebrate
 cockroach,has feet,1,invertebrate
 cockroach,has forelimbs,1,invertebrate
@@ -7424,6 +7434,7 @@ crab,can walk sideways,1,sea creature
 crab,eats,1,sea creature
 crab,eats meat,1,sea creature
 crab,has a fishy smell,1,sea creature
+crab,has a hard exoskeleton,1,sea creature
 crab,has a hard shell,1,sea creature
 crab,has a head,1,sea creature
 crab,has a mouth,1,sea creature
@@ -7431,7 +7442,6 @@ crab,has a shell,1,sea creature
 crab,has an antenna,1,sea creature
 crab,has an exoskeleton,1,sea creature
 crab,has big claws,1,sea creature
-crab,has bones,1,sea creature
 crab,has claws,1,sea creature
 crab,has eight legs,1,sea creature
 crab,has eyes,1,sea creature
@@ -7619,7 +7629,6 @@ crayfish,has a mouth,1,sea creature
 crayfish,has a shell,1,sea creature
 crayfish,has an antenna,1,sea creature
 crayfish,has an exoskeleton,1,sea creature
-crayfish,has bones,1,sea creature
 crayfish,has claws,1,sea creature
 crayfish,has eyes,1,sea creature
 crayfish,has fins,1,sea creature
@@ -7679,6 +7688,7 @@ cricket,can walk,1,invertebrate
 cricket,eats,1,invertebrate
 cricket,eats leaves,1,invertebrate
 cricket,has a face,1,invertebrate
+cricket,has a hard exoskeleton,1,invertebrate
 cricket,has a head,1,invertebrate
 cricket,has a mouth,1,invertebrate
 cricket,has a thorax,1,invertebrate
@@ -7686,7 +7696,6 @@ cricket,has an antenna,1,invertebrate
 cricket,has an exoskeleton,1,invertebrate
 cricket,has bent legs,1,invertebrate
 cricket,has big hind legs,1,invertebrate
-cricket,has bones,1,invertebrate
 cricket,has eyes,1,invertebrate
 cricket,has feet,1,invertebrate
 cricket,has forelimbs,1,invertebrate
@@ -7698,6 +7707,7 @@ cricket,has wings,1,invertebrate
 cricket,is a herbivore,1,invertebrate
 cricket,is a living thing,1,invertebrate
 cricket,is an animal,1,invertebrate
+cricket,is an arthropod,1,invertebrate
 cricket,is an insect,1,invertebrate
 cricket,is an invertebrate,1,invertebrate
 cricket,is cold blooded,1,invertebrate
@@ -7706,6 +7716,7 @@ cricket,is found in unhygienic conditions,1,invertebrate
 cricket,is made of cells,1,invertebrate
 cricket,is made of flesh,1,invertebrate
 cricket,is nocturnal,1,invertebrate
+cricket,lives on the ground,1,invertebrate
 cricket,makes a croaking sound,1,invertebrate
 cricket,makes noise with its legs,1,invertebrate
 crocodile,basks in the sun,1,land animal
@@ -8754,6 +8765,7 @@ dog,has a head,1,land animal
 dog,has a mouth,1,land animal
 dog,has a neck,1,land animal
 dog,has a nose,1,land animal
+dog,has a snout,1,land animal
 dog,has a strong smell,1,land animal
 dog,has a tail,1,land animal
 dog,has a thorax,1,land animal
@@ -8870,7 +8882,6 @@ dolphin,has a thorax,1,sea creature
 dolphin,has a tongue,1,sea creature
 dolphin,has babies that are called calves,1,sea creature
 dolphin,has blubber,1,sea creature
-dolphin,has bones,1,sea creature
 dolphin,has eyes,1,sea creature
 dolphin,has fins,1,sea creature
 dolphin,has flippers,1,sea creature
@@ -9133,6 +9144,7 @@ dragonfly,eats,1,invertebrate
 dragonfly,eats meat,1,invertebrate
 dragonfly,has a face,1,invertebrate
 dragonfly,has a glossy surface,1,invertebrate
+dragonfly,has a hard exoskeleton,1,invertebrate
 dragonfly,has a head,1,invertebrate
 dragonfly,has a long body,1,invertebrate
 dragonfly,has a long tail,1,invertebrate
@@ -9145,7 +9157,6 @@ dragonfly,has an antenna,1,invertebrate
 dragonfly,has an exoskeleton,1,invertebrate
 dragonfly,has big eyes,1,invertebrate
 dragonfly,has big wings,1,invertebrate
-dragonfly,has bones,1,invertebrate
 dragonfly,has compound eyes,1,invertebrate
 dragonfly,has eyes,1,invertebrate
 dragonfly,has feet,1,invertebrate
@@ -9157,6 +9168,7 @@ dragonfly,has skin,1,invertebrate
 dragonfly,has wings,1,invertebrate
 dragonfly,is a living thing,1,invertebrate
 dragonfly,is an animal,1,invertebrate
+dragonfly,is an arthropod,1,invertebrate
 dragonfly,is an insect,1,invertebrate
 dragonfly,is an invertebrate,1,invertebrate
 dragonfly,is cold blooded,1,invertebrate
@@ -10419,12 +10431,12 @@ flea,can walk,1,invertebrate
 flea,eats,1,invertebrate
 flea,eats meat,1,invertebrate
 flea,has a face,1,invertebrate
+flea,has a hard exoskeleton,1,invertebrate
 flea,has a head,1,invertebrate
 flea,has a mouth,1,invertebrate
 flea,has a thorax,1,invertebrate
 flea,has an antenna,1,invertebrate
 flea,has an exoskeleton,1,invertebrate
-flea,has bones,1,invertebrate
 flea,has claws,1,invertebrate
 flea,has eyes,1,invertebrate
 flea,has feet,1,invertebrate
@@ -10438,6 +10450,7 @@ flea,is a living thing,1,invertebrate
 flea,is a parasite,1,invertebrate
 flea,is a pest,1,invertebrate
 flea,is an animal,1,invertebrate
+flea,is an arthropod,1,invertebrate
 flea,is an insect,1,invertebrate
 flea,is an invertebrate,1,invertebrate
 flea,is cold blooded,1,invertebrate
@@ -11288,6 +11301,7 @@ giraffe,has a good sense of smell,1,land animal
 giraffe,has a head,1,land animal
 giraffe,has a long body,1,land animal
 giraffe,has a long neck,1,land animal
+giraffe,has a long tail,1,land animal
 giraffe,has a long tongue,1,land animal
 giraffe,has a mouth,1,land animal
 giraffe,has a neck,1,land animal
@@ -12031,6 +12045,7 @@ grasshopper,does jump long distances,1,invertebrate
 grasshopper,eats,1,invertebrate
 grasshopper,eats leaves,1,invertebrate
 grasshopper,has a face,1,invertebrate
+grasshopper,has a hard exoskeleton,1,invertebrate
 grasshopper,has a head,1,invertebrate
 grasshopper,has a mouth,1,invertebrate
 grasshopper,has a thorax,1,invertebrate
@@ -12038,7 +12053,6 @@ grasshopper,has an antenna,1,invertebrate
 grasshopper,has an exoskeleton,1,invertebrate
 grasshopper,has bent legs,1,invertebrate
 grasshopper,has big hind legs,1,invertebrate
-grasshopper,has bones,1,invertebrate
 grasshopper,has eyes,1,invertebrate
 grasshopper,has feet,1,invertebrate
 grasshopper,has forelimbs,1,invertebrate
@@ -13346,6 +13360,7 @@ hornet,eats,1,invertebrate
 hornet,eats meat,1,invertebrate
 hornet,has a face,1,invertebrate
 hornet,has a fatal sting,1,invertebrate
+hornet,has a hard exoskeleton,1,invertebrate
 hornet,has a head,1,invertebrate
 hornet,has a mouth,1,invertebrate
 hornet,has a queen,1,invertebrate
@@ -13354,7 +13369,6 @@ hornet,has a thorax,1,invertebrate
 hornet,has an antenna,1,invertebrate
 hornet,has an exoskeleton,1,invertebrate
 hornet,has black stripes,1,invertebrate
-hornet,has bones,1,invertebrate
 hornet,has eyes,1,invertebrate
 hornet,has feet,1,invertebrate
 hornet,has forelimbs,1,invertebrate
@@ -13614,6 +13628,7 @@ housefly,can walk,1,invertebrate
 housefly,eats,1,invertebrate
 housefly,eats meat,1,invertebrate
 housefly,has a face,1,invertebrate
+housefly,has a hard exoskeleton,1,invertebrate
 housefly,has a head,1,invertebrate
 housefly,has a mouth,1,invertebrate
 housefly,has a proboscis,1,invertebrate
@@ -13622,7 +13637,6 @@ housefly,has a thorax,1,invertebrate
 housefly,has an antenna,1,invertebrate
 housefly,has an exoskeleton,1,invertebrate
 housefly,has big eyes,1,invertebrate
-housefly,has bones,1,invertebrate
 housefly,has compound eyes,1,invertebrate
 housefly,has eyes,1,invertebrate
 housefly,has feet,1,invertebrate
@@ -14307,7 +14321,9 @@ jelly,is sticky,1,food
 jelly,is used during cooking,1,food
 jelly,is used in desserts,1,food
 jelly,is used in sponge cakes,1,food
+jellyfish,can be cooked,1,sea creature
 jellyfish,can be dangerous,1,sea creature
+jellyfish,can be fished,1,sea creature
 jellyfish,can be found in seas,1,sea creature
 jellyfish,can be found in the wild,1,sea creature
 jellyfish,can be found underwater,1,sea creature
@@ -14337,6 +14353,7 @@ jellyfish,has a mouth,1,sea creature
 jellyfish,has a sting,1,sea creature
 jellyfish,has eyes,1,sea creature
 jellyfish,has skin,1,sea creature
+jellyfish,has soft meat,1,sea creature
 jellyfish,has tentacles,1,sea creature
 jellyfish,has two eyes,1,sea creature
 jellyfish,is a living thing,1,sea creature
@@ -14351,6 +14368,7 @@ jellyfish,is found in water,1,sea creature
 jellyfish,is made of cells,1,sea creature
 jellyfish,is made of flesh,1,sea creature
 jellyfish,is round in shape,1,sea creature
+jellyfish,is seafood,1,sea creature
 jellyfish,is slimy,1,sea creature
 jellyfish,lives in deep waters,1,sea creature
 jellyfish,lives under water,1,sea creature
@@ -14996,6 +15014,7 @@ ladybird,eats,1,invertebrate
 ladybird,eats aphids,1,invertebrate
 ladybird,eats meat,1,invertebrate
 ladybird,has a face,1,invertebrate
+ladybird,has a hard exoskeleton,1,invertebrate
 ladybird,has a head,1,invertebrate
 ladybird,has a mouth,1,invertebrate
 ladybird,has a shell,1,invertebrate
@@ -15003,7 +15022,6 @@ ladybird,has a thorax,1,invertebrate
 ladybird,has an antenna,1,invertebrate
 ladybird,has an exoskeleton,1,invertebrate
 ladybird,has black spots,1,invertebrate
-ladybird,has bones,1,invertebrate
 ladybird,has eyes,1,invertebrate
 ladybird,has feet,1,invertebrate
 ladybird,has forelimbs,1,invertebrate
@@ -16092,6 +16110,7 @@ lobster,can walk sideways,1,sea creature
 lobster,eats,1,sea creature
 lobster,eats meat,1,sea creature
 lobster,has a fishy smell,1,sea creature
+lobster,has a hard exoskeleton,1,sea creature
 lobster,has a hard shell,1,sea creature
 lobster,has a head,1,sea creature
 lobster,has a mouth,1,sea creature
@@ -16100,7 +16119,6 @@ lobster,has a tail,1,sea creature
 lobster,has an antenna,1,sea creature
 lobster,has an exoskeleton,1,sea creature
 lobster,has big claws,1,sea creature
-lobster,has bones,1,sea creature
 lobster,has claws,1,sea creature
 lobster,has eyes,1,sea creature
 lobster,has feet,1,sea creature
@@ -16164,12 +16182,12 @@ locust,can walk,1,invertebrate
 locust,eats,1,invertebrate
 locust,eats leaves,1,invertebrate
 locust,has a face,1,invertebrate
+locust,has a hard exoskeleton,1,invertebrate
 locust,has a head,1,invertebrate
 locust,has a mouth,1,invertebrate
 locust,has a thorax,1,invertebrate
 locust,has an antenna,1,invertebrate
 locust,has an exoskeleton,1,invertebrate
-locust,has bones,1,invertebrate
 locust,has eyes,1,invertebrate
 locust,has feet,1,invertebrate
 locust,has forelimbs,1,invertebrate
@@ -16882,6 +16900,7 @@ millipede,can wriggle,1,invertebrate
 millipede,eats,1,invertebrate
 millipede,eats leaves,1,invertebrate
 millipede,has a face,1,invertebrate
+millipede,has a hard exoskeleton,1,invertebrate
 millipede,has a head,1,invertebrate
 millipede,has a mouth,1,invertebrate
 millipede,has a segmented body,1,invertebrate
@@ -17278,6 +17297,7 @@ mosquito,can walk,1,invertebrate
 mosquito,eats,1,invertebrate
 mosquito,eats meat,1,invertebrate
 mosquito,has a face,1,invertebrate
+mosquito,has a hard exoskeleton,1,invertebrate
 mosquito,has a head,1,invertebrate
 mosquito,has a high pitch,1,invertebrate
 mosquito,has a mouth,1,invertebrate
@@ -17285,7 +17305,6 @@ mosquito,has a proboscis,1,invertebrate
 mosquito,has a thorax,1,invertebrate
 mosquito,has an antenna,1,invertebrate
 mosquito,has an exoskeleton,1,invertebrate
-mosquito,has bones,1,invertebrate
 mosquito,has eyes,1,invertebrate
 mosquito,has feet,1,invertebrate
 mosquito,has forelimbs,1,invertebrate
@@ -17335,12 +17354,12 @@ moth,eats,1,invertebrate
 moth,eats leaves,1,invertebrate
 moth,grows from caterpillars,1,invertebrate
 moth,has a face,1,invertebrate
+moth,has a hard exoskeleton,1,invertebrate
 moth,has a head,1,invertebrate
 moth,has a mouth,1,invertebrate
 moth,has a thorax,1,invertebrate
 moth,has an antenna,1,invertebrate
 moth,has an exoskeleton,1,invertebrate
-moth,has bones,1,invertebrate
 moth,has eyes,1,invertebrate
 moth,has feet,1,invertebrate
 moth,has forelimbs,1,invertebrate
@@ -17474,6 +17493,7 @@ mouse,has a mouth,1,land animal
 mouse,has a neck,1,land animal
 mouse,has a nose,1,land animal
 mouse,has a short tail,1,land animal
+mouse,has a snout,1,land animal
 mouse,has a strong smell,1,land animal
 mouse,has a tail,1,land animal
 mouse,has a thorax,1,land animal
@@ -17665,11 +17685,12 @@ mussel,eats,1,sea creature
 mussel,eats meat,1,sea creature
 mussel,has a face,1,sea creature
 mussel,has a fishy smell,1,sea creature
+mussel,has a hard exoskeleton,1,sea creature
 mussel,has a hard shell,1,sea creature
 mussel,has a mouth,1,sea creature
 mussel,has a shell,1,sea creature
 mussel,has a soft body,1,sea creature
-mussel,has bones,1,sea creature
+mussel,has an exoskeleton,1,sea creature
 mussel,has skin,1,sea creature
 mussel,has two eyes,1,sea creature
 mussel,has two shells,1,sea creature
@@ -18881,12 +18902,13 @@ oyster,eats,1,sea creature
 oyster,eats meat,1,sea creature
 oyster,has a face,1,sea creature
 oyster,has a fishy smell,1,sea creature
+oyster,has a hard exoskeleton,1,sea creature
 oyster,has a hard shell,1,sea creature
 oyster,has a hard surface,1,sea creature
 oyster,has a mouth,1,sea creature
 oyster,has a shell,1,sea creature
 oyster,has a thick shell,1,sea creature
-oyster,has bones,1,sea creature
+oyster,has an exoskeleton,1,sea creature
 oyster,has skin,1,sea creature
 oyster,has soft meat,1,sea creature
 oyster,has two eyes,1,sea creature
@@ -19063,6 +19085,7 @@ panther,has four legs,1,land animal
 panther,has fur,1,land animal
 panther,has large muscles,1,land animal
 panther,has large paws,1,land animal
+panther,has large teeth,1,land animal
 panther,has legs,1,land animal
 panther,has paws,1,land animal
 panther,has sharp claws,1,land animal
@@ -20989,6 +21012,7 @@ prawn,eats,1,sea creature
 prawn,eats meat,1,sea creature
 prawn,has a face,1,sea creature
 prawn,has a fishy smell,1,sea creature
+prawn,has a hard exoskeleton,1,sea creature
 prawn,has a head,1,sea creature
 prawn,has a mouth,1,sea creature
 prawn,has a segmented body,1,sea creature
@@ -20996,7 +21020,7 @@ prawn,has a shell,1,sea creature
 prawn,has a strong smell,1,sea creature
 prawn,has a tail,1,sea creature
 prawn,has an antenna,1,sea creature
-prawn,has bones,1,sea creature
+prawn,has an exoskeleton,1,sea creature
 prawn,has eyes,1,sea creature
 prawn,has legs,1,sea creature
 prawn,has skin,1,sea creature
@@ -21696,6 +21720,7 @@ rat,has a mouth,1,land animal
 rat,has a neck,1,land animal
 rat,has a nose,1,land animal
 rat,has a short tail,1,land animal
+rat,has a snout,1,land animal
 rat,has a strong smell,1,land animal
 rat,has a tail,1,land animal
 rat,has a thorax,1,land animal
@@ -23003,7 +23028,6 @@ scallop,has a fishy smell,1,sea creature
 scallop,has a hard shell,1,sea creature
 scallop,has a mouth,1,sea creature
 scallop,has a shell,1,sea creature
-scallop,has bones,1,sea creature
 scallop,has eyes,1,sea creature
 scallop,has skin,1,sea creature
 scallop,has soft meat,1,sea creature
@@ -23192,6 +23216,7 @@ scorpion,eats meat,1,invertebrate
 scorpion,has a curly tail,1,invertebrate
 scorpion,has a face,1,invertebrate
 scorpion,has a fatal sting,1,invertebrate
+scorpion,has a hard exoskeleton,1,invertebrate
 scorpion,has a hard shell,1,invertebrate
 scorpion,has a head,1,invertebrate
 scorpion,has a mouth,1,invertebrate
@@ -23202,7 +23227,6 @@ scorpion,has a sting in its tail,1,invertebrate
 scorpion,has a tail,1,invertebrate
 scorpion,has a thorax,1,invertebrate
 scorpion,has an exoskeleton,1,invertebrate
-scorpion,has bones,1,invertebrate
 scorpion,has claws,1,invertebrate
 scorpion,has eight legs,1,invertebrate
 scorpion,has eyes,1,invertebrate
@@ -24045,6 +24069,7 @@ shrimp,eats,1,sea creature
 shrimp,eats meat,1,sea creature
 shrimp,has a face,1,sea creature
 shrimp,has a fishy smell,1,sea creature
+shrimp,has a hard exoskeleton,1,sea creature
 shrimp,has a head,1,sea creature
 shrimp,has a mouth,1,sea creature
 shrimp,has a segmented body,1,sea creature
@@ -24052,7 +24077,6 @@ shrimp,has a shell,1,sea creature
 shrimp,has a tail,1,sea creature
 shrimp,has an antenna,1,sea creature
 shrimp,has an exoskeleton,1,sea creature
-shrimp,has bones,1,sea creature
 shrimp,has eyes,1,sea creature
 shrimp,has gills,1,sea creature
 shrimp,has legs,1,sea creature
@@ -24379,12 +24403,12 @@ slug,can wriggle,1,invertebrate
 slug,eats,1,invertebrate
 slug,eats green leaves,1,invertebrate
 slug,eats leaves,1,invertebrate
+slug,has a hard exoskeleton,1,invertebrate
 slug,has a head,1,invertebrate
 slug,has a mouth,1,invertebrate
 slug,has a thorax,1,invertebrate
 slug,has an antenna,1,invertebrate
 slug,has an exoskeleton,1,invertebrate
-slug,has bones,1,invertebrate
 slug,has eyes,1,invertebrate
 slug,has eyes on tentacles,1,invertebrate
 slug,has moist skin,1,invertebrate
@@ -24432,6 +24456,7 @@ snail,can slide,1,invertebrate
 snail,eats,1,invertebrate
 snail,eats green leaves,1,invertebrate
 snail,eats leaves,1,invertebrate
+snail,has a hard exoskeleton,1,invertebrate
 snail,has a head,1,invertebrate
 snail,has a mouth,1,invertebrate
 snail,has a shell,1,invertebrate
@@ -24439,7 +24464,6 @@ snail,has a shell on its back,1,invertebrate
 snail,has a thorax,1,invertebrate
 snail,has an antenna,1,invertebrate
 snail,has an exoskeleton,1,invertebrate
-snail,has bones,1,invertebrate
 snail,has eyes,1,invertebrate
 snail,has eyes on tentacles,1,invertebrate
 snail,has moist skin,1,invertebrate
@@ -24946,11 +24970,12 @@ spider,eats flies,1,invertebrate
 spider,eats insects,1,invertebrate
 spider,eats meat,1,invertebrate
 spider,has a face,1,invertebrate
+spider,has a hard exoskeleton,1,invertebrate
 spider,has a head,1,invertebrate
 spider,has a mouth,1,invertebrate
 spider,has a thorax,1,invertebrate
 spider,has an exoskeleton,1,invertebrate
-spider,has bones,1,invertebrate
+spider,has eight eyes,1,invertebrate
 spider,has eight legs,1,invertebrate
 spider,has eyes,1,invertebrate
 spider,has fangs,1,invertebrate
@@ -24971,6 +24996,7 @@ spider,is cold blooded,1,invertebrate
 spider,is found in unhygienic conditions,1,invertebrate
 spider,is made of cells,1,invertebrate
 spider,is made of flesh,1,invertebrate
+spider,is nocturnal,1,invertebrate
 spider,lives on the ground,1,invertebrate
 spider,traps prey in web,1,invertebrate
 spinach,can be bitter in taste,1,vegetable
@@ -25381,13 +25407,13 @@ stick_insect,can walk,1,invertebrate
 stick_insect,eats,1,invertebrate
 stick_insect,eats leaves,1,invertebrate
 stick_insect,has a face,1,invertebrate
+stick_insect,has a hard exoskeleton,1,invertebrate
 stick_insect,has a head,1,invertebrate
 stick_insect,has a long body,1,invertebrate
 stick_insect,has a mouth,1,invertebrate
 stick_insect,has a thorax,1,invertebrate
 stick_insect,has an antenna,1,invertebrate
 stick_insect,has an exoskeleton,1,invertebrate
-stick_insect,has bones,1,invertebrate
 stick_insect,has eyes,1,invertebrate
 stick_insect,has feet,1,invertebrate
 stick_insect,has forelimbs,1,invertebrate
@@ -26536,12 +26562,12 @@ tarantula,eats insects,1,invertebrate
 tarantula,eats meat,1,invertebrate
 tarantula,has a big body,1,invertebrate
 tarantula,has a face,1,invertebrate
+tarantula,has a hard exoskeleton,1,invertebrate
 tarantula,has a head,1,invertebrate
 tarantula,has a mouth,1,invertebrate
 tarantula,has a thick body,1,invertebrate
 tarantula,has a thorax,1,invertebrate
 tarantula,has an exoskeleton,1,invertebrate
-tarantula,has bones,1,invertebrate
 tarantula,has eight eyes,1,invertebrate
 tarantula,has eight legs,1,invertebrate
 tarantula,has eyes,1,invertebrate
@@ -26566,6 +26592,7 @@ tarantula,is cold blooded,1,invertebrate
 tarantula,is found in unhygienic conditions,1,invertebrate
 tarantula,is made of cells,1,invertebrate
 tarantula,is made of flesh,1,invertebrate
+tarantula,is nocturnal,1,invertebrate
 tarantula,lives on the ground,1,invertebrate
 tarantula,traps prey in web,1,invertebrate
 taxi,can be black in color,1,vehicle
@@ -26780,12 +26807,12 @@ termite,eats,1,invertebrate
 termite,eats leaves,1,invertebrate
 termite,eats wood,1,invertebrate
 termite,has a face,1,invertebrate
+termite,has a hard exoskeleton,1,invertebrate
 termite,has a head,1,invertebrate
 termite,has a mouth,1,invertebrate
 termite,has a thorax,1,invertebrate
 termite,has an antenna,1,invertebrate
 termite,has an exoskeleton,1,invertebrate
-termite,has bones,1,invertebrate
 termite,has eyes,1,invertebrate
 termite,has feet,1,invertebrate
 termite,has forelimbs,1,invertebrate
@@ -28316,6 +28343,7 @@ turtle,can eat,1,sea creature
 turtle,can eat plants,1,sea creature
 turtle,can grow,1,sea creature
 turtle,can lay eggs,1,sea creature
+turtle,can lick,1,sea creature
 turtle,can live long,1,sea creature
 turtle,can live near the water,1,sea creature
 turtle,can make sounds,1,sea creature
@@ -28339,7 +28367,6 @@ turtle,has a tail,1,sea creature
 turtle,has a tongue,1,sea creature
 turtle,has arms,1,sea creature
 turtle,has beady eyes,1,sea creature
-turtle,has bones,1,sea creature
 turtle,has eyes,1,sea creature
 turtle,has feet,1,sea creature
 turtle,has fins,1,sea creature
@@ -28733,7 +28760,6 @@ walrus,has a thorax,1,sea creature
 walrus,has a tongue,1,sea creature
 walrus,has babies that are called cubs,1,sea creature
 walrus,has blubber,1,sea creature
-walrus,has bones,1,sea creature
 walrus,has eyes,1,sea creature
 walrus,has flippers,1,sea creature
 walrus,has forelimbs,1,sea creature
@@ -28860,6 +28886,7 @@ wasp,eats,1,invertebrate
 wasp,eats meat,1,invertebrate
 wasp,has a face,1,invertebrate
 wasp,has a fatal sting,1,invertebrate
+wasp,has a hard exoskeleton,1,invertebrate
 wasp,has a head,1,invertebrate
 wasp,has a mouth,1,invertebrate
 wasp,has a queen,1,invertebrate
@@ -28869,7 +28896,6 @@ wasp,has an antenna,1,invertebrate
 wasp,has an exoskeleton,1,invertebrate
 wasp,has big eyes,1,invertebrate
 wasp,has black stripes,1,invertebrate
-wasp,has bones,1,invertebrate
 wasp,has eyes,1,invertebrate
 wasp,has feet,1,invertebrate
 wasp,has forelimbs,1,invertebrate
@@ -29078,7 +29104,6 @@ whale,has a tongue,1,sea creature
 whale,has babies that are called calves,1,sea creature
 whale,has baleen,1,sea creature
 whale,has blubber,1,sea creature
-whale,has bones,1,sea creature
 whale,has eyes,1,sea creature
 whale,has fins,1,sea creature
 whale,has flippers,1,sea creature
@@ -29603,6 +29628,7 @@ worm,can wriggle,1,invertebrate
 worm,eats,1,invertebrate
 worm,eats dirt,1,invertebrate
 worm,eats leaves,1,invertebrate
+worm,has a hard exoskeleton,1,invertebrate
 worm,has a head,1,invertebrate
 worm,has a mouth,1,invertebrate
 worm,has a segmented body,1,invertebrate
@@ -29876,6 +29902,7 @@ zebra,eats meat,1,land animal
 zebra,has a face,1,land animal
 zebra,has a good sense of smell,1,land animal
 zebra,has a head,1,land animal
+zebra,has a long tail,1,land animal
 zebra,has a mane,1,land animal
 zebra,has a mouth,1,land animal
 zebra,has a neck,1,land animal

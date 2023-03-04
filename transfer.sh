@@ -12,6 +12,6 @@ cp ../induction/data/concept_matrix.txt data/
 
 cp ../induction/data/post_annotation_data/post_annotation_all_full.csv data/xcslb.csv
 
-cd src
 python negate.py
-cd ..
+
+python pluralize.py
