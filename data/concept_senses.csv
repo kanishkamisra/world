@@ -499,7 +499,7 @@ body part,eye,eye%1:08:00::,an eye
 clothing,apron,apron%1:06:00::,an apron
 clothing,armor,armor%1:06:00::,an armor
 clothing,earmuffs,earmuff%1:06:00::,earmuffs
-container,ashtray,yacht%1:06:00::,an ashtray
+container,ashtray,ashtray%1:06:00::,an ashtray
 fish,eel,eel%1:05:00::,an eel
 flower,orchid,orchid%1:20:00::,an orchid
 food,ice_cream,ice_cream%1:13:00::,ice cream
