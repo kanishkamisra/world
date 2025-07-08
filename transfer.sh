@@ -8,7 +8,7 @@ cp $MEGA_DIR/xcslb_compressed.csv data/
 
 cp $MEGA_DIR/post_annotation_data/feature_metadata.csv data/
 
-cp $MEGA_DIR/concept_senses.csv data/
+# cp $MEGA_DIR/concept_senses.csv data/
 
 cp $MEGA_DIR/concept_matrix.txt data/
 
