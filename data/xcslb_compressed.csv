@@ -353,6 +353,7 @@ ant,is made of flesh,1,invertebrate
 ant,lives in colonies,1,invertebrate
 ant,lives on the ground,1,invertebrate
 ant,lives under rocks,1,invertebrate
+apple,adds flavor to food,1,fruit
 apple,bruises over time,1,fruit
 apple,can attract insects,1,fruit
 apple,can be bought and sold at supermarkets,1,fruit
@@ -432,6 +433,7 @@ apple,is used in desserts,1,fruit
 apple,is white inside,1,fruit
 apple,performs photosynthesis,1,fruit
 apple,requires water,1,fruit
+apricot,adds flavor to food,1,fruit
 apricot,bruises over time,1,fruit
 apricot,can attract insects,1,fruit
 apricot,can be bought and sold at supermarkets,1,fruit
@@ -1250,6 +1252,7 @@ balloon,is round in shape,1,toy
 balloon,is used for recreation,1,toy
 balloon,is used in birthdays,1,toy
 balloon,is used in hot air balloons,1,toy
+banana,adds flavor to food,1,fruit
 banana,bruises over time,1,fruit
 banana,can attract insects,1,fruit
 banana,can be black in color,1,fruit
@@ -1608,6 +1611,7 @@ bat,has a head,1,land animal
 bat,has a mouth,1,land animal
 bat,has a neck,1,land animal
 bat,has a nose,1,land animal
+bat,has a tail,1,land animal
 bat,has a thorax,1,land animal
 bat,has a tongue,1,land animal
 bat,has big ears,1,land animal
@@ -1860,7 +1864,9 @@ bear,has a head,1,land animal
 bear,has a mouth,1,land animal
 bear,has a neck,1,land animal
 bear,has a nose,1,land animal
+bear,has a short tail,1,land animal
 bear,has a snout,1,land animal
+bear,has a tail,1,land animal
 bear,has a thorax,1,land animal
 bear,has a tongue,1,land animal
 bear,has an insatiable appetite,1,land animal
@@ -2554,6 +2560,7 @@ blouse,is used to cover the body,1,clothing
 blouse,is worn by humans,1,clothing
 blouse,is worn on upper body,1,clothing
 blouse,is worn outdoors,1,clothing
+blueberry,adds flavor to food,1,fruit
 blueberry,bruises over time,1,fruit
 blueberry,can attract insects,1,fruit
 blueberry,can be bought and sold at supermarkets,1,fruit
@@ -5807,6 +5814,7 @@ cheetah,is solitary,1,land animal
 cheetah,is territorial,1,land animal
 cheetah,is warm blooded,1,land animal
 cheetah,lives in jungles,1,land animal
+cherry,adds flavor to food,1,fruit
 cherry,bruises over time,1,fruit
 cherry,can attract insects,1,fruit
 cherry,can be bought and sold at supermarkets,1,fruit
@@ -6021,6 +6029,7 @@ chicken,has a head,1,bird
 chicken,has a mouth,1,bird
 chicken,has a neck,1,bird
 chicken,has a nose,1,bird
+chicken,has a tail,1,bird
 chicken,has a thorax,1,bird
 chicken,has a tongue,1,bird
 chicken,has bones,1,bird
@@ -6871,6 +6880,7 @@ cockroach,is hard to kill,1,invertebrate
 cockroach,is made of cells,1,invertebrate
 cockroach,is made of flesh,1,invertebrate
 cockroach,lives under rocks,1,invertebrate
+coconut,adds flavor to food,1,fruit
 coconut,bruises over time,1,fruit
 coconut,can attract insects,1,fruit
 coconut,can be bought and sold at supermarkets,1,fruit
@@ -8344,6 +8354,7 @@ dandelion,performs photosynthesis,1,flower
 dandelion,produces pollen,1,flower
 dandelion,requires sunlight,1,flower
 dandelion,requires water,1,flower
+date,adds flavor to food,1,fruit
 date,bruises over time,1,fruit
 date,can attract insects,1,fruit
 date,can be black in color,1,fruit
@@ -9447,6 +9458,7 @@ duck,has a head,1,bird
 duck,has a mouth,1,bird
 duck,has a neck,1,bird
 duck,has a nose,1,bird
+duck,has a tail,1,bird
 duck,has a thorax,1,bird
 duck,has a tongue,1,bird
 duck,has bones,1,bird
@@ -9532,6 +9544,7 @@ eagle,has a neck,1,bird
 eagle,has a nose,1,bird
 eagle,has a sharp beak,1,bird
 eagle,has a strong beak,1,bird
+eagle,has a tail,1,bird
 eagle,has a thorax,1,bird
 eagle,has a tongue,1,bird
 eagle,has big wings,1,bird
@@ -9952,6 +9965,7 @@ emu,has a mouth,1,bird
 emu,has a neck,1,bird
 emu,has a nose,1,bird
 emu,has a small head,1,bird
+emu,has a tail,1,bird
 emu,has a thorax,1,bird
 emu,has a tongue,1,bird
 emu,has bones,1,bird
@@ -10370,6 +10384,7 @@ flamingo,has a long neck,1,bird
 flamingo,has a mouth,1,bird
 flamingo,has a neck,1,bird
 flamingo,has a nose,1,bird
+flamingo,has a tail,1,bird
 flamingo,has a thorax,1,bird
 flamingo,has a tongue,1,bird
 flamingo,has bones,1,bird
@@ -11843,6 +11858,7 @@ gown,is worn on clothes,1,clothing
 gown,is worn on formal occasions,1,clothing
 gown,is worn outdoors,1,clothing
 gown,is worn to balls,1,clothing
+grape,adds flavor to food,1,fruit
 grape,bruises over time,1,fruit
 grape,can attract insects,1,fruit
 grape,can be bought and sold at supermarkets,1,fruit
@@ -11921,6 +11937,7 @@ grape,is used in desserts,1,fruit
 grape,is used to make wine,1,fruit
 grape,performs photosynthesis,1,fruit
 grape,requires water,1,fruit
+grapefruit,adds flavor to food,1,fruit
 grapefruit,bruises over time,1,fruit
 grapefruit,can attract insects,1,fruit
 grapefruit,can be bitter in taste,1,fruit
@@ -12794,6 +12811,7 @@ hawk,has a mouth,1,bird
 hawk,has a neck,1,bird
 hawk,has a nose,1,bird
 hawk,has a sharp beak,1,bird
+hawk,has a tail,1,bird
 hawk,has a thorax,1,bird
 hawk,has a tongue,1,bird
 hawk,has big wings,1,bird
@@ -13098,6 +13116,7 @@ heron,has a long neck,1,bird
 heron,has a mouth,1,bird
 heron,has a neck,1,bird
 heron,has a nose,1,bird
+heron,has a tail,1,bird
 heron,has a thorax,1,bird
 heron,has a tongue,1,bird
 heron,has big wings,1,bird
@@ -14761,6 +14780,7 @@ kite,is played with,1,toy
 kite,is popular with children,1,toy
 kite,is used for recreation,1,toy
 kite,requires wind,1,toy
+kiwi,adds flavor to food,1,fruit
 kiwi,bruises over time,1,fruit
 kiwi,can attract insects,1,fruit
 kiwi,can be bought and sold at supermarkets,1,fruit
@@ -15286,6 +15306,7 @@ leg,is used for standing,1,body part
 leg,is used for touching and feeling,1,body part
 leg,is used to jump,1,body part
 leg,transmits messages to the brain,1,body part
+lemon,adds flavor to food,1,fruit
 lemon,bruises over time,1,fruit
 lemon,can attract insects,1,fruit
 lemon,can be added to alcoholic drinks,1,fruit
@@ -16466,6 +16487,7 @@ magpie,is made of flesh,1,bird
 magpie,is semi aquatic,1,bird
 magpie,is streamlined,1,bird
 magpie,is warm blooded,1,bird
+mango,adds flavor to food,1,fruit
 mango,bruises over time,1,fruit
 mango,can attract insects,1,fruit
 mango,can be bought and sold at supermarkets,1,fruit
@@ -16666,6 +16688,7 @@ mayonnaise,is made up of ingredients,1,food
 mayonnaise,is made using butter,1,food
 mayonnaise,is used as an ingredient in recipes,1,food
 mayonnaise,is used during cooking,1,food
+melon,adds flavor to food,1,fruit
 melon,bruises over time,1,fruit
 melon,can attract insects,1,fruit
 melon,can be bought and sold at supermarkets,1,fruit
@@ -17180,6 +17203,7 @@ moose,has a head,1,land animal
 moose,has a mouth,1,land animal
 moose,has a neck,1,land animal
 moose,has a nose,1,land animal
+moose,has a tail,1,land animal
 moose,has a thorax,1,land animal
 moose,has a tongue,1,land animal
 moose,has antlers,1,land animal
@@ -17768,6 +17792,7 @@ nail,is used on wood,1,tool
 nail,is used to hang frames,1,tool
 nail,is used to hang things up,1,tool
 nail,requires skill to use,1,tool
+nectarine,adds flavor to food,1,fruit
 nectarine,bruises over time,1,fruit
 nectarine,can attract insects,1,fruit
 nectarine,can be bought and sold at supermarkets,1,fruit
@@ -17968,6 +17993,7 @@ nose,is used for smelling,1,body part
 nose,is used to inhale air,1,body part
 nose,produces mucus,1,body part
 nose,transmits messages to the brain,1,body part
+nut,adds flavor to food,1,fruit
 nut,can attract insects,1,fruit
 nut,can be bought and sold at supermarkets,1,fruit
 nut,can be brown in color,1,fruit
@@ -18335,6 +18361,7 @@ onion,is used during cooking,1,vegetable
 onion,is used on pizza,1,vegetable
 onion,performs photosynthesis,1,vegetable
 onion,requires water,1,vegetable
+orange,adds flavor to food,1,fruit
 orange,bruises over time,1,fruit
 orange,can attract insects,1,fruit
 orange,can be added to alcoholic drinks,1,fruit
@@ -18553,6 +18580,7 @@ ostrich,has a mouth,1,bird
 ostrich,has a neck,1,bird
 ostrich,has a nose,1,bird
 ostrich,has a small head,1,bird
+ostrich,has a tail,1,bird
 ostrich,has a thorax,1,bird
 ostrich,has a tongue,1,bird
 ostrich,has bones,1,bird
@@ -18751,6 +18779,7 @@ owl,has a neck,1,bird
 owl,has a nose,1,bird
 owl,has a sharp beak,1,bird
 owl,has a small beak,1,bird
+owl,has a tail,1,bird
 owl,has a thorax,1,bird
 owl,has a tongue,1,bird
 owl,has big eyes,1,bird
@@ -19422,6 +19451,7 @@ pea,is used as an ingredient in recipes,1,vegetable
 pea,is used during cooking,1,vegetable
 pea,performs photosynthesis,1,vegetable
 pea,requires water,1,vegetable
+peach,adds flavor to food,1,fruit
 peach,bruises over time,1,fruit
 peach,can attract insects,1,fruit
 peach,can be bought and sold at supermarkets,1,fruit
@@ -19582,6 +19612,7 @@ peacock,is used for display,1,bird
 peacock,is warm blooded,1,bird
 peacock,lives in grasslands,1,bird
 peacock,makes a screeching sound,1,bird
+peanut,adds flavor to food,1,fruit
 peanut,can attract insects,1,fruit
 peanut,can be bought and sold at supermarkets,1,fruit
 peanut,can be brown in color,1,fruit
@@ -19649,6 +19680,7 @@ peanut,is used during cooking,1,fruit
 peanut,is used in desserts,1,fruit
 peanut,performs photosynthesis,1,fruit
 peanut,requires water,1,fruit
+pear,adds flavor to food,1,fruit
 pear,bruises over time,1,fruit
 pear,can attract insects,1,fruit
 pear,can be bought and sold at supermarkets,1,fruit
@@ -19891,6 +19923,7 @@ penguin,has a head,1,bird
 penguin,has a mouth,1,bird
 penguin,has a neck,1,bird
 penguin,has a nose,1,bird
+penguin,has a tail,1,bird
 penguin,has a thorax,1,bird
 penguin,has a tongue,1,bird
 penguin,has big feet,1,bird
@@ -20194,6 +20227,7 @@ pigeon,has a head,1,bird
 pigeon,has a mouth,1,bird
 pigeon,has a neck,1,bird
 pigeon,has a nose,1,bird
+pigeon,has a tail,1,bird
 pigeon,has a thorax,1,bird
 pigeon,has a tongue,1,bird
 pigeon,has bones,1,bird
@@ -20277,6 +20311,7 @@ pine,performs photosynthesis,1,tree
 pine,produces wood,1,tree
 pine,requires sunlight,1,tree
 pine,requires water,1,tree
+pineapple,adds flavor to food,1,fruit
 pineapple,bruises over time,1,fruit
 pineapple,can attract insects,1,fruit
 pineapple,can be bought and sold at supermarkets,1,fruit
@@ -20619,6 +20654,7 @@ plow,is used to harvest,1,tool
 plow,requires pulling,1,tool
 plow,requires skill to use,1,tool
 plow,was pulled by horses,1,tool
+plum,adds flavor to food,1,fruit
 plum,bruises over time,1,fruit
 plum,can attract insects,1,fruit
 plum,can be bought and sold at supermarkets,1,fruit
@@ -20885,6 +20921,7 @@ porcupine,has a neck,1,land animal
 porcupine,has a nose,1,land animal
 porcupine,has a small face,1,land animal
 porcupine,has a spiky skin,1,land animal
+porcupine,has a tail,1,land animal
 porcupine,has a thorax,1,land animal
 porcupine,has a tongue,1,land animal
 porcupine,has bones,1,land animal
@@ -21604,6 +21641,7 @@ rake,is used to clear garden debris,1,tool
 rake,is used to clear leaves,1,tool
 rake,is used to gather,1,tool
 rake,requires skill to use,1,tool
+raspberry,adds flavor to food,1,fruit
 raspberry,bruises over time,1,fruit
 raspberry,can attract insects,1,fruit
 raspberry,can be bought and sold at supermarkets,1,fruit
@@ -22108,6 +22146,7 @@ rhino,is warm blooded,1,land animal
 rhino,lives in grasslands,1,land animal
 rhino,lives in jungles,1,land animal
 rhino,prefers muddy water,1,land animal
+rhubarb,adds flavor to food,1,fruit
 rhubarb,bruises over time,1,fruit
 rhubarb,can attract insects,1,fruit
 rhubarb,can be bitter in taste,1,fruit
@@ -22348,6 +22387,7 @@ robin,has a mouth,1,bird
 robin,has a neck,1,bird
 robin,has a nose,1,bird
 robin,has a red breast,1,bird
+robin,has a tail,1,bird
 robin,has a thorax,1,bird
 robin,has a tongue,1,bird
 robin,has bones,1,bird
@@ -22828,6 +22868,7 @@ satchel,is manmade,1,container
 satchel,is popular with children,1,container
 satchel,is portable,1,container
 satchel,is used to contain objects,1,container
+satsuma,adds flavor to food,1,fruit
 satsuma,bruises over time,1,fruit
 satsuma,can attract insects,1,fruit
 satsuma,can be bought and sold at supermarkets,1,fruit
@@ -23441,6 +23482,7 @@ seagull,has a head,1,bird
 seagull,has a mouth,1,bird
 seagull,has a neck,1,bird
 seagull,has a nose,1,bird
+seagull,has a tail,1,bird
 seagull,has a thorax,1,bird
 seagull,has a tongue,1,bird
 seagull,has a yellow and orange beak,1,bird
@@ -23899,6 +23941,7 @@ ship,makes stops,1,water vehicle
 ship,requires electricity,1,water vehicle
 ship,requires fuel to use,1,water vehicle
 ship,requires water,1,water vehicle
+shirt,absorbs sweat,1,clothing
 shirt,can be bought and sold at supermarkets,1,clothing
 shirt,can be fancy,1,clothing
 shirt,can be found in houses,1,clothing
@@ -25436,6 +25479,7 @@ stick_insect,is hard to see,1,invertebrate
 stick_insect,is made of cells,1,invertebrate
 stick_insect,is made of flesh,1,invertebrate
 stick_insect,looks like a stick,1,invertebrate
+stocking,absorbs sweat,1,clothing
 stocking,can be black in color,1,clothing
 stocking,can be bought and sold at supermarkets,1,clothing
 stocking,can be colorful,1,clothing
@@ -25606,6 +25650,7 @@ strainer,is used during cooking,1,kitchenware
 strainer,is used in the kitchen,1,kitchenware
 strainer,is used to strain,1,kitchenware
 strainer,is used to strain vegetables,1,kitchenware
+strawberry,adds flavor to food,1,fruit
 strawberry,bruises over time,1,fruit
 strawberry,can attract insects,1,fruit
 strawberry,can be bought and sold at supermarkets,1,fruit
@@ -25999,6 +26044,7 @@ swan,has a long neck,1,bird
 swan,has a mouth,1,bird
 swan,has a neck,1,bird
 swan,has a nose,1,bird
+swan,has a tail,1,bird
 swan,has a thorax,1,bird
 swan,has a tongue,1,bird
 swan,has an orange or yellow beak,1,bird
@@ -26390,6 +26436,7 @@ tambourine,makes a sound when shaken,1,music
 tambourine,requires skill to play,1,music
 tambourine,requires skill to use,1,music
 tambourine,requires two hands to play,1,music
+tangerine,adds flavor to food,1,fruit
 tangerine,bruises over time,1,fruit
 tangerine,can attract insects,1,fruit
 tangerine,can be bought and sold at supermarkets,1,fruit
@@ -28235,6 +28282,7 @@ turkey,has a mouth,1,bird
 turkey,has a neck,1,bird
 turkey,has a nose,1,bird
 turkey,has a saggy neck,1,bird
+turkey,has a tail,1,bird
 turkey,has a thorax,1,bird
 turkey,has a tongue,1,bird
 turkey,has bones,1,bird
@@ -28922,6 +28970,7 @@ wasp,is made of flesh,1,invertebrate
 wasp,is yellow and black in color,1,invertebrate
 wasp,lives in a hive,1,invertebrate
 wasp,makes a buzzing sound,1,invertebrate
+watermelon,adds flavor to food,1,fruit
 watermelon,bruises over time,1,fruit
 watermelon,can attract insects,1,fruit
 watermelon,can be bought and sold at supermarkets,1,fruit
